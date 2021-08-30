@@ -1,0 +1,125 @@
+Para objetos internos se consultan con un .
+Primero la llave de fuera . después la llave de adentro
+
+{"transit": /Metro/ }   las diagonales buscan los que tengan dentro de transit la palabra metro
+{"transit": /metro/i }  la i hace que se indiferente si es minusculas o mayusculas
+
+{"transit": /^m/ }  busca todo lo que inicia con m
+{"transit": /on$/ }  busca todo lo que termina con on
+
+
+Buscar alojamientos que no permitan fumar
+Filter
+{"house_rules": /.*no smoking.*/i }  aqui se especifica que haya antes y algo despues de la frase "no smoking"
+{"house_rules": /no smoking/i }  no importa en qué parte del texto este
+
+para buscar en 2 idiomas
+{$or: [{"house_rules": /no smok/i }, {"house_rules": /no fumar/i }]}  para buscar en 2 idiomas
+
+busca locaciones de españa en español
+{$or: [{"address.country": /Spain/i}, {"address.country": /españa/i}]}    
+
+locaciones de españa que no dejen fumar
+{$or: [{"address.country": /Spain/i}, {"address.country": /españa/i}], "house_rules": /fumar/i} 
+ 
+
+
+Para consultar en arreglos / array
+Se utilizan arreglos con los corchetes
+{"amenities": {$in: [/kitchen/i] } }
+
+{ $or :[ { "address.country" : /Spain/i }, { "address.country" : /España/i } ], "house_rules" : /fumar/i , "amenities": { $in: [/Kitchen/i] } }
+
+
+Not es la negación = inversión verdadero se convierte en falso 
+En esta instrucción decimos que no queremos cocina
+{"amenities": {$not: {$in:["Kitchen"]}}}
+
+
+Usando la colección sample_airbnb.listingsAndReviews, 
+agrega un filtro que permita obtener todas las publicaciones que tengan 
+50 o más comentarios, que la valoración sea mayor o igual a 80, 
+que cuenten con conexión a Internet vía cable y estén ubicada en Brazil. 
+
+
+{number_of_reviews: { $gte: 50 },
+"review_scores.review_scores_rating": { $gte: 80 },
+"amenities": { $in: [/ethernet/i] },
+"address.country": /Brazil/i}
+
+
+{  "number_of_reviews" : { $gte: 50 } , 
+    "review_scores.review_scores_rating" : { $gte : 80 } ,
+    "amenities" : {$in : [/ethernet/i] } ,
+    "address.country" : /brazil/i
+ }
+
+
+
+Los piplines nos pueden ayudar a sumar un arreglo con $addfields
+/**
+ * newField: The new field name.
+ * expression: The new field expression.
+ */
+{
+  "servicios": {$size:"$amenities"}
+}
+
+
+Puedo agregar otro arreglo como $sort para ordenar
+/**
+ * Provide any number of field/order pairs.
+ */
+{
+  "servicios": -1
+}
+
+
+
+
+
+Crea una agregacion, para encontrar las 10 propiedades mas baratas, 
+que sean tipo “casa”, que tienen conexión a Internet, sea desde 
+Wifi o desde cable (Ethernet).
+
+$match
+
+/**
+ * query: The query in MQL.
+ */
+{
+  property_type: /^house$/i,
+  "amenities": {$in: [/wifi/, /ethernet/i]}
+}
+
+
+
+$sort
+/**
+ * Provide any number of field/order pairs.
+ */
+{
+  "price": 1
+}
+
+
+$limit
+
+/**
+ * Provide the number of documents to limit.
+ */
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+

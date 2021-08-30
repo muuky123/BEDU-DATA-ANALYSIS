@@ -1,0 +1,695 @@
+[
+	{
+		"IdProducto" : 1,
+		"NombreProducto" : "Té Dharamsala",
+		"IdProveedor" : 1,
+		"IdCategoria" : 1,
+		"CantidadPorUnidad" : "10 cajas x 20 bolsas",
+		"PrecioUnidad" : 18,
+		"UnidadesEnExistencia" : 39
+	},
+	{
+		"IdProducto" : 2,
+		"NombreProducto" : "Cerveza tibetana Barley",
+		"IdProveedor" : 1,
+		"IdCategoria" : 1,
+		"CantidadPorUnidad" : "24 - bot. 12 l",
+		"PrecioUnidad" : 19,
+		"UnidadesEnExistencia" : 17
+	},
+	{
+		"IdProducto" : 3,
+		"NombreProducto" : "Sirope de regaliz",
+		"IdProveedor" : 1,
+		"IdCategoria" : 2,
+		"CantidadPorUnidad" : "12 - bot. 550 ml",
+		"PrecioUnidad" : 10,
+		"UnidadesEnExistencia" : 13
+	},
+	{
+		"IdProducto" : 4,
+		"NombreProducto" : "Especias Cajun del chef Anton",
+		"IdProveedor" : 2,
+		"IdCategoria" : 2,
+		"CantidadPorUnidad" : "48 - frascos 6 l",
+		"PrecioUnidad" : 22,
+		"UnidadesEnExistencia" : 53
+	},
+	{
+		"IdProducto" : 5,
+		"NombreProducto" : "Mezcla Gumbo del chef Anton",
+		"IdProveedor" : 2,
+		"IdCategoria" : 2,
+		"CantidadPorUnidad" : "36 cajas",
+		"PrecioUnidad" : 21.35,
+		"UnidadesEnExistencia" : 0
+	},
+	{
+		"IdProducto" : 6,
+		"NombreProducto" : "Mermelada de grosellas de la abuela",
+		"IdProveedor" : 3,
+		"IdCategoria" : 2,
+		"CantidadPorUnidad" : "12 - frascos 8 l",
+		"PrecioUnidad" : 25,
+		"UnidadesEnExistencia" : 120
+	},
+	{
+		"IdProducto" : 7,
+		"NombreProducto" : "Peras secas orgánicas del tío Bob",
+		"IdProveedor" : 3,
+		"IdCategoria" : 7,
+		"CantidadPorUnidad" : "12 - paq. 1 kg",
+		"PrecioUnidad" : 30,
+		"UnidadesEnExistencia" : 15
+	},
+	{
+		"IdProducto" : 8,
+		"NombreProducto" : "Salsa de arándanos Northwoods",
+		"IdProveedor" : 3,
+		"IdCategoria" : 2,
+		"CantidadPorUnidad" : "12 - frascos 12 l",
+		"PrecioUnidad" : 40,
+		"UnidadesEnExistencia" : 6
+	},
+	{
+		"IdProducto" : 9,
+		"NombreProducto" : "Buey Mishi Kobe",
+		"IdProveedor" : 4,
+		"IdCategoria" : 6,
+		"CantidadPorUnidad" : "18 - paq. 500 g",
+		"PrecioUnidad" : 97,
+		"UnidadesEnExistencia" : 29
+	},
+	{
+		"IdProducto" : 10,
+		"NombreProducto" : "Pez espada",
+		"IdProveedor" : 4,
+		"IdCategoria" : 8,
+		"CantidadPorUnidad" : "12 - frascos 200 ml",
+		"PrecioUnidad" : 31,
+		"UnidadesEnExistencia" : 31
+	},
+	{
+		"IdProducto" : 11,
+		"NombreProducto" : "Queso Cabrales",
+		"IdProveedor" : 5,
+		"IdCategoria" : 4,
+		"CantidadPorUnidad" : "paq. 1 kg",
+		"PrecioUnidad" : 21,
+		"UnidadesEnExistencia" : 22
+	},
+	{
+		"IdProducto" : 12,
+		"NombreProducto" : "Queso Manchego La Pastora",
+		"IdProveedor" : 5,
+		"IdCategoria" : 4,
+		"CantidadPorUnidad" : "10 - paq. 500 g",
+		"PrecioUnidad" : 38,
+		"UnidadesEnExistencia" : 86
+	},
+	{
+		"IdProducto" : 13,
+		"NombreProducto" : "Algas Konbu",
+		"IdProveedor" : 6,
+		"IdCategoria" : 8,
+		"CantidadPorUnidad" : "caja 2 kg",
+		"PrecioUnidad" : 6,
+		"UnidadesEnExistencia" : 24
+	},
+	{
+		"IdProducto" : 14,
+		"NombreProducto" : "Cuajada de judías",
+		"IdProveedor" : 6,
+		"IdCategoria" : 7,
+		"CantidadPorUnidad" : "40 - paq. 100 g",
+		"PrecioUnidad" : 23.25,
+		"UnidadesEnExistencia" : 35
+	},
+	{
+		"IdProducto" : 15,
+		"NombreProducto" : "Salsa de soja baja en sodio",
+		"IdProveedor" : 6,
+		"IdCategoria" : 2,
+		"CantidadPorUnidad" : "24 - bot. 250 ml",
+		"PrecioUnidad" : 15.5,
+		"UnidadesEnExistencia" : 39
+	},
+	{
+		"IdProducto" : 16,
+		"NombreProducto" : "Postre de merengue Pavlova",
+		"IdProveedor" : 7,
+		"IdCategoria" : 3,
+		"CantidadPorUnidad" : "32 - cajas 500 g",
+		"PrecioUnidad" : 17.45,
+		"UnidadesEnExistencia" : 29
+	},
+	{
+		"IdProducto" : 17,
+		"NombreProducto" : "Cordero Alice Springs",
+		"IdProveedor" : 7,
+		"IdCategoria" : 6,
+		"CantidadPorUnidad" : "20 - latas 1 kg",
+		"PrecioUnidad" : 39,
+		"UnidadesEnExistencia" : 0
+	},
+	{
+		"IdProducto" : 18,
+		"NombreProducto" : "Langostinos tigre Carnarvon",
+		"IdProveedor" : 7,
+		"IdCategoria" : 8,
+		"CantidadPorUnidad" : "paq. 16 kg",
+		"PrecioUnidad" : 62.5,
+		"UnidadesEnExistencia" : 42
+	},
+	{
+		"IdProducto" : 19,
+		"NombreProducto" : "Pastas de té de chocolate",
+		"IdProveedor" : 8,
+		"IdCategoria" : 3,
+		"CantidadPorUnidad" : "10 cajas x 12 piezas",
+		"PrecioUnidad" : 9.2,
+		"UnidadesEnExistencia" : 25
+	},
+	{
+		"IdProducto" : 20,
+		"NombreProducto" : "Mermelada de Sir Rodney's",
+		"IdProveedor" : 8,
+		"IdCategoria" : 3,
+		"CantidadPorUnidad" : "30 cajas regalo",
+		"PrecioUnidad" : 81,
+		"UnidadesEnExistencia" : 40
+	},
+	{
+		"IdProducto" : 21,
+		"NombreProducto" : "Bollos de Sir Rodney's",
+		"IdProveedor" : 8,
+		"IdCategoria" : 3,
+		"CantidadPorUnidad" : "24 paq. x 4 piezas",
+		"PrecioUnidad" : 10,
+		"UnidadesEnExistencia" : 3
+	},
+	{
+		"IdProducto" : 22,
+		"NombreProducto" : "Pan de centeno crujiente estilo Gustaf's",
+		"IdProveedor" : 9,
+		"IdCategoria" : 5,
+		"CantidadPorUnidad" : "24 - paq. 500 g",
+		"PrecioUnidad" : 21,
+		"UnidadesEnExistencia" : 104
+	},
+	{
+		"IdProducto" : 23,
+		"NombreProducto" : "Pan fino",
+		"IdProveedor" : 9,
+		"IdCategoria" : 5,
+		"CantidadPorUnidad" : "12 - paq. 250 g",
+		"PrecioUnidad" : 9,
+		"UnidadesEnExistencia" : 61
+	},
+	{
+		"IdProducto" : 24,
+		"NombreProducto" : "Refresco Guaraná Fantástica",
+		"IdProveedor" : 10,
+		"IdCategoria" : 1,
+		"CantidadPorUnidad" : "12 - latas 355 ml",
+		"PrecioUnidad" : 4.5,
+		"UnidadesEnExistencia" : 20
+	},
+	{
+		"IdProducto" : 25,
+		"NombreProducto" : "Crema de chocolate y nueces NuNuCa",
+		"IdProveedor" : 11,
+		"IdCategoria" : 3,
+		"CantidadPorUnidad" : "20 - vasos  450 g",
+		"PrecioUnidad" : 14,
+		"UnidadesEnExistencia" : 76
+	},
+	{
+		"IdProducto" : 26,
+		"NombreProducto" : "Ositos de goma Gumbär",
+		"IdProveedor" : 11,
+		"IdCategoria" : 3,
+		"CantidadPorUnidad" : "100 - bolsas 250 g",
+		"PrecioUnidad" : 31.23,
+		"UnidadesEnExistencia" : 15
+	},
+	{
+		"IdProducto" : 27,
+		"NombreProducto" : "Chocolate Schoggi",
+		"IdProveedor" : 11,
+		"IdCategoria" : 3,
+		"CantidadPorUnidad" : "100 - piezas 100 g",
+		"PrecioUnidad" : 43.9,
+		"UnidadesEnExistencia" : 49
+	},
+	{
+		"IdProducto" : 28,
+		"NombreProducto" : "Col fermentada Rössle",
+		"IdProveedor" : 12,
+		"IdCategoria" : 7,
+		"CantidadPorUnidad" : "25 - latas 825 g",
+		"PrecioUnidad" : 45.6,
+		"UnidadesEnExistencia" : 26
+	},
+	{
+		"IdProducto" : 29,
+		"NombreProducto" : "Salchicha Thüringer",
+		"IdProveedor" : 12,
+		"IdCategoria" : 6,
+		"CantidadPorUnidad" : "50 bolsas x 30 salch",
+		"PrecioUnidad" : 123.79,
+		"UnidadesEnExistencia" : 0
+	},
+	{
+		"IdProducto" : 30,
+		"NombreProducto" : "Arenque blanco del noroeste",
+		"IdProveedor" : 13,
+		"IdCategoria" : 8,
+		"CantidadPorUnidad" : "10 - vasos 200 g",
+		"PrecioUnidad" : 25.89,
+		"UnidadesEnExistencia" : 10
+	},
+	{
+		"IdProducto" : 31,
+		"NombreProducto" : "Queso gorgonzola Telino",
+		"IdProveedor" : 14,
+		"IdCategoria" : 4,
+		"CantidadPorUnidad" : "12 - paq. 100 g",
+		"PrecioUnidad" : 12.5,
+		"UnidadesEnExistencia" : 0
+	},
+	{
+		"IdProducto" : 32,
+		"NombreProducto" : "Queso Mascarpone Fabioli",
+		"IdProveedor" : 14,
+		"IdCategoria" : 4,
+		"CantidadPorUnidad" : "24 - paq. 200 g",
+		"PrecioUnidad" : 32,
+		"UnidadesEnExistencia" : 9
+	},
+	{
+		"IdProducto" : 33,
+		"NombreProducto" : "Queso de cabra",
+		"IdProveedor" : 15,
+		"IdCategoria" : 4,
+		"CantidadPorUnidad" : "500 g",
+		"PrecioUnidad" : 2.5,
+		"UnidadesEnExistencia" : 112
+	},
+	{
+		"IdProducto" : 34,
+		"NombreProducto" : "Cerveza Sasquatch",
+		"IdProveedor" : 16,
+		"IdCategoria" : 1,
+		"CantidadPorUnidad" : "24 - bot. 12 l",
+		"PrecioUnidad" : 14,
+		"UnidadesEnExistencia" : 111
+	},
+	{
+		"IdProducto" : 35,
+		"NombreProducto" : "Cerveza negra Steeleye",
+		"IdProveedor" : 16,
+		"IdCategoria" : 1,
+		"CantidadPorUnidad" : "24 - bot. 12 l",
+		"PrecioUnidad" : 18,
+		"UnidadesEnExistencia" : 20
+	},
+	{
+		"IdProducto" : 36,
+		"NombreProducto" : "Escabeche de arenque",
+		"IdProveedor" : 17,
+		"IdCategoria" : 8,
+		"CantidadPorUnidad" : "24 - frascos 250 g",
+		"PrecioUnidad" : 19,
+		"UnidadesEnExistencia" : 112
+	},
+	{
+		"IdProducto" : 37,
+		"NombreProducto" : "Salmón ahumado Gravad",
+		"IdProveedor" : 17,
+		"IdCategoria" : 8,
+		"CantidadPorUnidad" : "12 - paq. 500 g",
+		"PrecioUnidad" : 26,
+		"UnidadesEnExistencia" : 11
+	},
+	{
+		"IdProducto" : 38,
+		"NombreProducto" : "Vino Côte de Blaye",
+		"IdProveedor" : 18,
+		"IdCategoria" : 1,
+		"CantidadPorUnidad" : "12 - bot. 75 cl",
+		"PrecioUnidad" : 263.5,
+		"UnidadesEnExistencia" : 17
+	},
+	{
+		"IdProducto" : 39,
+		"NombreProducto" : "Licor verde Chartreuse",
+		"IdProveedor" : 18,
+		"IdCategoria" : 1,
+		"CantidadPorUnidad" : "750 cc por bot.",
+		"PrecioUnidad" : 18,
+		"UnidadesEnExistencia" : 69
+	},
+	{
+		"IdProducto" : 40,
+		"NombreProducto" : "Carne de cangrejo de Boston",
+		"IdProveedor" : 19,
+		"IdCategoria" : 8,
+		"CantidadPorUnidad" : "24 - latas 4 l",
+		"PrecioUnidad" : 18.4,
+		"UnidadesEnExistencia" : 123
+	},
+	{
+		"IdProducto" : 41,
+		"NombreProducto" : "Crema de almejas estilo Nueva Inglaterra",
+		"IdProveedor" : 19,
+		"IdCategoria" : 8,
+		"CantidadPorUnidad" : "12 - latas 12 l",
+		"PrecioUnidad" : 9.65,
+		"UnidadesEnExistencia" : 85
+	},
+	{
+		"IdProducto" : 42,
+		"NombreProducto" : "Tallarines de Singapur",
+		"IdProveedor" : 20,
+		"IdCategoria" : 5,
+		"CantidadPorUnidad" : "32 - 1 kg paq.",
+		"PrecioUnidad" : 14,
+		"UnidadesEnExistencia" : 26
+	},
+	{
+		"IdProducto" : 43,
+		"NombreProducto" : "Café de Malasia",
+		"IdProveedor" : 20,
+		"IdCategoria" : 1,
+		"CantidadPorUnidad" : "16 - latas 500 g",
+		"PrecioUnidad" : 46,
+		"UnidadesEnExistencia" : 17
+	},
+	{
+		"IdProducto" : 44,
+		"NombreProducto" : "Azúcar negra Malacca",
+		"IdProveedor" : 20,
+		"IdCategoria" : 2,
+		"CantidadPorUnidad" : "20 - bolsas 2 kg",
+		"PrecioUnidad" : 19.45,
+		"UnidadesEnExistencia" : 27
+	},
+	{
+		"IdProducto" : 45,
+		"NombreProducto" : "Arenque ahumado",
+		"IdProveedor" : 21,
+		"IdCategoria" : 8,
+		"CantidadPorUnidad" : "paq. 1k",
+		"PrecioUnidad" : 9.5,
+		"UnidadesEnExistencia" : 5
+	},
+	{
+		"IdProducto" : 46,
+		"NombreProducto" : "Arenque salado",
+		"IdProveedor" : 21,
+		"IdCategoria" : 8,
+		"CantidadPorUnidad" : "4 - vasos 450 g",
+		"PrecioUnidad" : 12,
+		"UnidadesEnExistencia" : 95
+	},
+	{
+		"IdProducto" : 47,
+		"NombreProducto" : "Galletas Zaanse",
+		"IdProveedor" : 22,
+		"IdCategoria" : 3,
+		"CantidadPorUnidad" : "10 - cajas 4 l",
+		"PrecioUnidad" : 9.5,
+		"UnidadesEnExistencia" : 36
+	},
+	{
+		"IdProducto" : 48,
+		"NombreProducto" : "Chocolate holandés",
+		"IdProveedor" : 22,
+		"IdCategoria" : 3,
+		"CantidadPorUnidad" : "10 paq.",
+		"PrecioUnidad" : 12.75,
+		"UnidadesEnExistencia" : 15
+	},
+	{
+		"IdProducto" : 49,
+		"NombreProducto" : "Regaliz",
+		"IdProveedor" : 23,
+		"IdCategoria" : 3,
+		"CantidadPorUnidad" : "24 - paq. 50 g",
+		"PrecioUnidad" : 20,
+		"UnidadesEnExistencia" : 10
+	},
+	{
+		"IdProducto" : 50,
+		"NombreProducto" : "Chocolate blanco",
+		"IdProveedor" : 23,
+		"IdCategoria" : 3,
+		"CantidadPorUnidad" : "12 - barras 100 g",
+		"PrecioUnidad" : 16.25,
+		"UnidadesEnExistencia" : 65
+	},
+	{
+		"IdProducto" : 51,
+		"NombreProducto" : "Manzanas secas Manjimup",
+		"IdProveedor" : 24,
+		"IdCategoria" : 7,
+		"CantidadPorUnidad" : "50 - paq. 300 g",
+		"PrecioUnidad" : 53,
+		"UnidadesEnExistencia" : 20
+	},
+	{
+		"IdProducto" : 52,
+		"NombreProducto" : "Cereales para Filo",
+		"IdProveedor" : 24,
+		"IdCategoria" : 5,
+		"CantidadPorUnidad" : "16 - cajas 2 kg",
+		"PrecioUnidad" : 7,
+		"UnidadesEnExistencia" : 38
+	},
+	{
+		"IdProducto" : 53,
+		"NombreProducto" : "Empanada de carne",
+		"IdProveedor" : 24,
+		"IdCategoria" : 6,
+		"CantidadPorUnidad" : "48 porc.",
+		"PrecioUnidad" : 32.8,
+		"UnidadesEnExistencia" : 0
+	},
+	{
+		"IdProducto" : 54,
+		"NombreProducto" : "Empanada de cerdo",
+		"IdProveedor" : 25,
+		"IdCategoria" : 6,
+		"CantidadPorUnidad" : "16 tartas",
+		"PrecioUnidad" : 7.45,
+		"UnidadesEnExistencia" : 21
+	},
+	{
+		"IdProducto" : 55,
+		"NombreProducto" : "Paté chino",
+		"IdProveedor" : 25,
+		"IdCategoria" : 6,
+		"CantidadPorUnidad" : "24 cajas x 2 tartas",
+		"PrecioUnidad" : 24,
+		"UnidadesEnExistencia" : 115
+	},
+	{
+		"IdProducto" : 56,
+		"NombreProducto" : "Gnocchi de la abuela Alicia",
+		"IdProveedor" : 26,
+		"IdCategoria" : 5,
+		"CantidadPorUnidad" : "24 - paq. 250 g",
+		"PrecioUnidad" : 38,
+		"UnidadesEnExistencia" : 21
+	},
+	{
+		"IdProducto" : 57,
+		"NombreProducto" : "Raviolis Angelo",
+		"IdProveedor" : 26,
+		"IdCategoria" : 5,
+		"CantidadPorUnidad" : "24 - paq. 250 g",
+		"PrecioUnidad" : 19.5,
+		"UnidadesEnExistencia" : 36
+	},
+	{
+		"IdProducto" : 58,
+		"NombreProducto" : "Caracoles de Borgoña",
+		"IdProveedor" : 27,
+		"IdCategoria" : 8,
+		"CantidadPorUnidad" : "24 porc.",
+		"PrecioUnidad" : 13.25,
+		"UnidadesEnExistencia" : 62
+	},
+	{
+		"IdProducto" : 59,
+		"NombreProducto" : "Raclet de queso Courdavault",
+		"IdProveedor" : 28,
+		"IdCategoria" : 4,
+		"CantidadPorUnidad" : "paq. 5 kg",
+		"PrecioUnidad" : 55,
+		"UnidadesEnExistencia" : 79
+	},
+	{
+		"IdProducto" : 60,
+		"NombreProducto" : "Camembert Pierrot",
+		"IdProveedor" : 28,
+		"IdCategoria" : 4,
+		"CantidadPorUnidad" : "15 - paq. 300 g",
+		"PrecioUnidad" : 34,
+		"UnidadesEnExistencia" : 19
+	},
+	{
+		"IdProducto" : 61,
+		"NombreProducto" : "Sirope de arce",
+		"IdProveedor" : 29,
+		"IdCategoria" : 2,
+		"CantidadPorUnidad" : "24 - bot. 500 ml",
+		"PrecioUnidad" : 28.5,
+		"UnidadesEnExistencia" : 113
+	},
+	{
+		"IdProducto" : 62,
+		"NombreProducto" : "Tarta de azúcar",
+		"IdProveedor" : 29,
+		"IdCategoria" : 3,
+		"CantidadPorUnidad" : "48 tartas",
+		"PrecioUnidad" : 49.3,
+		"UnidadesEnExistencia" : 17
+	},
+	{
+		"IdProducto" : 63,
+		"NombreProducto" : "Sandwich de vegetales",
+		"IdProveedor" : 7,
+		"IdCategoria" : 2,
+		"CantidadPorUnidad" : "15 - frascos 625 g",
+		"PrecioUnidad" : 43.9,
+		"UnidadesEnExistencia" : 24
+	},
+	{
+		"IdProducto" : 64,
+		"NombreProducto" : "Bollos de pan de Wimmer",
+		"IdProveedor" : 12,
+		"IdCategoria" : 5,
+		"CantidadPorUnidad" : "20 bolsas x 4 porc.",
+		"PrecioUnidad" : 33.25,
+		"UnidadesEnExistencia" : 22
+	},
+	{
+		"IdProducto" : 65,
+		"NombreProducto" : "Salsa de pimiento picante de Luisiana",
+		"IdProveedor" : 2,
+		"IdCategoria" : 2,
+		"CantidadPorUnidad" : "32 - bot. 8 l",
+		"PrecioUnidad" : 21.05,
+		"UnidadesEnExistencia" : 76
+	},
+	{
+		"IdProducto" : 66,
+		"NombreProducto" : "Especias picantes de Luisiana",
+		"IdProveedor" : 2,
+		"IdCategoria" : 2,
+		"CantidadPorUnidad" : "24 - frascos 8 l",
+		"PrecioUnidad" : 17,
+		"UnidadesEnExistencia" : 4
+	},
+	{
+		"IdProducto" : 67,
+		"NombreProducto" : "Cerveza Laughing Lumberjack",
+		"IdProveedor" : 16,
+		"IdCategoria" : 1,
+		"CantidadPorUnidad" : "24 - bot. 12 l",
+		"PrecioUnidad" : 14,
+		"UnidadesEnExistencia" : 52
+	},
+	{
+		"IdProducto" : 68,
+		"NombreProducto" : "Barras de pan de Escocia",
+		"IdProveedor" : 8,
+		"IdCategoria" : 3,
+		"CantidadPorUnidad" : "10 cajas x 8 porc.",
+		"PrecioUnidad" : 12.5,
+		"UnidadesEnExistencia" : 6
+	},
+	{
+		"IdProducto" : 69,
+		"NombreProducto" : "Queso Gudbrandsdals",
+		"IdProveedor" : 15,
+		"IdCategoria" : 4,
+		"CantidadPorUnidad" : "paq. 10 kg",
+		"PrecioUnidad" : 36,
+		"UnidadesEnExistencia" : 26
+	},
+	{
+		"IdProducto" : 70,
+		"NombreProducto" : "Cerveza Outback",
+		"IdProveedor" : 7,
+		"IdCategoria" : 1,
+		"CantidadPorUnidad" : "24 - bot. 355 ml",
+		"PrecioUnidad" : 15,
+		"UnidadesEnExistencia" : 15
+	},
+	{
+		"IdProducto" : 71,
+		"NombreProducto" : "Crema de queso Fløtemys",
+		"IdProveedor" : 15,
+		"IdCategoria" : 4,
+		"CantidadPorUnidad" : "10 - paq. 500 g",
+		"PrecioUnidad" : 21.5,
+		"UnidadesEnExistencia" : 26
+	},
+	{
+		"IdProducto" : 72,
+		"NombreProducto" : "Queso Mozzarella Giovanni",
+		"IdProveedor" : 14,
+		"IdCategoria" : 4,
+		"CantidadPorUnidad" : "24 - paq. 200 g",
+		"PrecioUnidad" : 34.8,
+		"UnidadesEnExistencia" : 14
+	},
+	{
+		"IdProducto" : 73,
+		"NombreProducto" : "Caviar rojo",
+		"IdProveedor" : 17,
+		"IdCategoria" : 8,
+		"CantidadPorUnidad" : "24 - frascos150 g",
+		"PrecioUnidad" : 15,
+		"UnidadesEnExistencia" : 101
+	},
+	{
+		"IdProducto" : 74,
+		"NombreProducto" : "Queso de soja Longlife",
+		"IdProveedor" : 4,
+		"IdCategoria" : 7,
+		"CantidadPorUnidad" : "paq. 5 kg",
+		"PrecioUnidad" : 10,
+		"UnidadesEnExistencia" : 4
+	},
+	{
+		"IdProducto" : 75,
+		"NombreProducto" : "Cerveza Klosterbier Rhönbräu",
+		"IdProveedor" : 12,
+		"IdCategoria" : 1,
+		"CantidadPorUnidad" : "24 - bot. 0,5 l",
+		"PrecioUnidad" : 7.75,
+		"UnidadesEnExistencia" : 125
+	},
+	{
+		"IdProducto" : 76,
+		"NombreProducto" : "Licor Cloudberry",
+		"IdProveedor" : 23,
+		"IdCategoria" : 1,
+		"CantidadPorUnidad" : "500 ml",
+		"PrecioUnidad" : 18,
+		"UnidadesEnExistencia" : 57
+	},
+	{
+		"IdProducto" : 77,
+		"NombreProducto" : "Salsa verde original Frankfurter",
+		"IdProveedor" : 12,
+		"IdCategoria" : 2,
+		"CantidadPorUnidad" : "12 cajas",
+		"PrecioUnidad" : 13,
+		"UnidadesEnExistencia" : 32
+	}
+]

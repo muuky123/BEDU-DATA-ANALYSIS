@@ -1,0 +1,54 @@
+{"year":  { $gte:1993 }, "type":"movie", "imdb.rating": { $gte:6 } }
+
+
+
+¿Qué comentarios ha hecho Greg Powell?
+Filter
+{ "name": "Greg Powell" }
+
+
+¿Qué comentarios han hecho Greg Powell o Mercedes Tyler?
+Filter
+{ $or : [ { "name" : "Greg Powell" } , {"name" : "Mercedes Tyler"} ] 
+
+
+
+¿Cuál es el máximo número de comentarios en una película?
+Filter
+{ "num_mflix_comments" {$gte:1} }
+
+
+Sort
+{"num_mflix_comments": -1}
+
+
+¿Cuál es título de las cinco películas más comentadas?
+
+Filter
+{ "num_mflix_comments" {$gte:1} }
+
+Project
+{"title": 1}
+
+Sort
+{"num_mflix_comments": -1}
+
+
+Encuentra las películas que se filmaron en la década de los noventas
+Filter
+{$and: [ {year: {$gte: 1990} }, {year: {$lte: 2000} } ] }
+
+{$and: [{"year": {$gte:1990} }, {"year":{$lt:2000} } ] }
+
+
+
+Obtén todas las calificaciones provenientes de los grupos 357, 57 y 465.
+Filter
+{ $or: [ { "class_id": 357 }, { "class_id": 57 },  { "class_id": 465 } ] } 
+
+
+Obtén las rutas con un número de paradas entre 1 y 5.
+Filter
+{ $and: [{"stops": {$gte:1}}, {"stops":{$lte: 5}}]}  
+{ $and: [{"stops": {$gte:1}}, {"stops":{$lt: 5}}]}
+
