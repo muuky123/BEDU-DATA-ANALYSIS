@@ -1,0 +1,3428 @@
+"","ID","Name","CountryCode","District","Population"
+"1",1,"Kabul","AFG","Kabol",1780000
+"2",2,"Qandahar","AFG","Qandahar",237500
+"3",3,"Herat","AFG","Herat",186800
+"4",4,"Mazar-e-Sharif","AFG","Balkh",127800
+"5",5,"Amsterdam","NLD","Noord-Holland",731200
+"6",6,"Rotterdam","NLD","Zuid-Holland",593321
+"7",7,"Haag","NLD","Zuid-Holland",440900
+"8",8,"Utrecht","NLD","Utrecht",234323
+"9",9,"Eindhoven","NLD","Noord-Brabant",201843
+"10",10,"Tilburg","NLD","Noord-Brabant",193238
+"11",11,"Groningen","NLD","Groningen",172701
+"12",12,"Breda","NLD","Noord-Brabant",160398
+"13",13,"Apeldoorn","NLD","Gelderland",153491
+"14",14,"Nijmegen","NLD","Gelderland",152463
+"15",15,"Enschede","NLD","Overijssel",149544
+"16",16,"Haarlem","NLD","Noord-Holland",148772
+"17",17,"Almere","NLD","Flevoland",142465
+"18",18,"Arnhem","NLD","Gelderland",138020
+"19",19,"Zaanstad","NLD","Noord-Holland",135621
+"20",21,"Amersfoort","NLD","Utrecht",126270
+"21",22,"Maastricht","NLD","Limburg",122087
+"22",23,"Dordrecht","NLD","Zuid-Holland",119811
+"23",24,"Leiden","NLD","Zuid-Holland",117196
+"24",25,"Haarlemmermeer","NLD","Noord-Holland",110722
+"25",26,"Zoetermeer","NLD","Zuid-Holland",110214
+"26",27,"Emmen","NLD","Drenthe",105853
+"27",28,"Zwolle","NLD","Overijssel",105819
+"28",29,"Ede","NLD","Gelderland",101574
+"29",30,"Delft","NLD","Zuid-Holland",95268
+"30",31,"Heerlen","NLD","Limburg",95052
+"31",32,"Alkmaar","NLD","Noord-Holland",92713
+"32",34,"Tirana","ALB","Tirana",270000
+"33",35,"Alger","DZA","Alger",2168000
+"34",36,"Oran","DZA","Oran",609823
+"35",37,"Constantine","DZA","Constantine",443727
+"36",38,"Annaba","DZA","Annaba",222518
+"37",39,"Batna","DZA","Batna",183377
+"38",42,"Skikda","DZA","Skikda",128747
+"39",43,"Biskra","DZA","Biskra",128281
+"40",44,"Blida (el-Boulaida)","DZA","Blida",127284
+"41",46,"Mostaganem","DZA","Mostaganem",115212
+"42",48,"Tlemcen (Tilimsen)","DZA","Tlemcen",110242
+"43",50,"Tiaret","DZA","Tiaret",100118
+"44",51,"Ech-Chleff (el-Asnam)","DZA","Chlef",96794
+"45",53,"Tafuna","ASM","Tutuila",5200
+"46",54,"Fagatogo","ASM","Tutuila",2323
+"47",55,"Andorra la Vella","AND","Andorra la Vella",21189
+"48",56,"Luanda","AGO","Luanda",2022000
+"49",57,"Huambo","AGO","Huambo",163100
+"50",58,"Lobito","AGO","Benguela",130000
+"51",59,"Benguela","AGO","Benguela",128300
+"52",60,"Namibe","AGO","Namibe",118200
+"53",64,"Dubai","ARE","Dubai",669181
+"54",65,"Abu Dhabi","ARE","Abu Dhabi",398695
+"55",66,"Sharja","ARE","Sharja",320095
+"56",67,"al-Ayn","ARE","Abu Dhabi",225970
+"57",68,"Ajman","ARE","Ajman",114395
+"58",69,"Buenos Aires","ARG","Distrito Federal",2982146
+"59",70,"La Matanza","ARG","Buenos Aires",1266461
+"60",73,"Lomas de Zamora","ARG","Buenos Aires",622013
+"61",74,"Quilmes","ARG","Buenos Aires",559249
+"62",75,"Almirante Brown","ARG","Buenos Aires",538918
+"63",76,"La Plata","ARG","Buenos Aires",521936
+"64",77,"Mar del Plata","ARG","Buenos Aires",512880
+"65",80,"Merlo","ARG","Buenos Aires",463846
+"66",82,"Salta","ARG","Salta",367550
+"67",83,"Moreno","ARG","Buenos Aires",356993
+"68",85,"Avellaneda","ARG","Buenos Aires",353046
+"69",86,"Tres de Febrero","ARG","Buenos Aires",352311
+"70",88,"Florencio Varela","ARG","Buenos Aires",315432
+"71",89,"San Isidro","ARG","Buenos Aires",306341
+"72",90,"Tigre","ARG","Buenos Aires",296226
+"73",91,"Malvinas Argentinas","ARG","Buenos Aires",290335
+"74",93,"Berazategui","ARG","Buenos Aires",276916
+"75",94,"Corrientes","ARG","Corrientes",258103
+"76",95,"San Miguel","ARG","Buenos Aires",248700
+"77",98,"Resistencia","ARG","Chaco",229212
+"78",101,"Godoy Cruz","ARG","Mendoza",206998
+"79",102,"Posadas","ARG","Misiones",201273
+"80",104,"Santiago del Estero","ARG","Santiago del Estero",189947
+"81",105,"San Salvador de Jujuy","ARG","Jujuy",178748
+"82",106,"Hurlingham","ARG","Buenos Aires",170028
+"83",109,"San Fernando","ARG","Buenos Aires",153036
+"84",110,"Formosa","ARG","Formosa",147636
+"85",111,"Las Heras","ARG","Mendoza",145823
+"86",112,"La Rioja","ARG","La Rioja",138117
+"87",113,"San Fernando del Valle de Cata","ARG","Catamarca",134935
+"88",115,"Comodoro Rivadavia","ARG","Chubut",124104
+"89",116,"Mendoza","ARG","Mendoza",123027
+"90",118,"San Juan","ARG","San Juan",119152
+"91",119,"Escobar","ARG","Buenos Aires",116675
+"92",120,"Concordia","ARG","Entre Rios",116485
+"93",121,"Pilar","ARG","Buenos Aires",113428
+"94",122,"San Luis","ARG","San Luis",110136
+"95",123,"Ezeiza","ARG","Buenos Aires",99578
+"96",124,"San Rafael","ARG","Mendoza",94651
+"97",125,"Tandil","ARG","Buenos Aires",91101
+"98",126,"Yerevan","ARM","Yerevan",1248700
+"99",128,"Vanadzor","ARM","Lori",172700
+"100",130,"Sydney","AUS","New South Wales",3276207
+"101",131,"Melbourne","AUS","Victoria",2865329
+"102",132,"Brisbane","AUS","Queensland",1291117
+"103",133,"Perth","AUS","West Australia",1096829
+"104",134,"Adelaide","AUS","South Australia",978100
+"105",135,"Canberra","AUS","Capital Region",322723
+"106",136,"Gold Coast","AUS","Queensland",311932
+"107",137,"Newcastle","AUS","New South Wales",270324
+"108",138,"Central Coast","AUS","New South Wales",227657
+"109",139,"Wollongong","AUS","New South Wales",219761
+"110",140,"Hobart","AUS","Tasmania",126118
+"111",141,"Geelong","AUS","Victoria",125382
+"112",142,"Townsville","AUS","Queensland",109914
+"113",143,"Cairns","AUS","Queensland",92273
+"114",144,"Baku","AZE","Baki",1787800
+"115",146,"Sumqayit","AZE","Sumqayit",283000
+"116",148,"Nassau","BHS","New Providence",172000
+"117",149,"al-Manama","BHR","al-Manama",148000
+"118",150,"Dhaka","BGD","Dhaka",3612850
+"119",151,"Chittagong","BGD","Chittagong",1392860
+"120",152,"Khulna","BGD","Khulna",663340
+"121",153,"Rajshahi","BGD","Rajshahi",294056
+"122",154,"Narayanganj","BGD","Dhaka",202134
+"123",155,"Rangpur","BGD","Rajshahi",191398
+"124",156,"Mymensingh","BGD","Dhaka",188713
+"125",157,"Barisal","BGD","Barisal",170232
+"126",158,"Tungi","BGD","Dhaka",168702
+"127",159,"Jessore","BGD","Khulna",139710
+"128",160,"Comilla","BGD","Chittagong",135313
+"129",161,"Nawabganj","BGD","Rajshahi",130577
+"130",162,"Dinajpur","BGD","Rajshahi",127815
+"131",163,"Bogra","BGD","Rajshahi",120170
+"132",164,"Sylhet","BGD","Sylhet",117396
+"133",165,"Brahmanbaria","BGD","Chittagong",109032
+"134",166,"Tangail","BGD","Dhaka",106004
+"135",167,"Jamalpur","BGD","Dhaka",103556
+"136",168,"Pabna","BGD","Rajshahi",103277
+"137",169,"Naogaon","BGD","Rajshahi",101266
+"138",170,"Sirajganj","BGD","Rajshahi",99669
+"139",171,"Narsinghdi","BGD","Dhaka",98342
+"140",172,"Saidpur","BGD","Rajshahi",96777
+"141",173,"Gazipur","BGD","Dhaka",96717
+"142",174,"Bridgetown","BRB","St Michael",6070
+"143",175,"Antwerpen","BEL","Antwerpen",446525
+"144",176,"Gent","BEL","East Flanderi",224180
+"145",177,"Charleroi","BEL","Hainaut",200827
+"146",179,"Bruxelles [Brussel]","BEL","Bryssel",133859
+"147",180,"Brugge","BEL","West Flanderi",116246
+"148",181,"Schaerbeek","BEL","Bryssel",105692
+"149",182,"Namur","BEL","Namur",105419
+"150",183,"Mons","BEL","Hainaut",90935
+"151",184,"Belize City","BLZ","Belize City",55810
+"152",185,"Belmopan","BLZ","Cayo",7105
+"153",186,"Cotonou","BEN","Atlantique",536827
+"154",188,"Djougou","BEN","Atacora",134099
+"155",189,"Parakou","BEN","Borgou",103577
+"156",191,"Hamilton","BMU","Hamilton",1200
+"157",192,"Thimphu","BTN","Thimphu",22000
+"158",193,"Santa Cruz de la Sierra","BOL","Santa Cruz",935361
+"159",194,"La Paz","BOL","La Paz",758141
+"160",195,"El Alto","BOL","La Paz",534466
+"161",196,"Cochabamba","BOL","Cochabamba",482800
+"162",197,"Oruro","BOL","Oruro",223553
+"163",198,"Sucre","BOL","Chuquisaca",178426
+"164",200,"Tarija","BOL","Tarija",125255
+"165",201,"Sarajevo","BIH","Federaatio",360000
+"166",202,"Banja Luka","BIH","Republika Srpska",143079
+"167",203,"Zenica","BIH","Federaatio",96027
+"168",204,"Gaborone","BWA","Gaborone",213017
+"169",205,"Francistown","BWA","Francistown",101805
+"170",207,"Rio de Janeiro","BRA","Rio de Janeiro",5598953
+"171",208,"Salvador","BRA","Bahia",2302832
+"172",209,"Belo Horizonte","BRA","Minas Gerais",2139125
+"173",213,"Recife","BRA","Pernambuco",1378087
+"174",214,"Porto Alegre","BRA","Rio Grande do Sul",1314032
+"175",215,"Manaus","BRA","Amazonas",1255049
+"176",224,"Duque de Caxias","BRA","Rio de Janeiro",746758
+"177",227,"Natal","BRA","Rio Grande do Norte",688955
+"178",229,"Campo Grande","BRA","Mato Grosso do Sul",649593
+"179",233,"Contagem","BRA","Minas Gerais",520801
+"180",236,"Feira de Santana","BRA","Bahia",479992
+"181",241,"Juiz de Fora","BRA","Minas Gerais",450288
+"182",242,"Aracaju","BRA","Sergipe",445555
+"183",245,"Joinville","BRA","Santa Catarina",428011
+"184",246,"Belford Roxo","BRA","Rio de Janeiro",425194
+"185",249,"Campos dos Goytacazes","BRA","Rio de Janeiro",398418
+"186",252,"Olinda","BRA","Pernambuco",354732
+"187",255,"Caxias do Sul","BRA","Rio Grande do Sul",349581
+"188",262,"Pelotas","BRA","Rio Grande do Sul",315415
+"189",266,"Betim","BRA","Minas Gerais",302108
+"190",268,"Canoas","BRA","Rio Grande do Sul",294125
+"191",272,"Montes Claros","BRA","Minas Gerais",286058
+"192",279,"Rio Branco","BRA","Acre",259537
+"193",284,"Uberaba","BRA","Minas Gerais",249225
+"194",285,"Paulista","BRA","Pernambuco",248473
+"195",287,"Blumenau","BRA","Santa Catarina",244379
+"196",288,"Caruaru","BRA","Pernambuco",244247
+"197",290,"Volta Redonda","BRA","Rio de Janeiro",240315
+"198",291,"Novo Hamburgo","BRA","Rio Grande do Sul",239940
+"199",293,"Santa Maria","BRA","Rio Grande do Sul",238473
+"200",297,"Governador Valadares","BRA","Minas Gerais",231724
+"201",304,"Petrolina","BRA","Pernambuco",210540
+"202",307,"Ipatinga","BRA","Minas Gerais",206338
+"203",308,"Juazeiro","BRA","Bahia",201073
+"204",320,"Sete Lagoas","BRA","Minas Gerais",182984
+"205",321,"Rio Grande","BRA","Rio Grande do Sul",182222
+"206",322,"Itabuna","BRA","Bahia",182148
+"207",324,"Arapiraca","BRA","Alagoas",178988
+"208",327,"Alvorada","BRA","Rio Grande do Sul",175574
+"209",331,"Nova Friburgo","BRA","Rio de Janeiro",170697
+"210",334,"Barra Mansa","BRA","Rio de Janeiro",168953
+"211",338,"Boa Vista","BRA","Roraima",167185
+"212",339,"Passo Fundo","BRA","Rio Grande do Sul",166343
+"213",340,"Dourados","BRA","Mato Grosso do Sul",164716
+"214",341,"Santa Luzia","BRA","Minas Gerais",164704
+"215",350,"Cabo de Santo Agostinho","BRA","Pernambuco",149964
+"216",356,"Lages","BRA","Santa Catarina",139570
+"217",363,"Nossa Senhora do Socorro","BRA","Sergipe",131351
+"218",367,"Barreiras","BRA","Bahia",127801
+"219",369,"Alagoinhas","BRA","Bahia",126820
+"220",371,"Uruguaiana","BRA","Rio Grande do Sul",126305
+"221",379,"Palmas","BRA","Tocantins",121919
+"222",383,"Sapucaia do Sul","BRA","Rio Grande do Sul",120217
+"223",384,"Cabo Frio","BRA","Rio de Janeiro",119503
+"224",386,"Patos de Minas","BRA","Minas Gerais",119262
+"225",387,"Camaragibe","BRA","Pernambuco",118968
+"226",389,"Queimados","BRA","Rio de Janeiro",115020
+"227",391,"Garanhuns","BRA","Pernambuco",114603
+"228",394,"Barbacena","BRA","Minas Gerais",113079
+"229",397,"Lauro de Freitas","BRA","Bahia",109236
+"230",399,"Teixeira de Freitas","BRA","Bahia",108441
+"231",400,"Varginha","BRA","Minas Gerais",108314
+"232",407,"Santa Cruz do Sul","BRA","Rio Grande do Sul",106734
+"233",412,"Cachoeirinha","BRA","Rio Grande do Sul",103240
+"234",416,"Itabira","BRA","Minas Gerais",102217
+"235",419,"Resende","BRA","Rio de Janeiro",100627
+"236",421,"Pouso Alegre","BRA","Minas Gerais",100028
+"237",424,"Passos","BRA","Minas Gerais",98570
+"238",425,"Araguari","BRA","Minas Gerais",98399
+"239",429,"Conselheiro Lafaiete","BRA","Minas Gerais",97507
+"240",430,"Paulo Afonso","BRA","Bahia",97291
+"241",431,"Angra dos Reis","BRA","Rio de Janeiro",96864
+"242",435,"Parnamirim","BRA","Rio Grande do Norte",96210
+"243",436,"Jacobina","BRA","Bahia",96131
+"244",437,"Coronel Fabriciano","BRA","Minas Gerais",95933
+"245",445,"Santana do Livramento","BRA","Rio Grande do Sul",91779
+"246",449,"Ituiutaba","BRA","Minas Gerais",90507
+"247",456,"London","GBR","England",7285000
+"248",457,"Birmingham","GBR","England",1013000
+"249",458,"Glasgow","GBR","Scotland",619680
+"250",459,"Liverpool","GBR","England",461000
+"251",460,"Edinburgh","GBR","Scotland",450180
+"252",461,"Sheffield","GBR","England",431607
+"253",462,"Manchester","GBR","England",430000
+"254",463,"Leeds","GBR","England",424194
+"255",464,"Bristol","GBR","England",402000
+"256",465,"Cardiff","GBR","Wales",321000
+"257",466,"Coventry","GBR","England",304000
+"258",467,"Leicester","GBR","England",294000
+"259",468,"Bradford","GBR","England",289376
+"260",469,"Belfast","GBR","North Ireland",287500
+"261",470,"Nottingham","GBR","England",287000
+"262",471,"Kingston upon Hull","GBR","England",262000
+"263",472,"Plymouth","GBR","England",253000
+"264",473,"Stoke-on-Trent","GBR","England",252000
+"265",474,"Wolverhampton","GBR","England",242000
+"266",475,"Derby","GBR","England",236000
+"267",476,"Swansea","GBR","Wales",230000
+"268",477,"Southampton","GBR","England",216000
+"269",478,"Aberdeen","GBR","Scotland",213070
+"270",479,"Northampton","GBR","England",196000
+"271",480,"Dudley","GBR","England",192171
+"272",481,"Portsmouth","GBR","England",190000
+"273",482,"Newcastle upon Tyne","GBR","England",189150
+"274",483,"Sunderland","GBR","England",183310
+"275",484,"Luton","GBR","England",183000
+"276",485,"Swindon","GBR","England",180000
+"277",486,"Southend-on-Sea","GBR","England",176000
+"278",487,"Walsall","GBR","England",174739
+"279",488,"Bournemouth","GBR","England",162000
+"280",489,"Peterborough","GBR","England",156000
+"281",490,"Brighton","GBR","England",156124
+"282",491,"Blackpool","GBR","England",151000
+"283",492,"Dundee","GBR","Scotland",146690
+"284",493,"West Bromwich","GBR","England",146386
+"285",494,"Reading","GBR","England",148000
+"286",495,"Oldbury/Smethwick (Warley)","GBR","England",145542
+"287",496,"Middlesbrough","GBR","England",145000
+"288",497,"Huddersfield","GBR","England",143726
+"289",498,"Oxford","GBR","England",144000
+"290",499,"Poole","GBR","England",141000
+"291",500,"Bolton","GBR","England",139020
+"292",501,"Blackburn","GBR","England",140000
+"293",502,"Newport","GBR","Wales",139000
+"294",503,"Preston","GBR","England",135000
+"295",504,"Stockport","GBR","England",132813
+"296",505,"Norwich","GBR","England",124000
+"297",506,"Rotherham","GBR","England",121380
+"298",507,"Cambridge","GBR","England",121000
+"299",508,"Watford","GBR","England",113080
+"300",509,"Ipswich","GBR","England",114000
+"301",510,"Slough","GBR","England",112000
+"302",511,"Exeter","GBR","England",111000
+"303",512,"Cheltenham","GBR","England",106000
+"304",513,"Gloucester","GBR","England",107000
+"305",514,"Saint Helens","GBR","England",106293
+"306",515,"Sutton Coldfield","GBR","England",106001
+"307",516,"York","GBR","England",104425
+"308",517,"Oldham","GBR","England",103931
+"309",518,"Basildon","GBR","England",100924
+"310",519,"Worthing","GBR","England",1e+05
+"311",520,"Chelmsford","GBR","England",97451
+"312",521,"Colchester","GBR","England",96063
+"313",522,"Crawley","GBR","England",97000
+"314",523,"Gillingham","GBR","England",92000
+"315",524,"Solihull","GBR","England",94531
+"316",525,"Rochdale","GBR","England",94313
+"317",526,"Birkenhead","GBR","England",93087
+"318",527,"Worcester","GBR","England",95000
+"319",528,"Hartlepool","GBR","England",92000
+"320",529,"Halifax","GBR","England",91069
+"321",530,"Woking/Byfleet","GBR","England",92000
+"322",531,"Southport","GBR","England",90959
+"323",532,"Maidstone","GBR","England",90878
+"324",533,"Eastbourne","GBR","England",90000
+"325",534,"Grimsby","GBR","England",89000
+"326",535,"Saint Helier","GBR","Jersey",27523
+"327",537,"Road Town","VGB","Tortola",8000
+"328",538,"Bandar Seri Begawan","BRN","Brunei and Muara",21484
+"329",539,"Sofija","BGR","Grad Sofija",1122302
+"330",540,"Plovdiv","BGR","Plovdiv",342584
+"331",541,"Varna","BGR","Varna",299801
+"332",542,"Burgas","BGR","Burgas",195255
+"333",543,"Ruse","BGR","Ruse",166467
+"334",544,"Stara Zagora","BGR","Haskovo",147939
+"335",545,"Pleven","BGR","Lovec",121952
+"336",546,"Sliven","BGR","Burgas",105530
+"337",547,"Dobric","BGR","Varna",100399
+"338",549,"Ouagadougou","BFA","Kadiogo",824000
+"339",550,"Bobo-Dioulasso","BFA","Houet",3e+05
+"340",552,"Bujumbura","BDI","Bujumbura",3e+05
+"341",553,"George Town","CYM","Grand Cayman",19600
+"342",554,"Santiago de Chile","CHL","Santiago",4703954
+"343",555,"Puente Alto","CHL","Santiago",386236
+"344",559,"Antofagasta","CHL","Antofagasta",251429
+"345",560,"San Bernardo","CHL","Santiago",241910
+"346",565,"Talca","CHL","Maule",187557
+"347",569,"Puerto Montt","CHL","Los Lagos",152194
+"348",570,"Coquimbo","CHL","Coquimbo",143353
+"349",571,"Osorno","CHL","Los Lagos",141468
+"350",572,"La Serena","CHL","Coquimbo",137409
+"351",573,"Calama","CHL","Antofagasta",137265
+"352",574,"Valdivia","CHL","Los Lagos",133106
+"353",575,"Punta Arenas","CHL","Magallanes",125631
+"354",579,"Ovalle","CHL","Coquimbo",94854
+"355",582,"Melipilla","CHL","Santiago",91056
+"356",583,"Avarua","COK","Rarotonga",11900
+"357",585,"Djibouti","DJI","Djibouti",383000
+"358",586,"Roseau","DMA","St George",16243
+"359",588,"Santiago de los Caballeros","DOM","Santiago",365463
+"360",589,"La Romana","DOM","La Romana",140204
+"361",592,"San Felipe de Puerto Plata","DOM","Puerto Plata",89423
+"362",593,"Guayaquil","ECU","Guayas",2070040
+"363",594,"Quito","ECU","Pichincha",1573458
+"364",595,"Cuenca","ECU","Azuay",270353
+"365",596,"Machala","ECU","El Oro",210368
+"366",597,"Santo Domingo de los Colorados","ECU","Pichincha",202111
+"367",599,"Ambato","ECU","Tungurahua",169612
+"368",601,"Duran [Eloy Alfaro]","ECU","Guayas",152514
+"369",602,"Ibarra","ECU","Imbabura",130643
+"370",604,"Milagro","ECU","Guayas",124177
+"371",605,"Loja","ECU","Loja",123875
+"372",607,"Esmeraldas","ECU","Esmeraldas",123045
+"373",608,"Cairo","EGY","Kairo",6789479
+"374",609,"Alexandria","EGY","Aleksandria",3328196
+"375",610,"Giza","EGY","Giza",2221868
+"376",611,"Shubra al-Khayma","EGY","al-Qalyubiya",870716
+"377",612,"Port Said","EGY","Port Said",469533
+"378",613,"Suez","EGY","Suez",417610
+"379",614,"al-Mahallat al-Kubra","EGY","al-Gharbiya",395402
+"380",615,"Tanta","EGY","al-Gharbiya",371010
+"381",616,"al-Mansura","EGY","al-Daqahliya",369621
+"382",617,"Luxor","EGY","Luxor",360503
+"383",618,"Asyut","EGY","Asyut",343498
+"384",619,"Bahtim","EGY","al-Qalyubiya",275807
+"385",620,"Zagazig","EGY","al-Sharqiya",267351
+"386",621,"al-Faiyum","EGY","al-Faiyum",260964
+"387",622,"Ismailia","EGY","Ismailia",254477
+"388",623,"Kafr al-Dawwar","EGY","al-Buhayra",231978
+"389",624,"Assuan","EGY","Assuan",219017
+"390",625,"Damanhur","EGY","al-Buhayra",212203
+"391",626,"al-Minya","EGY","al-Minya",201360
+"392",627,"Bani Suwayf","EGY","Bani Suwayf",172032
+"393",628,"Qina","EGY","Qina",171275
+"394",629,"Sawhaj","EGY","Sawhaj",170125
+"395",630,"Shibin al-Kawm","EGY","al-Minufiya",159909
+"396",631,"Bulaq al-Dakrur","EGY","Giza",148787
+"397",632,"Banha","EGY","al-Qalyubiya",145792
+"398",633,"Warraq al-Arab","EGY","Giza",127108
+"399",634,"Kafr al-Shaykh","EGY","Kafr al-Shaykh",124819
+"400",635,"Mallawi","EGY","al-Minya",119283
+"401",636,"Bilbays","EGY","al-Sharqiya",113608
+"402",637,"Mit Ghamr","EGY","al-Daqahliya",101801
+"403",638,"al-Arish","EGY","Shamal Sina",100447
+"404",639,"Talkha","EGY","al-Daqahliya",97700
+"405",640,"Qalyub","EGY","al-Qalyubiya",97200
+"406",641,"Jirja","EGY","Sawhaj",95400
+"407",642,"Idfu","EGY","Qina",94200
+"408",643,"al-Hawamidiya","EGY","Giza",91700
+"409",644,"Disuq","EGY","Kafr al-Shaykh",91300
+"410",645,"San Salvador","SLV","San Salvador",415346
+"411",646,"Santa Ana","SLV","Santa Ana",139389
+"412",647,"Mejicanos","SLV","San Salvador",138800
+"413",648,"Soyapango","SLV","San Salvador",129800
+"414",649,"San Miguel","SLV","San Miguel",127696
+"415",650,"Nueva San Salvador","SLV","La Libertad",98400
+"416",651,"Apopa","SLV","San Salvador",88800
+"417",652,"Asmara","ERI","Maekel",431000
+"418",653,"Madrid","ESP","Madrid",2879052
+"419",654,"Barcelona","ESP","Katalonia",1503451
+"420",655,"Valencia","ESP","Valencia",739412
+"421",656,"Sevilla","ESP","Andalusia",701927
+"422",657,"Zaragoza","ESP","Aragonia",603367
+"423",659,"Bilbao","ESP","Baskimaa",357589
+"424",660,"Las Palmas de Gran Canaria","ESP","Canary Islands",354757
+"425",661,"Murcia","ESP","Murcia",353504
+"426",662,"Palma de Mallorca","ESP","Balears",326993
+"427",665,"Vigo","ESP","Galicia",283670
+"428",666,"Alicante [Alacant]","ESP","Valencia",272432
+"429",669,"Granada","ESP","Andalusia",244767
+"430",671,"Vitoria-Gasteiz","ESP","Baskimaa",217154
+"431",672,"Santa Cruz de Tenerife","ESP","Canary Islands",213050
+"432",673,"Badalona","ESP","Katalonia",209635
+"433",674,"Oviedo","ESP","Asturia",200453
+"434",676,"Elche [Elx]","ESP","Valencia",193174
+"435",677,"Sabadell","ESP","Katalonia",184859
+"436",678,"Santander","ESP","Cantabria",184165
+"437",679,"Jerez de la Frontera","ESP","Andalusia",182660
+"438",682,"Cartagena","ESP","Murcia",177709
+"439",684,"Fuenlabrada","ESP","Madrid",171173
+"440",686,"Terrassa","ESP","Katalonia",168695
+"441",690,"Albacete","ESP","Kastilia-La Mancha",147527
+"442",691,"Getafe","ESP","Madrid",145371
+"443",694,"Huelva","ESP","Andalusia",140583
+"444",697,"Badajoz","ESP","Extremadura",136613
+"445",700,"Santa Coloma de Gramenet","ESP","Katalonia",120802
+"446",701,"Tarragona","ESP","Katalonia",113016
+"447",704,"Ourense (Orense)","ESP","Galicia",109120
+"448",706,"Algeciras","ESP","Andalusia",103106
+"449",707,"Marbella","ESP","Andalusia",101144
+"450",708,"Barakaldo","ESP","Baskimaa",98212
+"451",709,"Dos Hermanas","ESP","Andalusia",94591
+"452",710,"Santiago de Compostela","ESP","Galicia",93745
+"453",712,"Cape Town","ZAF","Western Cape",2352121
+"454",713,"Soweto","ZAF","Gauteng",904165
+"455",714,"Johannesburg","ZAF","Gauteng",756653
+"456",715,"Port Elizabeth","ZAF","Eastern Cape",752319
+"457",716,"Pretoria","ZAF","Gauteng",658630
+"458",717,"Inanda","ZAF","KwaZulu-Natal",634065
+"459",718,"Durban","ZAF","KwaZulu-Natal",566120
+"460",719,"Vanderbijlpark","ZAF","Gauteng",468931
+"461",720,"Kempton Park","ZAF","Gauteng",442633
+"462",721,"Alberton","ZAF","Gauteng",410102
+"463",722,"Pinetown","ZAF","KwaZulu-Natal",378810
+"464",723,"Pietermaritzburg","ZAF","KwaZulu-Natal",370190
+"465",724,"Benoni","ZAF","Gauteng",365467
+"466",725,"Randburg","ZAF","Gauteng",341288
+"467",726,"Umlazi","ZAF","KwaZulu-Natal",339233
+"468",727,"Bloemfontein","ZAF","Free State",334341
+"469",728,"Vereeniging","ZAF","Gauteng",328535
+"470",729,"Wonderboom","ZAF","Gauteng",283289
+"471",730,"Roodepoort","ZAF","Gauteng",279340
+"472",731,"Boksburg","ZAF","Gauteng",262648
+"473",732,"Klerksdorp","ZAF","North West",261911
+"474",733,"Soshanguve","ZAF","Gauteng",242727
+"475",734,"Newcastle","ZAF","KwaZulu-Natal",222993
+"476",735,"East London","ZAF","Eastern Cape",221047
+"477",736,"Welkom","ZAF","Free State",203296
+"478",737,"Kimberley","ZAF","Northern Cape",197254
+"479",738,"Uitenhage","ZAF","Eastern Cape",192120
+"480",739,"Chatsworth","ZAF","KwaZulu-Natal",189885
+"481",740,"Mdantsane","ZAF","Eastern Cape",182639
+"482",741,"Krugersdorp","ZAF","Gauteng",181503
+"483",742,"Botshabelo","ZAF","Free State",177971
+"484",743,"Brakpan","ZAF","Gauteng",171363
+"485",744,"Witbank","ZAF","Mpumalanga",167183
+"486",745,"Oberholzer","ZAF","Gauteng",164367
+"487",746,"Germiston","ZAF","Gauteng",164252
+"488",747,"Springs","ZAF","Gauteng",162072
+"489",748,"Westonaria","ZAF","Gauteng",159632
+"490",749,"Randfontein","ZAF","Gauteng",120838
+"491",750,"Paarl","ZAF","Western Cape",105768
+"492",751,"Potchefstroom","ZAF","North West",101817
+"493",752,"Rustenburg","ZAF","North West",97008
+"494",753,"Nigel","ZAF","Gauteng",96734
+"495",754,"George","ZAF","Western Cape",93818
+"496",755,"Ladysmith","ZAF","KwaZulu-Natal",89292
+"497",756,"Addis Abeba","ETH","Addis Abeba",2495000
+"498",757,"Dire Dawa","ETH","Dire Dawa",164851
+"499",758,"Nazret","ETH","Oromia",127842
+"500",759,"Gonder","ETH","Amhara",112249
+"501",760,"Dese","ETH","Amhara",97314
+"502",761,"Mekele","ETH","Tigray",96938
+"503",762,"Bahir Dar","ETH","Amhara",96140
+"504",763,"Stanley","FLK","East Falkland",1636
+"505",764,"Suva","FJI","Central",77366
+"506",765,"Quezon","PHL","National Capital Reg",2173831
+"507",766,"Manila","PHL","National Capital Reg",1581082
+"508",767,"Kalookan","PHL","National Capital Reg",1177604
+"509",768,"Davao","PHL","Southern Mindanao",1147116
+"510",769,"Cebu","PHL","Central Visayas",718821
+"511",770,"Zamboanga","PHL","Western Mindanao",601794
+"512",771,"Pasig","PHL","National Capital Reg",505058
+"513",772,"Valenzuela","PHL","National Capital Reg",485433
+"514",774,"Antipolo","PHL","Southern Tagalog",470866
+"515",775,"Taguig","PHL","National Capital Reg",467375
+"516",776,"Cagayan de Oro","PHL","Northern Mindanao",461877
+"517",778,"Makati","PHL","National Capital Reg",444867
+"518",779,"Bacolod","PHL","Western Visayas",429076
+"519",780,"General Santos","PHL","Southern Mindanao",411822
+"520",781,"Marikina","PHL","National Capital Reg",391170
+"521",783,"Muntinlupa","PHL","National Capital Reg",379310
+"522",784,"Iloilo","PHL","Western Visayas",365820
+"523",785,"Pasay","PHL","National Capital Reg",354908
+"524",786,"Malabon","PHL","National Capital Reg",338855
+"525",788,"Bacoor","PHL","Southern Tagalog",305699
+"526",789,"Iligan","PHL","Central Mindanao",285061
+"527",790,"Calamba","PHL","Southern Tagalog",281146
+"528",791,"Mandaluyong","PHL","National Capital Reg",278474
+"529",792,"Butuan","PHL","Caraga",267279
+"530",793,"Angeles","PHL","Central Luzon",263971
+"531",794,"Tarlac","PHL","Central Luzon",262481
+"532",795,"Mandaue","PHL","Central Visayas",259728
+"533",796,"Baguio","PHL","CAR",252386
+"534",797,"Batangas","PHL","Southern Tagalog",247588
+"535",798,"Cainta","PHL","Southern Tagalog",242511
+"536",799,"San Pedro","PHL","Southern Tagalog",231403
+"537",800,"Navotas","PHL","National Capital Reg",230403
+"538",801,"Cabanatuan","PHL","Central Luzon",222859
+"539",802,"San Fernando","PHL","Central Luzon",221857
+"540",803,"Lipa","PHL","Southern Tagalog",218447
+"541",804,"Lapu-Lapu","PHL","Central Visayas",217019
+"542",805,"San Pablo","PHL","Southern Tagalog",207927
+"543",807,"Taytay","PHL","Southern Tagalog",198183
+"544",808,"Lucena","PHL","Southern Tagalog",196075
+"545",809,"Imus","PHL","Southern Tagalog",195482
+"546",810,"Olongapo","PHL","Central Luzon",194260
+"547",811,"Binangonan","PHL","Southern Tagalog",187691
+"548",812,"Santa Rosa","PHL","Southern Tagalog",185633
+"549",813,"Tagum","PHL","Southern Mindanao",179531
+"550",814,"Tacloban","PHL","Eastern Visayas",178639
+"551",815,"Malolos","PHL","Central Luzon",175291
+"552",816,"Mabalacat","PHL","Central Luzon",171045
+"553",817,"Cotabato","PHL","Central Mindanao",163849
+"554",818,"Meycauayan","PHL","Central Luzon",163037
+"555",819,"Puerto Princesa","PHL","Southern Tagalog",161912
+"556",820,"Legazpi","PHL","Bicol",157010
+"557",821,"Silang","PHL","Southern Tagalog",156137
+"558",822,"Ormoc","PHL","Eastern Visayas",154297
+"559",823,"San Carlos","PHL","Ilocos",154264
+"560",824,"Kabankalan","PHL","Western Visayas",149769
+"561",825,"Talisay","PHL","Central Visayas",148110
+"562",826,"Valencia","PHL","Northern Mindanao",147924
+"563",827,"Calbayog","PHL","Eastern Visayas",147187
+"564",828,"Santa Maria","PHL","Central Luzon",144282
+"565",829,"Pagadian","PHL","Western Mindanao",142515
+"566",830,"Cadiz","PHL","Western Visayas",141954
+"567",831,"Bago","PHL","Western Visayas",141721
+"568",832,"Toledo","PHL","Central Visayas",141174
+"569",833,"Naga","PHL","Bicol",137810
+"570",834,"San Mateo","PHL","Southern Tagalog",135603
+"571",835,"Panabo","PHL","Southern Mindanao",133950
+"572",836,"Koronadal","PHL","Southern Mindanao",133786
+"573",837,"Marawi","PHL","Central Mindanao",131090
+"574",838,"Dagupan","PHL","Ilocos",130328
+"575",839,"Sagay","PHL","Western Visayas",129765
+"576",840,"Roxas","PHL","Western Visayas",126352
+"577",841,"Lubao","PHL","Central Luzon",125699
+"578",842,"Digos","PHL","Southern Mindanao",125171
+"579",843,"San Miguel","PHL","Central Luzon",123824
+"580",844,"Malaybalay","PHL","Northern Mindanao",123672
+"581",845,"Tuguegarao","PHL","Cagayan Valley",120645
+"582",846,"Ilagan","PHL","Cagayan Valley",119990
+"583",847,"Baliuag","PHL","Central Luzon",119675
+"584",848,"Surigao","PHL","Caraga",118534
+"585",849,"San Carlos","PHL","Western Visayas",118259
+"586",850,"San Juan del Monte","PHL","National Capital Reg",117680
+"587",851,"Tanauan","PHL","Southern Tagalog",117539
+"588",852,"Concepcion","PHL","Central Luzon",115171
+"589",853,"Rodriguez (Montalban)","PHL","Southern Tagalog",115167
+"590",854,"Sariaya","PHL","Southern Tagalog",114568
+"591",855,"Malasiqui","PHL","Ilocos",113190
+"592",856,"General Mariano Alvarez","PHL","Southern Tagalog",112446
+"593",857,"Urdaneta","PHL","Ilocos",111582
+"594",858,"Hagonoy","PHL","Central Luzon",111425
+"595",859,"San Jose","PHL","Southern Tagalog",111009
+"596",860,"Polomolok","PHL","Southern Mindanao",110709
+"597",861,"Santiago","PHL","Cagayan Valley",110531
+"598",862,"Tanza","PHL","Southern Tagalog",110517
+"599",863,"Ozamis","PHL","Northern Mindanao",110420
+"600",864,"Mexico","PHL","Central Luzon",109481
+"601",865,"San Jose","PHL","Central Luzon",108254
+"602",866,"Silay","PHL","Western Visayas",107722
+"603",867,"General Trias","PHL","Southern Tagalog",107691
+"604",868,"Tabaco","PHL","Bicol",107166
+"605",869,"Cabuyao","PHL","Southern Tagalog",106630
+"606",870,"Calapan","PHL","Southern Tagalog",105910
+"607",871,"Mati","PHL","Southern Mindanao",105908
+"608",872,"Midsayap","PHL","Central Mindanao",105760
+"609",873,"Cauayan","PHL","Cagayan Valley",103952
+"610",874,"Gingoog","PHL","Northern Mindanao",102379
+"611",875,"Dumaguete","PHL","Central Visayas",102265
+"612",876,"San Fernando","PHL","Ilocos",102082
+"613",877,"Arayat","PHL","Central Luzon",101792
+"614",878,"Bayawan (Tulong)","PHL","Central Visayas",101391
+"615",879,"Kidapawan","PHL","Central Mindanao",101205
+"616",880,"Daraga (Locsin)","PHL","Bicol",101031
+"617",881,"Marilao","PHL","Central Luzon",101017
+"618",882,"Malita","PHL","Southern Mindanao",1e+05
+"619",883,"Dipolog","PHL","Western Mindanao",99862
+"620",884,"Cavite","PHL","Southern Tagalog",99367
+"621",885,"Danao","PHL","Central Visayas",98781
+"622",886,"Bislig","PHL","Caraga",97860
+"623",887,"Talavera","PHL","Central Luzon",97329
+"624",888,"Guagua","PHL","Central Luzon",96858
+"625",889,"Bayambang","PHL","Ilocos",96609
+"626",890,"Nasugbu","PHL","Southern Tagalog",96113
+"627",891,"Baybay","PHL","Eastern Visayas",95630
+"628",892,"Capas","PHL","Central Luzon",95219
+"629",893,"Sultan Kudarat","PHL","ARMM",94861
+"630",894,"Laoag","PHL","Ilocos",94466
+"631",895,"Bayugan","PHL","Caraga",93623
+"632",896,"Malungon","PHL","Southern Mindanao",93232
+"633",897,"Santa Cruz","PHL","Southern Tagalog",92694
+"634",898,"Sorsogon","PHL","Bicol",92512
+"635",899,"Candelaria","PHL","Southern Tagalog",92429
+"636",900,"Ligao","PHL","Bicol",90603
+"637",902,"Libreville","GAB","Estuaire",419000
+"638",903,"Serekunda","GMB","Kombo St Mary",102600
+"639",904,"Banjul","GMB","Banjul",42326
+"640",905,"Tbilisi","GEO","Tbilisi",1235200
+"641",906,"Kutaisi","GEO","Imereti",240900
+"642",907,"Rustavi","GEO","Kvemo Kartli",155400
+"643",909,"Sohumi","GEO","Abhasia [Aphazeti]",111700
+"644",910,"Accra","GHA","Greater Accra",1070000
+"645",911,"Kumasi","GHA","Ashanti",385192
+"646",912,"Tamale","GHA","Northern",151069
+"647",913,"Tema","GHA","Greater Accra",109975
+"648",914,"Sekondi-Takoradi","GHA","Western",103653
+"649",917,"Nuuk","GRL","Kitaa",13445
+"650",918,"Les Abymes","GLP","Grande-Terre",62947
+"651",919,"Basse-Terre","GLP","Basse-Terre",12433
+"652",922,"Ciudad de Guatemala","GTM","Guatemala",823301
+"653",923,"Mixco","GTM","Guatemala",209791
+"654",924,"Villa Nueva","GTM","Guatemala",101295
+"655",925,"Quetzaltenango","GTM","Quetzaltenango",90801
+"656",926,"Conakry","GIN","Conakry",1090610
+"657",927,"Bissau","GNB","Bissau",241000
+"658",928,"Georgetown","GUY","Georgetown",254000
+"659",929,"Port-au-Prince","HTI","Ouest",884472
+"660",930,"Carrefour","HTI","Ouest",290204
+"661",931,"Delmas","HTI","Ouest",240429
+"662",933,"Tegucigalpa","HND","Distrito Central",813900
+"663",936,"Kowloon and New Kowloon","HKG","Kowloon and New Kowl",1987996
+"664",937,"Victoria","HKG","Hongkong",1312637
+"665",939,"Jakarta","IDN","Jakarta Raya",9604900
+"666",940,"Surabaya","IDN","East Java",2663820
+"667",941,"Bandung","IDN","West Java",2429000
+"668",942,"Medan","IDN","Sumatera Utara",1843919
+"669",943,"Palembang","IDN","Sumatera Selatan",1222764
+"670",944,"Tangerang","IDN","West Java",1198300
+"671",945,"Semarang","IDN","Central Java",1104405
+"672",946,"Ujung Pandang","IDN","Sulawesi Selatan",1060257
+"673",947,"Malang","IDN","East Java",716862
+"674",948,"Bandar Lampung","IDN","Lampung",680332
+"675",949,"Bekasi","IDN","West Java",644300
+"676",950,"Padang","IDN","Sumatera Barat",534474
+"677",951,"Surakarta","IDN","Central Java",518600
+"678",952,"Banjarmasin","IDN","Kalimantan Selatan",482931
+"679",953,"Pekan Baru","IDN","Riau",438638
+"680",954,"Denpasar","IDN","Bali",435000
+"681",955,"Yogyakarta","IDN","Yogyakarta",418944
+"682",956,"Pontianak","IDN","Kalimantan Barat",409632
+"683",957,"Samarinda","IDN","Kalimantan Timur",399175
+"684",958,"Jambi","IDN","Jambi",385201
+"685",959,"Depok","IDN","West Java",365200
+"686",960,"Cimahi","IDN","West Java",344600
+"687",961,"Balikpapan","IDN","Kalimantan Timur",338752
+"688",962,"Manado","IDN","Sulawesi Utara",332288
+"689",963,"Mataram","IDN","Nusa Tenggara Barat",306600
+"690",964,"Pekalongan","IDN","Central Java",301504
+"691",965,"Tegal","IDN","Central Java",289744
+"692",966,"Bogor","IDN","West Java",285114
+"693",967,"Ciputat","IDN","West Java",270800
+"694",968,"Pondokgede","IDN","West Java",263200
+"695",969,"Cirebon","IDN","West Java",254406
+"696",970,"Kediri","IDN","East Java",253760
+"697",971,"Ambon","IDN","Molukit",249312
+"698",972,"Jember","IDN","East Java",218500
+"699",973,"Cilacap","IDN","Central Java",206900
+"700",974,"Cimanggis","IDN","West Java",205100
+"701",975,"Pematang Siantar","IDN","Sumatera Utara",203056
+"702",976,"Purwokerto","IDN","Central Java",202500
+"703",977,"Ciomas","IDN","West Java",187400
+"704",978,"Tasikmalaya","IDN","West Java",179800
+"705",979,"Madiun","IDN","East Java",171532
+"706",980,"Bengkulu","IDN","Bengkulu",146439
+"707",981,"Karawang","IDN","West Java",145000
+"708",982,"Banda Aceh","IDN","Aceh",143409
+"709",983,"Palu","IDN","Sulawesi Tengah",142800
+"710",984,"Pasuruan","IDN","East Java",134019
+"711",985,"Kupang","IDN","Nusa Tenggara Timur",129300
+"712",986,"Tebing Tinggi","IDN","Sumatera Utara",129300
+"713",987,"Percut Sei Tuan","IDN","Sumatera Utara",129000
+"714",988,"Binjai","IDN","Sumatera Utara",127222
+"715",989,"Sukabumi","IDN","West Java",125766
+"716",990,"Waru","IDN","East Java",124300
+"717",991,"Pangkal Pinang","IDN","Sumatera Selatan",124000
+"718",992,"Magelang","IDN","Central Java",123800
+"719",993,"Blitar","IDN","East Java",122600
+"720",994,"Serang","IDN","West Java",122400
+"721",995,"Probolinggo","IDN","East Java",120770
+"722",996,"Cilegon","IDN","West Java",117000
+"723",997,"Cianjur","IDN","West Java",114300
+"724",998,"Ciparay","IDN","West Java",111500
+"725",999,"Lhokseumawe","IDN","Aceh",109600
+"726",1000,"Taman","IDN","East Java",107000
+"727",1001,"Depok","IDN","Yogyakarta",106800
+"728",1002,"Citeureup","IDN","West Java",105100
+"729",1003,"Pemalang","IDN","Central Java",103500
+"730",1004,"Klaten","IDN","Central Java",103300
+"731",1005,"Salatiga","IDN","Central Java",103000
+"732",1006,"Cibinong","IDN","West Java",101300
+"733",1007,"Palangka Raya","IDN","Kalimantan Tengah",99693
+"734",1008,"Mojokerto","IDN","East Java",96626
+"735",1009,"Purwakarta","IDN","West Java",95900
+"736",1010,"Garut","IDN","West Java",95800
+"737",1011,"Kudus","IDN","Central Java",95300
+"738",1012,"Kendari","IDN","Sulawesi Tenggara",94800
+"739",1013,"Jaya Pura","IDN","West Irian",94700
+"740",1014,"Gorontalo","IDN","Sulawesi Utara",94058
+"741",1015,"Majalaya","IDN","West Java",93200
+"742",1016,"Pondok Aren","IDN","West Java",92700
+"743",1017,"Jombang","IDN","East Java",92600
+"744",1018,"Sunggal","IDN","Sumatera Utara",92300
+"745",1019,"Batam","IDN","Riau",91871
+"746",1020,"Padang Sidempuan","IDN","Sumatera Utara",91200
+"747",1021,"Sawangan","IDN","West Java",91100
+"748",1022,"Banyuwangi","IDN","East Java",89900
+"749",1023,"Tanjung Pinang","IDN","Riau",89900
+"750",1024,"Mumbai (Bombay)","IND","Maharashtra",10500000
+"751",1025,"Delhi","IND","Delhi",7206704
+"752",1026,"Calcutta [Kolkata]","IND","West Bengali",4399819
+"753",1027,"Chennai (Madras)","IND","Tamil Nadu",3841396
+"754",1028,"Hyderabad","IND","Andhra Pradesh",2964638
+"755",1029,"Ahmedabad","IND","Gujarat",2876710
+"756",1030,"Bangalore","IND","Karnataka",2660088
+"757",1031,"Kanpur","IND","Uttar Pradesh",1874409
+"758",1032,"Nagpur","IND","Maharashtra",1624752
+"759",1033,"Lucknow","IND","Uttar Pradesh",1619115
+"760",1034,"Pune","IND","Maharashtra",1566651
+"761",1035,"Surat","IND","Gujarat",1498817
+"762",1036,"Jaipur","IND","Rajasthan",1458483
+"763",1037,"Indore","IND","Madhya Pradesh",1091674
+"764",1038,"Bhopal","IND","Madhya Pradesh",1062771
+"765",1039,"Ludhiana","IND","Punjab",1042740
+"766",1040,"Vadodara (Baroda)","IND","Gujarat",1031346
+"767",1041,"Kalyan","IND","Maharashtra",1014557
+"768",1042,"Madurai","IND","Tamil Nadu",977856
+"769",1043,"Haora (Howrah)","IND","West Bengali",950435
+"770",1044,"Varanasi (Benares)","IND","Uttar Pradesh",929270
+"771",1045,"Patna","IND","Bihar",917243
+"772",1046,"Srinagar","IND","Jammu and Kashmir",892506
+"773",1047,"Agra","IND","Uttar Pradesh",891790
+"774",1048,"Coimbatore","IND","Tamil Nadu",816321
+"775",1049,"Thane (Thana)","IND","Maharashtra",803389
+"776",1050,"Allahabad","IND","Uttar Pradesh",792858
+"777",1051,"Meerut","IND","Uttar Pradesh",753778
+"778",1052,"Vishakhapatnam","IND","Andhra Pradesh",752037
+"779",1053,"Jabalpur","IND","Madhya Pradesh",741927
+"780",1054,"Amritsar","IND","Punjab",708835
+"781",1055,"Faridabad","IND","Haryana",703592
+"782",1056,"Vijayawada","IND","Andhra Pradesh",701827
+"783",1057,"Gwalior","IND","Madhya Pradesh",690765
+"784",1058,"Jodhpur","IND","Rajasthan",666279
+"785",1059,"Nashik (Nasik)","IND","Maharashtra",656925
+"786",1060,"Hubli-Dharwad","IND","Karnataka",648298
+"787",1061,"Solapur (Sholapur)","IND","Maharashtra",604215
+"788",1062,"Ranchi","IND","Jharkhand",599306
+"789",1063,"Bareilly","IND","Uttar Pradesh",587211
+"790",1064,"Guwahati (Gauhati)","IND","Assam",584342
+"791",1065,"Shambajinagar (Aurangabad)","IND","Maharashtra",573272
+"792",1066,"Cochin (Kochi)","IND","Kerala",564589
+"793",1067,"Rajkot","IND","Gujarat",559407
+"794",1068,"Kota","IND","Rajasthan",537371
+"795",1069,"Thiruvananthapuram (Trivandrum","IND","Kerala",524006
+"796",1070,"Pimpri-Chinchwad","IND","Maharashtra",517083
+"797",1071,"Jalandhar (Jullundur)","IND","Punjab",509510
+"798",1072,"Gorakhpur","IND","Uttar Pradesh",505566
+"799",1073,"Chandigarh","IND","Chandigarh",504094
+"800",1074,"Mysore","IND","Karnataka",480692
+"801",1075,"Aligarh","IND","Uttar Pradesh",480520
+"802",1076,"Guntur","IND","Andhra Pradesh",471051
+"803",1077,"Jamshedpur","IND","Jharkhand",460577
+"804",1078,"Ghaziabad","IND","Uttar Pradesh",454156
+"805",1079,"Warangal","IND","Andhra Pradesh",447657
+"806",1080,"Raipur","IND","Chhatisgarh",438639
+"807",1081,"Moradabad","IND","Uttar Pradesh",429214
+"808",1082,"Durgapur","IND","West Bengali",425836
+"809",1083,"Amravati","IND","Maharashtra",421576
+"810",1084,"Calicut (Kozhikode)","IND","Kerala",419831
+"811",1085,"Bikaner","IND","Rajasthan",416289
+"812",1086,"Bhubaneswar","IND","Orissa",411542
+"813",1087,"Kolhapur","IND","Maharashtra",406370
+"814",1088,"Kataka (Cuttack)","IND","Orissa",403418
+"815",1089,"Ajmer","IND","Rajasthan",402700
+"816",1090,"Bhavnagar","IND","Gujarat",402338
+"817",1091,"Tiruchirapalli","IND","Tamil Nadu",387223
+"818",1092,"Bhilai","IND","Chhatisgarh",386159
+"819",1093,"Bhiwandi","IND","Maharashtra",379070
+"820",1094,"Saharanpur","IND","Uttar Pradesh",374945
+"821",1095,"Ulhasnagar","IND","Maharashtra",369077
+"822",1096,"Salem","IND","Tamil Nadu",366712
+"823",1097,"Ujjain","IND","Madhya Pradesh",362266
+"824",1098,"Malegaon","IND","Maharashtra",342595
+"825",1099,"Jamnagar","IND","Gujarat",341637
+"826",1100,"Bokaro Steel City","IND","Jharkhand",333683
+"827",1101,"Akola","IND","Maharashtra",328034
+"828",1102,"Belgaum","IND","Karnataka",326399
+"829",1103,"Rajahmundry","IND","Andhra Pradesh",324851
+"830",1104,"Nellore","IND","Andhra Pradesh",316606
+"831",1105,"Udaipur","IND","Rajasthan",308571
+"832",1106,"New Bombay","IND","Maharashtra",307297
+"833",1107,"Bhatpara","IND","West Bengali",304952
+"834",1108,"Gulbarga","IND","Karnataka",304099
+"835",1109,"New Delhi","IND","Delhi",301297
+"836",1110,"Jhansi","IND","Uttar Pradesh",300850
+"837",1111,"Gaya","IND","Bihar",291675
+"838",1112,"Kakinada","IND","Andhra Pradesh",279980
+"839",1113,"Dhule (Dhulia)","IND","Maharashtra",278317
+"840",1114,"Panihati","IND","West Bengali",275990
+"841",1115,"Nanded (Nander)","IND","Maharashtra",275083
+"842",1116,"Mangalore","IND","Karnataka",273304
+"843",1117,"Dehra Dun","IND","Uttaranchal",270159
+"844",1118,"Kamarhati","IND","West Bengali",266889
+"845",1119,"Davangere","IND","Karnataka",266082
+"846",1120,"Asansol","IND","West Bengali",262188
+"847",1121,"Bhagalpur","IND","Bihar",253225
+"848",1122,"Bellary","IND","Karnataka",245391
+"849",1123,"Barddhaman (Burdwan)","IND","West Bengali",245079
+"850",1124,"Rampur","IND","Uttar Pradesh",243742
+"851",1125,"Jalgaon","IND","Maharashtra",242193
+"852",1126,"Muzaffarpur","IND","Bihar",241107
+"853",1127,"Nizamabad","IND","Andhra Pradesh",241034
+"854",1128,"Muzaffarnagar","IND","Uttar Pradesh",240609
+"855",1129,"Patiala","IND","Punjab",238368
+"856",1130,"Shahjahanpur","IND","Uttar Pradesh",237713
+"857",1131,"Kurnool","IND","Andhra Pradesh",236800
+"858",1132,"Tiruppur (Tirupper)","IND","Tamil Nadu",235661
+"859",1133,"Rohtak","IND","Haryana",233400
+"860",1134,"South Dum Dum","IND","West Bengali",232811
+"861",1135,"Mathura","IND","Uttar Pradesh",226691
+"862",1136,"Chandrapur","IND","Maharashtra",226105
+"863",1137,"Barahanagar (Baranagar)","IND","West Bengali",224821
+"864",1138,"Darbhanga","IND","Bihar",218391
+"865",1139,"Siliguri (Shiliguri)","IND","West Bengali",216950
+"866",1140,"Raurkela","IND","Orissa",215489
+"867",1141,"Ambattur","IND","Tamil Nadu",215424
+"868",1142,"Panipat","IND","Haryana",215218
+"869",1143,"Firozabad","IND","Uttar Pradesh",215128
+"870",1144,"Ichalkaranji","IND","Maharashtra",214950
+"871",1145,"Jammu","IND","Jammu and Kashmir",214737
+"872",1146,"Ramagundam","IND","Andhra Pradesh",214384
+"873",1147,"Eluru","IND","Andhra Pradesh",212866
+"874",1148,"Brahmapur","IND","Orissa",210418
+"875",1149,"Alwar","IND","Rajasthan",205086
+"876",1150,"Pondicherry","IND","Pondicherry",203065
+"877",1151,"Thanjavur","IND","Tamil Nadu",202013
+"878",1152,"Bihar Sharif","IND","Bihar",201323
+"879",1153,"Tuticorin","IND","Tamil Nadu",199854
+"880",1154,"Imphal","IND","Manipur",198535
+"881",1155,"Latur","IND","Maharashtra",197408
+"882",1156,"Sagar","IND","Madhya Pradesh",195346
+"883",1157,"Farrukhabad-cum-Fatehgarh","IND","Uttar Pradesh",194567
+"884",1158,"Sangli","IND","Maharashtra",193197
+"885",1159,"Parbhani","IND","Maharashtra",190255
+"886",1160,"Nagar Coil","IND","Tamil Nadu",190084
+"887",1161,"Bijapur","IND","Karnataka",186939
+"888",1162,"Kukatpalle","IND","Andhra Pradesh",185378
+"889",1163,"Bally","IND","West Bengali",184474
+"890",1164,"Bhilwara","IND","Rajasthan",183965
+"891",1165,"Ratlam","IND","Madhya Pradesh",183375
+"892",1166,"Avadi","IND","Tamil Nadu",183215
+"893",1167,"Dindigul","IND","Tamil Nadu",182477
+"894",1168,"Ahmadnagar","IND","Maharashtra",181339
+"895",1169,"Bilaspur","IND","Chhatisgarh",179833
+"896",1170,"Shimoga","IND","Karnataka",179258
+"897",1171,"Kharagpur","IND","West Bengali",177989
+"898",1172,"Mira Bhayandar","IND","Maharashtra",175372
+"899",1173,"Vellore","IND","Tamil Nadu",175061
+"900",1174,"Jalna","IND","Maharashtra",174985
+"901",1175,"Burnpur","IND","West Bengali",174933
+"902",1176,"Anantapur","IND","Andhra Pradesh",174924
+"903",1177,"Allappuzha (Alleppey)","IND","Kerala",174666
+"904",1178,"Tirupati","IND","Andhra Pradesh",174369
+"905",1179,"Karnal","IND","Haryana",173751
+"906",1180,"Burhanpur","IND","Madhya Pradesh",172710
+"907",1181,"Hisar (Hissar)","IND","Haryana",172677
+"908",1182,"Tiruvottiyur","IND","Tamil Nadu",172562
+"909",1183,"Mirzapur-cum-Vindhyachal","IND","Uttar Pradesh",169336
+"910",1184,"Secunderabad","IND","Andhra Pradesh",167461
+"911",1185,"Nadiad","IND","Gujarat",167051
+"912",1186,"Dewas","IND","Madhya Pradesh",164364
+"913",1187,"Murwara (Katni)","IND","Madhya Pradesh",163431
+"914",1188,"Ganganagar","IND","Rajasthan",161482
+"915",1189,"Vizianagaram","IND","Andhra Pradesh",160359
+"916",1190,"Erode","IND","Tamil Nadu",159232
+"917",1191,"Machilipatnam (Masulipatam)","IND","Andhra Pradesh",159110
+"918",1192,"Bhatinda (Bathinda)","IND","Punjab",159042
+"919",1193,"Raichur","IND","Karnataka",157551
+"920",1194,"Agartala","IND","Tripura",157358
+"921",1195,"Arrah (Ara)","IND","Bihar",157082
+"922",1196,"Satna","IND","Madhya Pradesh",156630
+"923",1197,"Lalbahadur Nagar","IND","Andhra Pradesh",155500
+"924",1198,"Aizawl","IND","Mizoram",155240
+"925",1199,"Uluberia","IND","West Bengali",155172
+"926",1200,"Katihar","IND","Bihar",154367
+"927",1201,"Cuddalore","IND","Tamil Nadu",153086
+"928",1202,"Hugli-Chinsurah","IND","West Bengali",151806
+"929",1203,"Dhanbad","IND","Jharkhand",151789
+"930",1204,"Raiganj","IND","West Bengali",151045
+"931",1205,"Sambhal","IND","Uttar Pradesh",150869
+"932",1206,"Durg","IND","Chhatisgarh",150645
+"933",1207,"Munger (Monghyr)","IND","Bihar",150112
+"934",1208,"Kanchipuram","IND","Tamil Nadu",150100
+"935",1209,"North Dum Dum","IND","West Bengali",149965
+"936",1210,"Karimnagar","IND","Andhra Pradesh",148583
+"937",1211,"Bharatpur","IND","Rajasthan",148519
+"938",1212,"Sikar","IND","Rajasthan",148272
+"939",1213,"Hardwar (Haridwar)","IND","Uttaranchal",147305
+"940",1214,"Dabgram","IND","West Bengali",147217
+"941",1215,"Morena","IND","Madhya Pradesh",147124
+"942",1216,"Noida","IND","Uttar Pradesh",146514
+"943",1217,"Hapur","IND","Uttar Pradesh",146262
+"944",1218,"Bhusawal","IND","Maharashtra",145143
+"945",1219,"Khandwa","IND","Madhya Pradesh",145133
+"946",1220,"Yamuna Nagar","IND","Haryana",144346
+"947",1221,"Sonipat (Sonepat)","IND","Haryana",143922
+"948",1222,"Tenali","IND","Andhra Pradesh",143726
+"949",1223,"Raurkela Civil Township","IND","Orissa",140408
+"950",1224,"Kollam (Quilon)","IND","Kerala",139852
+"951",1225,"Kumbakonam","IND","Tamil Nadu",139483
+"952",1226,"Ingraj Bazar (English Bazar)","IND","West Bengali",139204
+"953",1227,"Timkur","IND","Karnataka",138903
+"954",1228,"Amroha","IND","Uttar Pradesh",137061
+"955",1229,"Serampore","IND","West Bengali",137028
+"956",1230,"Chapra","IND","Bihar",136877
+"957",1231,"Pali","IND","Rajasthan",136842
+"958",1232,"Maunath Bhanjan","IND","Uttar Pradesh",136697
+"959",1233,"Adoni","IND","Andhra Pradesh",136182
+"960",1234,"Jaunpur","IND","Uttar Pradesh",136062
+"961",1235,"Tirunelveli","IND","Tamil Nadu",135825
+"962",1236,"Bahraich","IND","Uttar Pradesh",135400
+"963",1237,"Gadag Betigeri","IND","Karnataka",134051
+"964",1238,"Proddatur","IND","Andhra Pradesh",133914
+"965",1239,"Chittoor","IND","Andhra Pradesh",133462
+"966",1240,"Barrackpur","IND","West Bengali",133265
+"967",1241,"Bharuch (Broach)","IND","Gujarat",133102
+"968",1242,"Naihati","IND","West Bengali",132701
+"969",1243,"Shillong","IND","Meghalaya",131719
+"970",1244,"Sambalpur","IND","Orissa",131138
+"971",1245,"Junagadh","IND","Gujarat",130484
+"972",1246,"Rae Bareli","IND","Uttar Pradesh",129904
+"973",1247,"Rewa","IND","Madhya Pradesh",128981
+"974",1248,"Gurgaon","IND","Haryana",128608
+"975",1249,"Khammam","IND","Andhra Pradesh",127992
+"976",1250,"Bulandshahr","IND","Uttar Pradesh",127201
+"977",1251,"Navsari","IND","Gujarat",126089
+"978",1252,"Malkajgiri","IND","Andhra Pradesh",126066
+"979",1253,"Midnapore (Medinipur)","IND","West Bengali",125498
+"980",1254,"Miraj","IND","Maharashtra",125407
+"981",1255,"Raj Nandgaon","IND","Chhatisgarh",125371
+"982",1256,"Alandur","IND","Tamil Nadu",125244
+"983",1257,"Puri","IND","Orissa",125199
+"984",1258,"Navadwip","IND","West Bengali",125037
+"985",1259,"Sirsa","IND","Haryana",125000
+"986",1260,"Korba","IND","Chhatisgarh",124501
+"987",1261,"Faizabad","IND","Uttar Pradesh",124437
+"988",1262,"Etawah","IND","Uttar Pradesh",124072
+"989",1263,"Pathankot","IND","Punjab",123930
+"990",1264,"Gandhinagar","IND","Gujarat",123359
+"991",1265,"Palghat (Palakkad)","IND","Kerala",123289
+"992",1266,"Veraval","IND","Gujarat",123000
+"993",1267,"Hoshiarpur","IND","Punjab",122705
+"994",1268,"Ambala","IND","Haryana",122596
+"995",1269,"Sitapur","IND","Uttar Pradesh",121842
+"996",1270,"Bhiwani","IND","Haryana",121629
+"997",1271,"Cuddapah","IND","Andhra Pradesh",121463
+"998",1272,"Bhimavaram","IND","Andhra Pradesh",121314
+"999",1273,"Krishnanagar","IND","West Bengali",121110
+"1000",1274,"Chandannagar","IND","West Bengali",120378
+"1001",1275,"Mandya","IND","Karnataka",120265
+"1002",1276,"Dibrugarh","IND","Assam",120127
+"1003",1277,"Nandyal","IND","Andhra Pradesh",119813
+"1004",1278,"Balurghat","IND","West Bengali",119796
+"1005",1279,"Neyveli","IND","Tamil Nadu",118080
+"1006",1280,"Fatehpur","IND","Uttar Pradesh",117675
+"1007",1281,"Mahbubnagar","IND","Andhra Pradesh",116833
+"1008",1282,"Budaun","IND","Uttar Pradesh",116695
+"1009",1283,"Porbandar","IND","Gujarat",116671
+"1010",1284,"Silchar","IND","Assam",115483
+"1011",1285,"Berhampore (Baharampur)","IND","West Bengali",115144
+"1012",1286,"Purnea (Purnia)","IND","Jharkhand",114912
+"1013",1287,"Bankura","IND","West Bengali",114876
+"1014",1288,"Rajapalaiyam","IND","Tamil Nadu",114202
+"1015",1289,"Titagarh","IND","West Bengali",114085
+"1016",1290,"Halisahar","IND","West Bengali",114028
+"1017",1291,"Hathras","IND","Uttar Pradesh",113285
+"1018",1292,"Bhir (Bid)","IND","Maharashtra",112434
+"1019",1293,"Pallavaram","IND","Tamil Nadu",111866
+"1020",1294,"Anand","IND","Gujarat",110266
+"1021",1295,"Mango","IND","Jharkhand",110024
+"1022",1296,"Santipur","IND","West Bengali",109956
+"1023",1297,"Bhind","IND","Madhya Pradesh",109755
+"1024",1298,"Gondiya","IND","Maharashtra",109470
+"1025",1299,"Tiruvannamalai","IND","Tamil Nadu",109196
+"1026",1300,"Yeotmal (Yavatmal)","IND","Maharashtra",108578
+"1027",1301,"Kulti-Barakar","IND","West Bengali",108518
+"1028",1302,"Moga","IND","Punjab",108304
+"1029",1303,"Shivapuri","IND","Madhya Pradesh",108277
+"1030",1304,"Bidar","IND","Karnataka",108016
+"1031",1305,"Guntakal","IND","Andhra Pradesh",107592
+"1032",1306,"Unnao","IND","Uttar Pradesh",107425
+"1033",1307,"Barasat","IND","West Bengali",107365
+"1034",1308,"Tambaram","IND","Tamil Nadu",107187
+"1035",1309,"Abohar","IND","Punjab",107163
+"1036",1310,"Pilibhit","IND","Uttar Pradesh",106605
+"1037",1311,"Valparai","IND","Tamil Nadu",106523
+"1038",1312,"Gonda","IND","Uttar Pradesh",106078
+"1039",1313,"Surendranagar","IND","Gujarat",105973
+"1040",1314,"Qutubullapur","IND","Andhra Pradesh",105380
+"1041",1315,"Beawar","IND","Rajasthan",105363
+"1042",1316,"Hindupur","IND","Andhra Pradesh",104651
+"1043",1317,"Gandhidham","IND","Gujarat",104585
+"1044",1318,"Haldwani-cum-Kathgodam","IND","Uttaranchal",104195
+"1045",1319,"Tellicherry (Thalassery)","IND","Kerala",103579
+"1046",1320,"Wardha","IND","Maharashtra",102985
+"1047",1321,"Rishra","IND","West Bengali",102649
+"1048",1322,"Bhuj","IND","Gujarat",102176
+"1049",1323,"Modinagar","IND","Uttar Pradesh",101660
+"1050",1324,"Gudivada","IND","Andhra Pradesh",101656
+"1051",1325,"Basirhat","IND","West Bengali",101409
+"1052",1326,"Uttarpara-Kotrung","IND","West Bengali",100867
+"1053",1327,"Ongole","IND","Andhra Pradesh",100836
+"1054",1328,"North Barrackpur","IND","West Bengali",100513
+"1055",1329,"Guna","IND","Madhya Pradesh",100490
+"1056",1330,"Haldia","IND","West Bengali",100347
+"1057",1331,"Habra","IND","West Bengali",100223
+"1058",1332,"Kanchrapara","IND","West Bengali",100194
+"1059",1333,"Tonk","IND","Rajasthan",100079
+"1060",1334,"Champdani","IND","West Bengali",98818
+"1061",1335,"Orai","IND","Uttar Pradesh",98640
+"1062",1336,"Pudukkottai","IND","Tamil Nadu",98619
+"1063",1337,"Sasaram","IND","Bihar",98220
+"1064",1338,"Hazaribag","IND","Jharkhand",97712
+"1065",1339,"Palayankottai","IND","Tamil Nadu",97662
+"1066",1340,"Banda","IND","Uttar Pradesh",97227
+"1067",1341,"Godhra","IND","Gujarat",96813
+"1068",1342,"Hospet","IND","Karnataka",96322
+"1069",1343,"Ashoknagar-Kalyangarh","IND","West Bengali",96315
+"1070",1344,"Achalpur","IND","Maharashtra",96216
+"1071",1345,"Patan","IND","Gujarat",96109
+"1072",1346,"Mandasor","IND","Madhya Pradesh",95758
+"1073",1347,"Damoh","IND","Madhya Pradesh",95661
+"1074",1348,"Satara","IND","Maharashtra",95133
+"1075",1349,"Meerut Cantonment","IND","Uttar Pradesh",94876
+"1076",1350,"Dehri","IND","Bihar",94526
+"1077",1351,"Delhi Cantonment","IND","Delhi",94326
+"1078",1352,"Chhindwara","IND","Madhya Pradesh",93731
+"1079",1353,"Bansberia","IND","West Bengali",93447
+"1080",1354,"Nagaon","IND","Assam",93350
+"1081",1355,"Kanpur Cantonment","IND","Uttar Pradesh",93109
+"1082",1356,"Vidisha","IND","Madhya Pradesh",92917
+"1083",1357,"Bettiah","IND","Bihar",92583
+"1084",1358,"Purulia","IND","Jharkhand",92574
+"1085",1359,"Hassan","IND","Karnataka",90803
+"1086",1360,"Ambala Sadar","IND","Haryana",90712
+"1087",1361,"Baidyabati","IND","West Bengali",90601
+"1088",1362,"Morvi","IND","Gujarat",90357
+"1089",1363,"Raigarh","IND","Chhatisgarh",89166
+"1090",1364,"Vejalpur","IND","Gujarat",89053
+"1091",1365,"Baghdad","IRQ","Baghdad",4336000
+"1092",1366,"Mosul","IRQ","Ninawa",879000
+"1093",1367,"Irbil","IRQ","Irbil",485968
+"1094",1368,"Kirkuk","IRQ","al-Tamim",418624
+"1095",1369,"Basra","IRQ","Basra",406296
+"1096",1370,"al-Sulaymaniya","IRQ","al-Sulaymaniya",364096
+"1097",1371,"al-Najaf","IRQ","al-Najaf",309010
+"1098",1372,"Karbala","IRQ","Karbala",296705
+"1099",1373,"al-Hilla","IRQ","Babil",268834
+"1100",1374,"al-Nasiriya","IRQ","DhiQar",265937
+"1101",1375,"al-Amara","IRQ","Maysan",208797
+"1102",1376,"al-Diwaniya","IRQ","al-Qadisiya",196519
+"1103",1377,"al-Ramadi","IRQ","al-Anbar",192556
+"1104",1378,"al-Kut","IRQ","Wasit",183183
+"1105",1379,"Baquba","IRQ","Diyala",114516
+"1106",1380,"Teheran","IRN","Teheran",6758845
+"1107",1381,"Mashhad","IRN","Khorasan",1887405
+"1108",1382,"Esfahan","IRN","Esfahan",1266072
+"1109",1383,"Tabriz","IRN","East Azerbaidzan",1191043
+"1110",1384,"Shiraz","IRN","Fars",1053025
+"1111",1385,"Karaj","IRN","Teheran",940968
+"1112",1386,"Ahvaz","IRN","Khuzestan",804980
+"1113",1387,"Qom","IRN","Qom",777677
+"1114",1388,"Kermanshah","IRN","Kermanshah",692986
+"1115",1389,"Urmia","IRN","West Azerbaidzan",435200
+"1116",1390,"Zahedan","IRN","Sistan va Baluchesta",419518
+"1117",1391,"Rasht","IRN","Gilan",417748
+"1118",1392,"Hamadan","IRN","Hamadan",401281
+"1119",1393,"Kerman","IRN","Kerman",384991
+"1120",1394,"Arak","IRN","Markazi",380755
+"1121",1395,"Ardebil","IRN","Ardebil",340386
+"1122",1396,"Yazd","IRN","Yazd",326776
+"1123",1397,"Qazvin","IRN","Qazvin",291117
+"1124",1398,"Zanjan","IRN","Zanjan",286295
+"1125",1399,"Sanandaj","IRN","Kordestan",277808
+"1126",1400,"Bandar-e-Abbas","IRN","Hormozgan",273578
+"1127",1401,"Khorramabad","IRN","Lorestan",272815
+"1128",1402,"Eslamshahr","IRN","Teheran",265450
+"1129",1403,"Borujerd","IRN","Lorestan",217804
+"1130",1404,"Abadan","IRN","Khuzestan",206073
+"1131",1405,"Dezful","IRN","Khuzestan",202639
+"1132",1406,"Kashan","IRN","Esfahan",201372
+"1133",1407,"Sari","IRN","Mazandaran",195882
+"1134",1408,"Gorgan","IRN","Golestan",188710
+"1135",1409,"Najafabad","IRN","Esfahan",178498
+"1136",1410,"Sabzevar","IRN","Khorasan",170738
+"1137",1411,"Khomeynishahr","IRN","Esfahan",165888
+"1138",1412,"Amol","IRN","Mazandaran",159092
+"1139",1413,"Neyshabur","IRN","Khorasan",158847
+"1140",1414,"Babol","IRN","Mazandaran",158346
+"1141",1415,"Khoy","IRN","West Azerbaidzan",148944
+"1142",1416,"Malayer","IRN","Hamadan",144373
+"1143",1417,"Bushehr","IRN","Bushehr",143641
+"1144",1418,"Qaemshahr","IRN","Mazandaran",143286
+"1145",1419,"Qarchak","IRN","Teheran",142690
+"1146",1420,"Qods","IRN","Teheran",138278
+"1147",1421,"Sirjan","IRN","Kerman",135024
+"1148",1422,"Bojnurd","IRN","Khorasan",134835
+"1149",1423,"Maragheh","IRN","East Azerbaidzan",132318
+"1150",1424,"Birjand","IRN","Khorasan",127608
+"1151",1425,"Ilam","IRN","Ilam",126346
+"1152",1426,"Bukan","IRN","West Azerbaidzan",120020
+"1153",1427,"Masjed-e-Soleyman","IRN","Khuzestan",116883
+"1154",1428,"Saqqez","IRN","Kordestan",115394
+"1155",1429,"Gonbad-e Qabus","IRN","Mazandaran",111253
+"1156",1430,"Saveh","IRN","Qom",111245
+"1157",1431,"Mahabad","IRN","West Azerbaidzan",107799
+"1158",1432,"Varamin","IRN","Teheran",107233
+"1159",1433,"Andimeshk","IRN","Khuzestan",106923
+"1160",1434,"Khorramshahr","IRN","Khuzestan",105636
+"1161",1435,"Shahrud","IRN","Semnan",104765
+"1162",1436,"Marv Dasht","IRN","Fars",103579
+"1163",1437,"Zabol","IRN","Sistan va Baluchesta",100887
+"1164",1438,"Shahr-e Kord","IRN","Chaharmahal va Bakht",100477
+"1165",1439,"Bandar-e Anzali","IRN","Gilan",98500
+"1166",1440,"Rafsanjan","IRN","Kerman",98300
+"1167",1441,"Marand","IRN","East Azerbaidzan",96400
+"1168",1442,"Torbat-e Heydariyeh","IRN","Khorasan",94600
+"1169",1443,"Jahrom","IRN","Fars",94200
+"1170",1444,"Semnan","IRN","Semnan",91045
+"1171",1445,"Miandoab","IRN","West Azerbaidzan",90100
+"1172",1446,"Qomsheh","IRN","Esfahan",89800
+"1173",1447,"Dublin","IRL","Leinster",481854
+"1174",1448,"Cork","IRL","Munster",127187
+"1175",1450,"Jerusalem","ISR","Jerusalem",633700
+"1176",1451,"Tel Aviv-Jaffa","ISR","Tel Aviv",348100
+"1177",1452,"Haifa","ISR","Haifa",265700
+"1178",1453,"Rishon Le Ziyyon","ISR","Ha Merkaz",188200
+"1179",1454,"Beerseba","ISR","Ha Darom",163700
+"1180",1455,"Holon","ISR","Tel Aviv",163100
+"1181",1456,"Petah Tiqwa","ISR","Ha Merkaz",159400
+"1182",1457,"Ashdod","ISR","Ha Darom",155800
+"1183",1458,"Netanya","ISR","Ha Merkaz",154900
+"1184",1459,"Bat Yam","ISR","Tel Aviv",137000
+"1185",1460,"Bene Beraq","ISR","Tel Aviv",133900
+"1186",1461,"Ramat Gan","ISR","Tel Aviv",126900
+"1187",1462,"Ashqelon","ISR","Ha Darom",92300
+"1188",1463,"Rehovot","ISR","Ha Merkaz",90300
+"1189",1464,"Roma","ITA","Latium",2643581
+"1190",1465,"Milano","ITA","Lombardia",1300977
+"1191",1466,"Napoli","ITA","Campania",1002619
+"1192",1467,"Torino","ITA","Piemonte",903705
+"1193",1468,"Palermo","ITA","Sisilia",683794
+"1194",1469,"Genova","ITA","Liguria",636104
+"1195",1470,"Bologna","ITA","Emilia-Romagna",381161
+"1196",1471,"Firenze","ITA","Toscana",376662
+"1197",1472,"Catania","ITA","Sisilia",337862
+"1198",1473,"Bari","ITA","Apulia",331848
+"1199",1474,"Venezia","ITA","Veneto",277305
+"1200",1475,"Messina","ITA","Sisilia",259156
+"1201",1476,"Verona","ITA","Veneto",255268
+"1202",1477,"Trieste","ITA","Friuli-Venezia Giuli",216459
+"1203",1478,"Padova","ITA","Veneto",211391
+"1204",1479,"Taranto","ITA","Apulia",208214
+"1205",1480,"Brescia","ITA","Lombardia",191317
+"1206",1481,"Reggio di Calabria","ITA","Calabria",179617
+"1207",1482,"Modena","ITA","Emilia-Romagna",176022
+"1208",1483,"Prato","ITA","Toscana",172473
+"1209",1484,"Parma","ITA","Emilia-Romagna",168717
+"1210",1485,"Cagliari","ITA","Sardinia",165926
+"1211",1486,"Livorno","ITA","Toscana",161673
+"1212",1487,"Perugia","ITA","Umbria",156673
+"1213",1488,"Foggia","ITA","Apulia",154891
+"1214",1490,"Salerno","ITA","Campania",142055
+"1215",1491,"Ravenna","ITA","Emilia-Romagna",138418
+"1216",1492,"Ferrara","ITA","Emilia-Romagna",132127
+"1217",1493,"Rimini","ITA","Emilia-Romagna",131062
+"1218",1494,"Syrakusa","ITA","Sisilia",126282
+"1219",1495,"Sassari","ITA","Sardinia",120803
+"1220",1496,"Monza","ITA","Lombardia",119516
+"1221",1497,"Bergamo","ITA","Lombardia",117837
+"1222",1498,"Pescara","ITA","Abruzzit",115698
+"1223",1499,"Latina","ITA","Latium",114099
+"1224",1500,"Vicenza","ITA","Veneto",109738
+"1225",1501,"Terni","ITA","Umbria",107770
+"1226",1503,"Trento","ITA","Trentino-Alto Adige",104906
+"1227",1504,"Novara","ITA","Piemonte",102037
+"1228",1505,"Piacenza","ITA","Emilia-Romagna",98384
+"1229",1506,"Ancona","ITA","Marche",98329
+"1230",1507,"Lecce","ITA","Apulia",98208
+"1231",1508,"Bolzano","ITA","Trentino-Alto Adige",97232
+"1232",1509,"Catanzaro","ITA","Calabria",96700
+"1233",1510,"La Spezia","ITA","Liguria",95504
+"1234",1511,"Udine","ITA","Friuli-Venezia Giuli",94932
+"1235",1512,"Torre del Greco","ITA","Campania",94505
+"1236",1513,"Andria","ITA","Apulia",94443
+"1237",1514,"Brindisi","ITA","Apulia",93454
+"1238",1515,"Giugliano in Campania","ITA","Campania",93286
+"1239",1516,"Pisa","ITA","Toscana",92379
+"1240",1517,"Barletta","ITA","Apulia",91904
+"1241",1518,"Arezzo","ITA","Toscana",91729
+"1242",1519,"Alessandria","ITA","Piemonte",90289
+"1243",1520,"Cesena","ITA","Emilia-Romagna",89852
+"1244",1521,"Pesaro","ITA","Marche",88987
+"1245",1522,"Dili","TMP","Dili",47900
+"1246",1523,"Wien","AUT","Wien",1608144
+"1247",1524,"Graz","AUT","Steiermark",240967
+"1248",1525,"Linz","AUT","North Austria",188022
+"1249",1526,"Salzburg","AUT","Salzburg",144247
+"1250",1527,"Innsbruck","AUT","Tiroli",111752
+"1251",1529,"Spanish Town","JAM","St. Catherine",110379
+"1252",1530,"Kingston","JAM","St. Andrew",103962
+"1253",1531,"Portmore","JAM","St. Andrew",99799
+"1254",1532,"Tokyo","JPN","Tokyo-to",7980230
+"1255",1533,"Jokohama [Yokohama]","JPN","Kanagawa",3339594
+"1256",1534,"Osaka","JPN","Osaka",2595674
+"1257",1535,"Nagoya","JPN","Aichi",2154376
+"1258",1536,"Sapporo","JPN","Hokkaido",1790886
+"1259",1537,"Kioto","JPN","Kyoto",1461974
+"1260",1538,"Kobe","JPN","Hyogo",1425139
+"1261",1539,"Fukuoka","JPN","Fukuoka",1308379
+"1262",1540,"Kawasaki","JPN","Kanagawa",1217359
+"1263",1541,"Hiroshima","JPN","Hiroshima",1119117
+"1264",1542,"Kitakyushu","JPN","Fukuoka",1016264
+"1265",1543,"Sendai","JPN","Miyagi",989975
+"1266",1544,"Chiba","JPN","Chiba",863930
+"1267",1545,"Sakai","JPN","Osaka",797735
+"1268",1546,"Kumamoto","JPN","Kumamoto",656734
+"1269",1547,"Okayama","JPN","Okayama",624269
+"1270",1548,"Sagamihara","JPN","Kanagawa",586300
+"1271",1549,"Hamamatsu","JPN","Shizuoka",568796
+"1272",1550,"Kagoshima","JPN","Kagoshima",549977
+"1273",1551,"Funabashi","JPN","Chiba",545299
+"1274",1552,"Higashiosaka","JPN","Osaka",517785
+"1275",1553,"Hachioji","JPN","Tokyo-to",513451
+"1276",1554,"Niigata","JPN","Niigata",497464
+"1277",1555,"Amagasaki","JPN","Hyogo",481434
+"1278",1556,"Himeji","JPN","Hyogo",475167
+"1279",1557,"Shizuoka","JPN","Shizuoka",473854
+"1280",1558,"Urawa","JPN","Saitama",469675
+"1281",1559,"Matsuyama","JPN","Ehime",466133
+"1282",1560,"Matsudo","JPN","Chiba",461126
+"1283",1561,"Kanazawa","JPN","Ishikawa",455386
+"1284",1562,"Kawaguchi","JPN","Saitama",452155
+"1285",1563,"Ichikawa","JPN","Chiba",441893
+"1286",1564,"Omiya","JPN","Saitama",441649
+"1287",1565,"Utsunomiya","JPN","Tochigi",440353
+"1288",1566,"Oita","JPN","Oita",433401
+"1289",1567,"Nagasaki","JPN","Nagasaki",432759
+"1290",1568,"Yokosuka","JPN","Kanagawa",430200
+"1291",1569,"Kurashiki","JPN","Okayama",425103
+"1292",1570,"Gifu","JPN","Gifu",408007
+"1293",1571,"Hirakata","JPN","Osaka",403151
+"1294",1572,"Nishinomiya","JPN","Hyogo",397618
+"1295",1573,"Toyonaka","JPN","Osaka",396689
+"1296",1574,"Wakayama","JPN","Wakayama",391233
+"1297",1575,"Fukuyama","JPN","Hiroshima",376921
+"1298",1576,"Fujisawa","JPN","Kanagawa",372840
+"1299",1577,"Asahikawa","JPN","Hokkaido",364813
+"1300",1578,"Machida","JPN","Tokyo-to",364197
+"1301",1579,"Nara","JPN","Nara",362812
+"1302",1580,"Takatsuki","JPN","Osaka",361747
+"1303",1581,"Iwaki","JPN","Fukushima",361737
+"1304",1582,"Nagano","JPN","Nagano",361391
+"1305",1583,"Toyohashi","JPN","Aichi",360066
+"1306",1584,"Toyota","JPN","Aichi",346090
+"1307",1585,"Suita","JPN","Osaka",345750
+"1308",1586,"Takamatsu","JPN","Kagawa",332471
+"1309",1587,"Koriyama","JPN","Fukushima",330335
+"1310",1588,"Okazaki","JPN","Aichi",328711
+"1311",1589,"Kawagoe","JPN","Saitama",327211
+"1312",1590,"Tokorozawa","JPN","Saitama",325809
+"1313",1591,"Toyama","JPN","Toyama",325790
+"1314",1592,"Kochi","JPN","Kochi",324710
+"1315",1593,"Kashiwa","JPN","Chiba",320296
+"1316",1594,"Akita","JPN","Akita",314440
+"1317",1595,"Miyazaki","JPN","Miyazaki",303784
+"1318",1596,"Koshigaya","JPN","Saitama",301446
+"1319",1597,"Naha","JPN","Okinawa",299851
+"1320",1598,"Aomori","JPN","Aomori",295969
+"1321",1599,"Hakodate","JPN","Hokkaido",294788
+"1322",1600,"Akashi","JPN","Hyogo",292253
+"1323",1601,"Yokkaichi","JPN","Mie",288173
+"1324",1602,"Fukushima","JPN","Fukushima",287525
+"1325",1603,"Morioka","JPN","Iwate",287353
+"1326",1604,"Maebashi","JPN","Gumma",284473
+"1327",1605,"Kasugai","JPN","Aichi",282348
+"1328",1606,"Otsu","JPN","Shiga",282070
+"1329",1607,"Ichihara","JPN","Chiba",279280
+"1330",1608,"Yao","JPN","Osaka",276421
+"1331",1609,"Ichinomiya","JPN","Aichi",270828
+"1332",1610,"Tokushima","JPN","Tokushima",269649
+"1333",1611,"Kakogawa","JPN","Hyogo",266281
+"1334",1612,"Ibaraki","JPN","Osaka",261020
+"1335",1613,"Neyagawa","JPN","Osaka",257315
+"1336",1614,"Shimonoseki","JPN","Yamaguchi",257263
+"1337",1615,"Yamagata","JPN","Yamagata",255617
+"1338",1616,"Fukui","JPN","Fukui",254818
+"1339",1617,"Hiratsuka","JPN","Kanagawa",254207
+"1340",1618,"Mito","JPN","Ibaragi",246559
+"1341",1619,"Sasebo","JPN","Nagasaki",244240
+"1342",1620,"Hachinohe","JPN","Aomori",242979
+"1343",1621,"Takasaki","JPN","Gumma",239124
+"1344",1622,"Shimizu","JPN","Shizuoka",239123
+"1345",1623,"Kurume","JPN","Fukuoka",235611
+"1346",1624,"Fuji","JPN","Shizuoka",231527
+"1347",1625,"Soka","JPN","Saitama",222768
+"1348",1626,"Fuchu","JPN","Tokyo-to",220576
+"1349",1627,"Chigasaki","JPN","Kanagawa",216015
+"1350",1628,"Atsugi","JPN","Kanagawa",212407
+"1351",1629,"Numazu","JPN","Shizuoka",211382
+"1352",1630,"Ageo","JPN","Saitama",209442
+"1353",1631,"Yamato","JPN","Kanagawa",208234
+"1354",1632,"Matsumoto","JPN","Nagano",206801
+"1355",1633,"Kure","JPN","Hiroshima",206504
+"1356",1634,"Takarazuka","JPN","Hyogo",205993
+"1357",1635,"Kasukabe","JPN","Saitama",201838
+"1358",1636,"Chofu","JPN","Tokyo-to",201585
+"1359",1637,"Odawara","JPN","Kanagawa",200171
+"1360",1638,"Kofu","JPN","Yamanashi",199753
+"1361",1639,"Kushiro","JPN","Hokkaido",197608
+"1362",1640,"Kishiwada","JPN","Osaka",197276
+"1363",1641,"Hitachi","JPN","Ibaragi",196622
+"1364",1642,"Nagaoka","JPN","Niigata",192407
+"1365",1643,"Itami","JPN","Hyogo",190886
+"1366",1644,"Uji","JPN","Kyoto",188735
+"1367",1645,"Suzuka","JPN","Mie",184061
+"1368",1646,"Hirosaki","JPN","Aomori",177522
+"1369",1647,"Ube","JPN","Yamaguchi",175206
+"1370",1648,"Kodaira","JPN","Tokyo-to",174984
+"1371",1649,"Takaoka","JPN","Toyama",174380
+"1372",1650,"Obihiro","JPN","Hokkaido",173685
+"1373",1651,"Tomakomai","JPN","Hokkaido",171958
+"1374",1652,"Saga","JPN","Saga",170034
+"1375",1653,"Sakura","JPN","Chiba",168072
+"1376",1654,"Kamakura","JPN","Kanagawa",167661
+"1377",1655,"Mitaka","JPN","Tokyo-to",167268
+"1378",1656,"Izumi","JPN","Osaka",166979
+"1379",1657,"Hino","JPN","Tokyo-to",166770
+"1380",1658,"Hadano","JPN","Kanagawa",166512
+"1381",1659,"Ashikaga","JPN","Tochigi",165243
+"1382",1660,"Tsu","JPN","Mie",164543
+"1383",1661,"Sayama","JPN","Saitama",162472
+"1384",1662,"Yachiyo","JPN","Chiba",161222
+"1385",1663,"Tsukuba","JPN","Ibaragi",160768
+"1386",1664,"Tachikawa","JPN","Tokyo-to",159430
+"1387",1665,"Kumagaya","JPN","Saitama",157171
+"1388",1666,"Moriguchi","JPN","Osaka",155941
+"1389",1667,"Otaru","JPN","Hokkaido",155784
+"1390",1668,"Anjo","JPN","Aichi",153823
+"1391",1669,"Narashino","JPN","Chiba",152849
+"1392",1670,"Oyama","JPN","Tochigi",152820
+"1393",1671,"Ogaki","JPN","Gifu",151758
+"1394",1672,"Matsue","JPN","Shimane",149821
+"1395",1673,"Kawanishi","JPN","Hyogo",149794
+"1396",1674,"Hitachinaka","JPN","Tokyo-to",148006
+"1397",1675,"Niiza","JPN","Saitama",147744
+"1398",1676,"Nagareyama","JPN","Chiba",147738
+"1399",1677,"Tottori","JPN","Tottori",147523
+"1400",1678,"Tama","JPN","Ibaragi",146712
+"1401",1679,"Iruma","JPN","Saitama",145922
+"1402",1680,"Ota","JPN","Gumma",145317
+"1403",1681,"Omuta","JPN","Fukuoka",142889
+"1404",1682,"Komaki","JPN","Aichi",139827
+"1405",1683,"Ome","JPN","Tokyo-to",139216
+"1406",1684,"Kadoma","JPN","Osaka",138953
+"1407",1685,"Yamaguchi","JPN","Yamaguchi",138210
+"1408",1686,"Higashimurayama","JPN","Tokyo-to",136970
+"1409",1687,"Yonago","JPN","Tottori",136461
+"1410",1688,"Matsubara","JPN","Osaka",135010
+"1411",1689,"Musashino","JPN","Tokyo-to",134426
+"1412",1690,"Tsuchiura","JPN","Ibaragi",134072
+"1413",1691,"Joetsu","JPN","Niigata",133505
+"1414",1692,"Miyakonojo","JPN","Miyazaki",133183
+"1415",1693,"Misato","JPN","Saitama",132957
+"1416",1694,"Kakamigahara","JPN","Gifu",131831
+"1417",1695,"Daito","JPN","Osaka",130594
+"1418",1696,"Seto","JPN","Aichi",130470
+"1419",1697,"Kariya","JPN","Aichi",127969
+"1420",1698,"Urayasu","JPN","Chiba",127550
+"1421",1699,"Beppu","JPN","Oita",127486
+"1422",1700,"Niihama","JPN","Ehime",127207
+"1423",1701,"Minoo","JPN","Osaka",127026
+"1424",1702,"Fujieda","JPN","Shizuoka",126897
+"1425",1703,"Abiko","JPN","Chiba",126670
+"1426",1704,"Nobeoka","JPN","Miyazaki",125547
+"1427",1705,"Tondabayashi","JPN","Osaka",125094
+"1428",1706,"Ueda","JPN","Nagano",124217
+"1429",1707,"Kashihara","JPN","Nara",124013
+"1430",1708,"Matsusaka","JPN","Mie",123582
+"1431",1709,"Isesaki","JPN","Gumma",123285
+"1432",1710,"Zama","JPN","Kanagawa",122046
+"1433",1711,"Kisarazu","JPN","Chiba",121967
+"1434",1712,"Noda","JPN","Chiba",121030
+"1435",1713,"Ishinomaki","JPN","Miyagi",120963
+"1436",1714,"Fujinomiya","JPN","Shizuoka",119714
+"1437",1715,"Kawachinagano","JPN","Osaka",119666
+"1438",1716,"Imabari","JPN","Ehime",119357
+"1439",1717,"Aizuwakamatsu","JPN","Fukushima",119287
+"1440",1718,"Higashihiroshima","JPN","Hiroshima",119166
+"1441",1719,"Habikino","JPN","Osaka",118968
+"1442",1720,"Ebetsu","JPN","Hokkaido",118805
+"1443",1721,"Hofu","JPN","Yamaguchi",118751
+"1444",1722,"Kiryu","JPN","Gumma",118326
+"1445",1723,"Okinawa","JPN","Okinawa",117748
+"1446",1724,"Yaizu","JPN","Shizuoka",117258
+"1447",1725,"Toyokawa","JPN","Aichi",115781
+"1448",1726,"Ebina","JPN","Kanagawa",115571
+"1449",1727,"Asaka","JPN","Saitama",114815
+"1450",1728,"Higashikurume","JPN","Tokyo-to",111666
+"1451",1729,"Ikoma","JPN","Nara",111645
+"1452",1730,"Kitami","JPN","Hokkaido",111295
+"1453",1731,"Koganei","JPN","Tokyo-to",110969
+"1454",1732,"Iwatsuki","JPN","Saitama",110034
+"1455",1733,"Mishima","JPN","Shizuoka",109699
+"1456",1734,"Handa","JPN","Aichi",108600
+"1457",1735,"Muroran","JPN","Hokkaido",108275
+"1458",1736,"Komatsu","JPN","Ishikawa",107937
+"1459",1737,"Yatsushiro","JPN","Kumamoto",107661
+"1460",1738,"Iida","JPN","Nagano",107583
+"1461",1739,"Tokuyama","JPN","Yamaguchi",107078
+"1462",1740,"Kokubunji","JPN","Tokyo-to",106996
+"1463",1741,"Akishima","JPN","Tokyo-to",106914
+"1464",1742,"Iwakuni","JPN","Yamaguchi",106647
+"1465",1743,"Kusatsu","JPN","Shiga",106232
+"1466",1744,"Kuwana","JPN","Mie",106121
+"1467",1745,"Sanda","JPN","Hyogo",105643
+"1468",1746,"Hikone","JPN","Shiga",105508
+"1469",1747,"Toda","JPN","Saitama",103969
+"1470",1748,"Tajimi","JPN","Gifu",103171
+"1471",1749,"Ikeda","JPN","Osaka",102710
+"1472",1750,"Fukaya","JPN","Saitama",102156
+"1473",1751,"Ise","JPN","Mie",101732
+"1474",1752,"Sakata","JPN","Yamagata",101651
+"1475",1753,"Kasuga","JPN","Fukuoka",101344
+"1476",1754,"Kamagaya","JPN","Chiba",100821
+"1477",1755,"Tsuruoka","JPN","Yamagata",100713
+"1478",1756,"Hoya","JPN","Tokyo-to",100313
+"1479",1757,"Nishio","JPN","Chiba",100032
+"1480",1758,"Tokai","JPN","Aichi",99738
+"1481",1759,"Inazawa","JPN","Aichi",98746
+"1482",1760,"Sakado","JPN","Saitama",98221
+"1483",1761,"Isehara","JPN","Kanagawa",98123
+"1484",1762,"Takasago","JPN","Hyogo",97632
+"1485",1763,"Fujimi","JPN","Saitama",96972
+"1486",1764,"Urasoe","JPN","Okinawa",96002
+"1487",1765,"Yonezawa","JPN","Yamagata",95592
+"1488",1766,"Konan","JPN","Aichi",95521
+"1489",1767,"Yamatokoriyama","JPN","Nara",95165
+"1490",1768,"Maizuru","JPN","Kyoto",94784
+"1491",1769,"Onomichi","JPN","Hiroshima",93756
+"1492",1770,"Higashimatsuyama","JPN","Saitama",93342
+"1493",1771,"Kimitsu","JPN","Chiba",93216
+"1494",1772,"Isahaya","JPN","Nagasaki",93058
+"1495",1773,"Kanuma","JPN","Tochigi",93053
+"1496",1774,"Izumisano","JPN","Osaka",92583
+"1497",1775,"Kameoka","JPN","Kyoto",92398
+"1498",1776,"Mobara","JPN","Chiba",91664
+"1499",1777,"Narita","JPN","Chiba",91470
+"1500",1778,"Kashiwazaki","JPN","Niigata",91229
+"1501",1779,"Tsuyama","JPN","Okayama",91170
+"1502",1780,"Sanaa","YEM","Sanaa",503600
+"1503",1781,"Aden","YEM","Aden",398300
+"1504",1782,"Taizz","YEM","Taizz",317600
+"1505",1783,"Hodeida","YEM","Hodeida",298500
+"1506",1784,"al-Mukalla","YEM","Hadramawt",122400
+"1507",1785,"Ibb","YEM","Ibb",103300
+"1508",1786,"Amman","JOR","Amman",1e+06
+"1509",1787,"al-Zarqa","JOR","al-Zarqa",389815
+"1510",1788,"Irbid","JOR","Irbid",231511
+"1511",1789,"al-Rusayfa","JOR","al-Zarqa",137247
+"1512",1790,"Wadi al-Sir","JOR","Amman",89104
+"1513",1792,"Beograd","YUG","Central Serbia",1204000
+"1514",1793,"Novi Sad","YUG","Vojvodina",179626
+"1515",1796,"Kragujevac","YUG","Central Serbia",147305
+"1516",1797,"Podgorica","YUG","Montenegro",135000
+"1517",1798,"Subotica","YUG","Vojvodina",100386
+"1518",1799,"Prizren","YUG","Kosovo and Metohija",92303
+"1519",1800,"Phnom Penh","KHM","Phnom Penh",570155
+"1520",1801,"Battambang","KHM","Battambang",129800
+"1521",1802,"Siem Reap","KHM","Siem Reap",105100
+"1522",1803,"Douala","CMR","Littoral",1448300
+"1523",1805,"Garoua","CMR","Nord",177000
+"1524",1807,"Bamenda","CMR","Nord-Ouest",138000
+"1525",1808,"Bafoussam","CMR","Ouest",131000
+"1526",1809,"Nkongsamba","CMR","Littoral",112454
+"1527",1811,"Calgary","CAN","Alberta",768082
+"1528",1812,"Toronto","CAN","Ontario",688275
+"1529",1813,"North York","CAN","Ontario",622632
+"1530",1814,"Winnipeg","CAN","Manitoba",618477
+"1531",1815,"Edmonton","CAN","Alberta",616306
+"1532",1816,"Mississauga","CAN","Ontario",608072
+"1533",1817,"Scarborough","CAN","Ontario",594501
+"1534",1818,"Vancouver","CAN","British Colombia",514008
+"1535",1819,"Etobicoke","CAN","Ontario",348845
+"1536",1820,"London","CAN","Ontario",339917
+"1537",1821,"Hamilton","CAN","Ontario",335614
+"1538",1822,"Ottawa","CAN","Ontario",335277
+"1539",1824,"Surrey","CAN","British Colombia",304477
+"1540",1825,"Brampton","CAN","Ontario",296711
+"1541",1826,"Windsor","CAN","Ontario",207588
+"1542",1827,"Saskatoon","CAN","Saskatchewan",193647
+"1543",1828,"Kitchener","CAN","Ontario",189959
+"1544",1829,"Markham","CAN","Ontario",189098
+"1545",1830,"Regina","CAN","Saskatchewan",180400
+"1546",1831,"Burnaby","CAN","British Colombia",179209
+"1547",1833,"York","CAN","Ontario",154980
+"1548",1834,"Richmond","CAN","British Colombia",148867
+"1549",1835,"Vaughan","CAN","Ontario",147889
+"1550",1836,"Burlington","CAN","Ontario",145150
+"1551",1837,"Oshawa","CAN","Ontario",140173
+"1552",1838,"Oakville","CAN","Ontario",139192
+"1553",1839,"Saint Catharines","CAN","Ontario",136216
+"1554",1841,"Richmond Hill","CAN","Ontario",116428
+"1555",1842,"Thunder Bay","CAN","Ontario",115913
+"1556",1843,"Nepean","CAN","Ontario",115100
+"1557",1844,"Cape Breton","CAN","Nova Scotia",114733
+"1558",1845,"East York","CAN","Ontario",114034
+"1559",1846,"Halifax","CAN","Nova Scotia",113910
+"1560",1847,"Cambridge","CAN","Ontario",109186
+"1561",1848,"Gloucester","CAN","Ontario",107314
+"1562",1849,"Abbotsford","CAN","British Colombia",105403
+"1563",1850,"Guelph","CAN","Ontario",103593
+"1564",1852,"Coquitlam","CAN","British Colombia",101820
+"1565",1853,"Saanich","CAN","British Colombia",101388
+"1566",1855,"Delta","CAN","British Colombia",95411
+"1567",1856,"Sudbury","CAN","Ontario",92686
+"1568",1857,"Kelowna","CAN","British Colombia",89442
+"1569",1858,"Barrie","CAN","Ontario",89269
+"1570",1860,"Almaty","KAZ","Almaty Qalasy",1129400
+"1571",1861,"Qaraghandy","KAZ","Qaraghandy",436900
+"1572",1862,"Shymkent","KAZ","South Kazakstan",360100
+"1573",1863,"Taraz","KAZ","Taraz",330100
+"1574",1864,"Astana","KAZ","Astana",311200
+"1575",1866,"Pavlodar","KAZ","Pavlodar",300500
+"1576",1867,"Semey","KAZ","East Kazakstan",269600
+"1577",1869,"Qostanay","KAZ","Qostanay",221400
+"1578",1870,"Petropavl","KAZ","North Kazakstan",203500
+"1579",1871,"Oral","KAZ","West Kazakstan",195500
+"1580",1872,"Temirtau","KAZ","Qaraghandy",170500
+"1581",1873,"Qyzylorda","KAZ","Qyzylorda",157400
+"1582",1874,"Aqtau","KAZ","Mangghystau",143400
+"1583",1875,"Atyrau","KAZ","Atyrau",142500
+"1584",1876,"Ekibastuz","KAZ","Pavlodar",127200
+"1585",1878,"Rudnyy","KAZ","Qostanay",109500
+"1586",1879,"Taldyqorghan","KAZ","Almaty",98000
+"1587",1880,"Zhezqazghan","KAZ","Qaraghandy",90000
+"1588",1881,"Nairobi","KEN","Nairobi",2290000
+"1589",1882,"Mombasa","KEN","Coast",461753
+"1590",1883,"Kisumu","KEN","Nyanza",192733
+"1591",1884,"Nakuru","KEN","Rift Valley",163927
+"1592",1885,"Machakos","KEN","Eastern",116293
+"1593",1886,"Eldoret","KEN","Rift Valley",111882
+"1594",1887,"Meru","KEN","Eastern",94947
+"1595",1888,"Nyeri","KEN","Central",91258
+"1596",1889,"Bangui","CAF","Bangui",524000
+"1597",1890,"Shanghai","CHN","Shanghai",9696300
+"1598",1891,"Peking","CHN","Peking",7472000
+"1599",1892,"Chongqing","CHN","Chongqing",6351600
+"1600",1893,"Tianjin","CHN","Tianjin",5286800
+"1601",1894,"Wuhan","CHN","Hubei",4344600
+"1602",1895,"Harbin","CHN","Heilongjiang",4289800
+"1603",1896,"Shenyang","CHN","Liaoning",4265200
+"1604",1897,"Kanton [Guangzhou]","CHN","Guangdong",4256300
+"1605",1898,"Chengdu","CHN","Sichuan",3361500
+"1606",1899,"Nanking [Nanjing]","CHN","Jiangsu",2870300
+"1607",1900,"Changchun","CHN","Jilin",2812000
+"1608",1902,"Dalian","CHN","Liaoning",2697000
+"1609",1903,"Qingdao","CHN","Shandong",2596000
+"1610",1904,"Jinan","CHN","Shandong",2278100
+"1611",1905,"Hangzhou","CHN","Zhejiang",2190500
+"1612",1906,"Zhengzhou","CHN","Henan",2107200
+"1613",1907,"Shijiazhuang","CHN","Hebei",2041500
+"1614",1908,"Taiyuan","CHN","Shanxi",1968400
+"1615",1909,"Kunming","CHN","Yunnan",1829500
+"1616",1910,"Changsha","CHN","Hunan",1809800
+"1617",1911,"Nanchang","CHN","Jiangxi",1691600
+"1618",1912,"Fuzhou","CHN","Fujian",1593800
+"1619",1913,"Lanzhou","CHN","Gansu",1565800
+"1620",1914,"Guiyang","CHN","Guizhou",1465200
+"1621",1915,"Ningbo","CHN","Zhejiang",1371200
+"1622",1916,"Hefei","CHN","Anhui",1369100
+"1623",1918,"Anshan","CHN","Liaoning",1200000
+"1624",1919,"Fushun","CHN","Liaoning",1200000
+"1625",1920,"Nanning","CHN","Guangxi",1161800
+"1626",1921,"Zibo","CHN","Shandong",1140000
+"1627",1922,"Qiqihar","CHN","Heilongjiang",1070000
+"1628",1923,"Jilin","CHN","Jilin",1040000
+"1629",1924,"Tangshan","CHN","Hebei",1040000
+"1630",1925,"Baotou","CHN","Inner Mongolia",980000
+"1631",1926,"Shenzhen","CHN","Guangdong",950500
+"1632",1927,"Hohhot","CHN","Inner Mongolia",916700
+"1633",1928,"Handan","CHN","Hebei",840000
+"1634",1929,"Wuxi","CHN","Jiangsu",830000
+"1635",1930,"Xuzhou","CHN","Jiangsu",810000
+"1636",1931,"Datong","CHN","Shanxi",8e+05
+"1637",1932,"Yichun","CHN","Heilongjiang",8e+05
+"1638",1933,"Benxi","CHN","Liaoning",770000
+"1639",1934,"Luoyang","CHN","Henan",760000
+"1640",1935,"Suzhou","CHN","Jiangsu",710000
+"1641",1936,"Xining","CHN","Qinghai",700200
+"1642",1937,"Huainan","CHN","Anhui",7e+05
+"1643",1938,"Jixi","CHN","Heilongjiang",683885
+"1644",1939,"Daqing","CHN","Heilongjiang",660000
+"1645",1940,"Fuxin","CHN","Liaoning",640000
+"1646",1941,"Amoy [Xiamen]","CHN","Fujian",627500
+"1647",1942,"Liuzhou","CHN","Guangxi",610000
+"1648",1943,"Shantou","CHN","Guangdong",580000
+"1649",1944,"Jinzhou","CHN","Liaoning",570000
+"1650",1945,"Mudanjiang","CHN","Heilongjiang",570000
+"1651",1946,"Yinchuan","CHN","Ningxia",544500
+"1652",1947,"Changzhou","CHN","Jiangsu",530000
+"1653",1948,"Zhangjiakou","CHN","Hebei",530000
+"1654",1949,"Dandong","CHN","Liaoning",520000
+"1655",1950,"Hegang","CHN","Heilongjiang",520000
+"1656",1951,"Kaifeng","CHN","Henan",510000
+"1657",1952,"Jiamusi","CHN","Heilongjiang",493409
+"1658",1953,"Liaoyang","CHN","Liaoning",492559
+"1659",1954,"Hengyang","CHN","Hunan",487148
+"1660",1955,"Baoding","CHN","Hebei",483155
+"1661",1956,"Hunjiang","CHN","Jilin",482043
+"1662",1957,"Xinxiang","CHN","Henan",473762
+"1663",1958,"Huangshi","CHN","Hubei",457601
+"1664",1959,"Haikou","CHN","Hainan",454300
+"1665",1960,"Yantai","CHN","Shandong",452127
+"1666",1961,"Bengbu","CHN","Anhui",449245
+"1667",1962,"Xiangtan","CHN","Hunan",441968
+"1668",1963,"Weifang","CHN","Shandong",428522
+"1669",1964,"Wuhu","CHN","Anhui",425740
+"1670",1965,"Pingxiang","CHN","Jiangxi",425579
+"1671",1966,"Yingkou","CHN","Liaoning",421589
+"1672",1967,"Anyang","CHN","Henan",420332
+"1673",1968,"Panzhihua","CHN","Sichuan",415466
+"1674",1969,"Pingdingshan","CHN","Henan",410775
+"1675",1970,"Xiangfan","CHN","Hubei",410407
+"1676",1971,"Zhuzhou","CHN","Hunan",409924
+"1677",1972,"Jiaozuo","CHN","Henan",409100
+"1678",1973,"Wenzhou","CHN","Zhejiang",401871
+"1679",1974,"Zhangjiang","CHN","Guangdong",400997
+"1680",1975,"Zigong","CHN","Sichuan",393184
+"1681",1976,"Shuangyashan","CHN","Heilongjiang",386081
+"1682",1977,"Zaozhuang","CHN","Shandong",380846
+"1683",1978,"Yakeshi","CHN","Inner Mongolia",377869
+"1684",1979,"Yichang","CHN","Hubei",371601
+"1685",1980,"Zhenjiang","CHN","Jiangsu",368316
+"1686",1981,"Huaibei","CHN","Anhui",366549
+"1687",1982,"Qinhuangdao","CHN","Hebei",364972
+"1688",1983,"Guilin","CHN","Guangxi",364130
+"1689",1984,"Liupanshui","CHN","Guizhou",363954
+"1690",1985,"Panjin","CHN","Liaoning",362773
+"1691",1986,"Yangquan","CHN","Shanxi",362268
+"1692",1987,"Jinxi","CHN","Liaoning",357052
+"1693",1988,"Liaoyuan","CHN","Jilin",354141
+"1694",1989,"Lianyungang","CHN","Jiangsu",354139
+"1695",1990,"Xianyang","CHN","Shaanxi",352125
+"1696",1992,"Chifeng","CHN","Inner Mongolia",350077
+"1697",1993,"Shaoguan","CHN","Guangdong",350043
+"1698",1994,"Nantong","CHN","Jiangsu",343341
+"1699",1995,"Leshan","CHN","Sichuan",341128
+"1700",1996,"Baoji","CHN","Shaanxi",337765
+"1701",1997,"Linyi","CHN","Shandong",324720
+"1702",1998,"Tonghua","CHN","Jilin",324600
+"1703",1999,"Siping","CHN","Jilin",317223
+"1704",2000,"Changzhi","CHN","Shanxi",317144
+"1705",2001,"Tengzhou","CHN","Shandong",315083
+"1706",2002,"Chaozhou","CHN","Guangdong",313469
+"1707",2003,"Yangzhou","CHN","Jiangsu",312892
+"1708",2004,"Dongwan","CHN","Guangdong",308669
+"1709",2006,"Foshan","CHN","Guangdong",303160
+"1710",2007,"Yueyang","CHN","Hunan",302800
+"1711",2008,"Xingtai","CHN","Hebei",302789
+"1712",2009,"Changde","CHN","Hunan",301276
+"1713",2010,"Shihezi","CHN","Xinxiang",299676
+"1714",2011,"Yancheng","CHN","Jiangsu",296831
+"1715",2012,"Jiujiang","CHN","Jiangxi",291187
+"1716",2013,"Dongying","CHN","Shandong",281728
+"1717",2014,"Shashi","CHN","Hubei",281352
+"1718",2015,"Xintai","CHN","Shandong",281248
+"1719",2016,"Jingdezhen","CHN","Jiangxi",281183
+"1720",2017,"Tongchuan","CHN","Shaanxi",280657
+"1721",2018,"Zhongshan","CHN","Guangdong",278829
+"1722",2019,"Shiyan","CHN","Hubei",273786
+"1723",2020,"Tieli","CHN","Heilongjiang",265683
+"1724",2021,"Jining","CHN","Shandong",265248
+"1725",2022,"Wuhai","CHN","Inner Mongolia",264081
+"1726",2023,"Mianyang","CHN","Sichuan",262947
+"1727",2024,"Luzhou","CHN","Sichuan",262892
+"1728",2025,"Zunyi","CHN","Guizhou",261862
+"1729",2026,"Shizuishan","CHN","Ningxia",257862
+"1730",2027,"Neijiang","CHN","Sichuan",256012
+"1731",2028,"Tongliao","CHN","Inner Mongolia",255129
+"1732",2029,"Tieling","CHN","Liaoning",254842
+"1733",2030,"Wafangdian","CHN","Liaoning",251733
+"1734",2031,"Anqing","CHN","Anhui",250718
+"1735",2032,"Shaoyang","CHN","Hunan",247227
+"1736",2033,"Laiwu","CHN","Shandong",246833
+"1737",2034,"Chengde","CHN","Hebei",246799
+"1738",2035,"Tianshui","CHN","Gansu",244974
+"1739",2036,"Nanyang","CHN","Henan",243303
+"1740",2037,"Cangzhou","CHN","Hebei",242708
+"1741",2038,"Yibin","CHN","Sichuan",241019
+"1742",2039,"Huaiyin","CHN","Jiangsu",239675
+"1743",2040,"Dunhua","CHN","Jilin",235100
+"1744",2041,"Yanji","CHN","Jilin",230892
+"1745",2042,"Jiangmen","CHN","Guangdong",230587
+"1746",2043,"Tongling","CHN","Anhui",228017
+"1747",2044,"Suihua","CHN","Heilongjiang",227881
+"1748",2045,"Gongziling","CHN","Jilin",226569
+"1749",2046,"Xiantao","CHN","Hubei",222884
+"1750",2047,"Chaoyang","CHN","Liaoning",222394
+"1751",2048,"Ganzhou","CHN","Jiangxi",220129
+"1752",2049,"Huzhou","CHN","Zhejiang",218071
+"1753",2050,"Baicheng","CHN","Jilin",217987
+"1754",2051,"Shangzi","CHN","Heilongjiang",215373
+"1755",2052,"Yangjiang","CHN","Guangdong",215196
+"1756",2053,"Qitaihe","CHN","Heilongjiang",214957
+"1757",2054,"Gejiu","CHN","Yunnan",214294
+"1758",2055,"Jiangyin","CHN","Jiangsu",213659
+"1759",2056,"Hebi","CHN","Henan",212976
+"1760",2057,"Jiaxing","CHN","Zhejiang",211526
+"1761",2058,"Wuzhou","CHN","Guangxi",210452
+"1762",2059,"Meihekou","CHN","Jilin",209038
+"1763",2060,"Xuchang","CHN","Henan",208815
+"1764",2061,"Liaocheng","CHN","Shandong",207844
+"1765",2062,"Haicheng","CHN","Liaoning",205560
+"1766",2063,"Qianjiang","CHN","Hubei",205504
+"1767",2064,"Baiyin","CHN","Gansu",204970
+"1768",2066,"Yixing","CHN","Jiangsu",200824
+"1769",2067,"Laizhou","CHN","Shandong",198664
+"1770",2068,"Qaramay","CHN","Xinxiang",197602
+"1771",2069,"Acheng","CHN","Heilongjiang",197595
+"1772",2070,"Dezhou","CHN","Shandong",195485
+"1773",2071,"Nanping","CHN","Fujian",195064
+"1774",2072,"Zhaoqing","CHN","Guangdong",194784
+"1775",2073,"Beipiao","CHN","Liaoning",194301
+"1776",2074,"Fengcheng","CHN","Jiangxi",193784
+"1777",2075,"Fuyu","CHN","Jilin",192981
+"1778",2076,"Xinyang","CHN","Henan",192509
+"1779",2077,"Dongtai","CHN","Jiangsu",192247
+"1780",2078,"Yuci","CHN","Shanxi",191356
+"1781",2079,"Honghu","CHN","Hubei",190772
+"1782",2080,"Ezhou","CHN","Hubei",190123
+"1783",2081,"Heze","CHN","Shandong",189293
+"1784",2082,"Daxian","CHN","Sichuan",188101
+"1785",2083,"Linfen","CHN","Shanxi",187309
+"1786",2084,"Tianmen","CHN","Hubei",186332
+"1787",2085,"Yiyang","CHN","Hunan",185818
+"1788",2086,"Quanzhou","CHN","Fujian",185154
+"1789",2087,"Rizhao","CHN","Shandong",185048
+"1790",2088,"Deyang","CHN","Sichuan",182488
+"1791",2089,"Guangyuan","CHN","Sichuan",182241
+"1792",2090,"Changshu","CHN","Jiangsu",181805
+"1793",2091,"Zhangzhou","CHN","Fujian",181424
+"1794",2092,"Hailar","CHN","Inner Mongolia",180650
+"1795",2093,"Nanchong","CHN","Sichuan",180273
+"1796",2094,"Jiutai","CHN","Jilin",180130
+"1797",2095,"Zhaodong","CHN","Heilongjiang",179976
+"1798",2096,"Shaoxing","CHN","Zhejiang",179818
+"1799",2097,"Fuyang","CHN","Anhui",179572
+"1800",2098,"Maoming","CHN","Guangdong",178683
+"1801",2099,"Qujing","CHN","Yunnan",178669
+"1802",2100,"Ghulja","CHN","Xinxiang",177193
+"1803",2101,"Jiaohe","CHN","Jilin",176367
+"1804",2102,"Puyang","CHN","Henan",175988
+"1805",2103,"Huadian","CHN","Jilin",175873
+"1806",2104,"Jiangyou","CHN","Sichuan",175753
+"1807",2105,"Qashqar","CHN","Xinxiang",174570
+"1808",2106,"Anshun","CHN","Guizhou",174142
+"1809",2107,"Fuling","CHN","Sichuan",173878
+"1810",2108,"Xinyu","CHN","Jiangxi",173524
+"1811",2109,"Hanzhong","CHN","Shaanxi",169930
+"1812",2110,"Danyang","CHN","Jiangsu",169603
+"1813",2111,"Chenzhou","CHN","Hunan",169400
+"1814",2112,"Xiaogan","CHN","Hubei",166280
+"1815",2113,"Shangqiu","CHN","Henan",164880
+"1816",2114,"Zhuhai","CHN","Guangdong",164747
+"1817",2115,"Qingyuan","CHN","Guangdong",164641
+"1818",2116,"Aqsu","CHN","Xinxiang",164092
+"1819",2117,"Jining","CHN","Inner Mongolia",163552
+"1820",2118,"Xiaoshan","CHN","Zhejiang",162930
+"1821",2119,"Zaoyang","CHN","Hubei",162198
+"1822",2120,"Xinghua","CHN","Jiangsu",161910
+"1823",2121,"Hami","CHN","Xinxiang",161315
+"1824",2122,"Huizhou","CHN","Guangdong",161023
+"1825",2123,"Jinmen","CHN","Hubei",160794
+"1826",2124,"Sanming","CHN","Fujian",160691
+"1827",2125,"Ulanhot","CHN","Inner Mongolia",159538
+"1828",2126,"Korla","CHN","Xinxiang",159344
+"1829",2127,"Wanxian","CHN","Sichuan",156823
+"1830",2129,"Zhoushan","CHN","Zhejiang",156317
+"1831",2130,"Liangcheng","CHN","Shandong",156307
+"1832",2131,"Jiaozhou","CHN","Shandong",153364
+"1833",2132,"Taizhou","CHN","Jiangsu",152442
+"1834",2133,"Suzhou","CHN","Anhui",151862
+"1835",2134,"Yichun","CHN","Jiangxi",151585
+"1836",2135,"Taonan","CHN","Jilin",150168
+"1837",2136,"Pingdu","CHN","Shandong",150123
+"1838",2138,"Longkou","CHN","Shandong",148362
+"1839",2139,"Langfang","CHN","Hebei",148105
+"1840",2140,"Zhoukou","CHN","Henan",146288
+"1841",2141,"Suining","CHN","Sichuan",146086
+"1842",2142,"Yulin","CHN","Guangxi",144467
+"1843",2143,"Jinhua","CHN","Zhejiang",144280
+"1844",2145,"Shuangcheng","CHN","Heilongjiang",142659
+"1845",2146,"Suizhou","CHN","Hubei",142302
+"1846",2147,"Ankang","CHN","Shaanxi",142170
+"1847",2148,"Weinan","CHN","Shaanxi",140169
+"1848",2149,"Longjing","CHN","Jilin",139417
+"1849",2151,"Lengshuijiang","CHN","Hunan",137994
+"1850",2152,"Laiyang","CHN","Shandong",137080
+"1851",2153,"Xianning","CHN","Hubei",136811
+"1852",2154,"Dali","CHN","Yunnan",136554
+"1853",2155,"Anda","CHN","Heilongjiang",136446
+"1854",2156,"Jincheng","CHN","Shanxi",136396
+"1855",2157,"Longyan","CHN","Fujian",134481
+"1856",2158,"Xichang","CHN","Sichuan",134419
+"1857",2159,"Wendeng","CHN","Shandong",133910
+"1858",2160,"Hailun","CHN","Heilongjiang",133565
+"1859",2161,"Binzhou","CHN","Shandong",133555
+"1860",2162,"Linhe","CHN","Inner Mongolia",133183
+"1861",2163,"Wuwei","CHN","Gansu",133101
+"1862",2164,"Duyun","CHN","Guizhou",132971
+"1863",2165,"Mishan","CHN","Heilongjiang",132744
+"1864",2166,"Shangrao","CHN","Jiangxi",132455
+"1865",2167,"Changji","CHN","Xinxiang",132260
+"1866",2168,"Meixian","CHN","Guangdong",132156
+"1867",2169,"Yushu","CHN","Jilin",131861
+"1868",2170,"Tiefa","CHN","Liaoning",131807
+"1869",2172,"Leiyang","CHN","Hunan",130115
+"1870",2173,"Zalantun","CHN","Inner Mongolia",130031
+"1871",2174,"Weihai","CHN","Shandong",128888
+"1872",2175,"Loudi","CHN","Hunan",128418
+"1873",2176,"Qingzhou","CHN","Shandong",128258
+"1874",2177,"Qidong","CHN","Jiangsu",126872
+"1875",2178,"Huaihua","CHN","Hunan",126785
+"1876",2179,"Luohe","CHN","Henan",126438
+"1877",2180,"Chuzhou","CHN","Anhui",125341
+"1878",2181,"Kaiyuan","CHN","Liaoning",124219
+"1879",2182,"Linqing","CHN","Shandong",123958
+"1880",2183,"Chaohu","CHN","Anhui",123676
+"1881",2184,"Laohekou","CHN","Hubei",123366
+"1882",2185,"Dujiangyan","CHN","Sichuan",123357
+"1883",2186,"Zhumadian","CHN","Henan",123232
+"1884",2187,"Linchuan","CHN","Jiangxi",121949
+"1885",2188,"Jiaonan","CHN","Shandong",121397
+"1886",2189,"Sanmenxia","CHN","Henan",120523
+"1887",2190,"Heyuan","CHN","Guangdong",120101
+"1888",2191,"Manzhouli","CHN","Inner Mongolia",120023
+"1889",2192,"Lhasa","CHN","Tibet",120000
+"1890",2193,"Lianyuan","CHN","Hunan",118858
+"1891",2194,"Kuytun","CHN","Xinxiang",118553
+"1892",2195,"Puqi","CHN","Hubei",117264
+"1893",2196,"Hongjiang","CHN","Hunan",116188
+"1894",2197,"Qinzhou","CHN","Guangxi",114586
+"1895",2198,"Renqiu","CHN","Hebei",114256
+"1896",2199,"Yuyao","CHN","Zhejiang",114065
+"1897",2200,"Guigang","CHN","Guangxi",114025
+"1898",2201,"Kaili","CHN","Guizhou",113958
+"1899",2203,"Beihai","CHN","Guangxi",112673
+"1900",2204,"Xuangzhou","CHN","Anhui",112673
+"1901",2205,"Quzhou","CHN","Zhejiang",112373
+"1902",2207,"Zixing","CHN","Hunan",110048
+"1903",2208,"Liyang","CHN","Jiangsu",109520
+"1904",2209,"Yizheng","CHN","Jiangsu",109268
+"1905",2210,"Yumen","CHN","Gansu",109234
+"1906",2211,"Liling","CHN","Hunan",108504
+"1907",2212,"Yuncheng","CHN","Shanxi",108359
+"1908",2213,"Shanwei","CHN","Guangdong",107847
+"1909",2214,"Cixi","CHN","Zhejiang",107329
+"1910",2215,"Yuanjiang","CHN","Hunan",107004
+"1911",2216,"Bozhou","CHN","Anhui",106346
+"1912",2217,"Jinchang","CHN","Gansu",105287
+"1913",2219,"Suqian","CHN","Jiangsu",105021
+"1914",2220,"Shishou","CHN","Hubei",104571
+"1915",2221,"Hengshui","CHN","Hebei",104269
+"1916",2222,"Danjiangkou","CHN","Hubei",103211
+"1917",2223,"Fujin","CHN","Heilongjiang",103104
+"1918",2224,"Sanya","CHN","Hainan",102820
+"1919",2225,"Guangshui","CHN","Hubei",102770
+"1920",2226,"Huangshan","CHN","Anhui",102628
+"1921",2227,"Xingcheng","CHN","Liaoning",102384
+"1922",2228,"Zhucheng","CHN","Shandong",102134
+"1923",2229,"Kunshan","CHN","Jiangsu",102052
+"1924",2230,"Haining","CHN","Zhejiang",100478
+"1925",2231,"Pingliang","CHN","Gansu",99265
+"1926",2232,"Fuqing","CHN","Fujian",99193
+"1927",2233,"Xinzhou","CHN","Shanxi",98667
+"1928",2234,"Jieyang","CHN","Guangdong",98531
+"1929",2235,"Zhangjiagang","CHN","Jiangsu",97994
+"1930",2236,"Tong Xian","CHN","Peking",97168
+"1931",2238,"Jinzhou","CHN","Liaoning",95761
+"1932",2239,"Emeishan","CHN","Sichuan",94000
+"1933",2240,"Enshi","CHN","Hubei",93056
+"1934",2241,"Bose","CHN","Guangxi",93009
+"1935",2242,"Yuzhou","CHN","Henan",92889
+"1936",2243,"Kaiyuan","CHN","Yunnan",91999
+"1937",2244,"Tumen","CHN","Jilin",91471
+"1938",2245,"Putian","CHN","Fujian",91030
+"1939",2246,"Linhai","CHN","Zhejiang",90870
+"1940",2247,"Xilin Hot","CHN","Inner Mongolia",90646
+"1941",2248,"Shaowu","CHN","Fujian",90286
+"1942",2249,"Junan","CHN","Shandong",90222
+"1943",2250,"Huaying","CHN","Sichuan",89400
+"1944",2251,"Pingyi","CHN","Shandong",89373
+"1945",2252,"Huangyan","CHN","Zhejiang",89288
+"1946",2253,"Bishkek","KGZ","Bishkek shaary",589400
+"1947",2254,"Osh","KGZ","Osh",222700
+"1948",2255,"Bikenibeu","KIR","South Tarawa",5055
+"1949",2256,"Bairiki","KIR","South Tarawa",2226
+"1950",2258,"Cali","COL","Valle",2077386
+"1951",2263,"Bucaramanga","COL","Santander",515555
+"1952",2265,"Pereira","COL","Risaralda",381725
+"1953",2266,"Santa Marta","COL","Magdalena",359147
+"1954",2267,"Manizales","COL","Caldas",337580
+"1955",2268,"Bello","COL","Antioquia",333470
+"1956",2270,"Neiva","COL","Huila",300052
+"1957",2273,"Villavicencio","COL","Meta",273140
+"1958",2274,"Soacha","COL","Cundinamarca",272058
+"1959",2275,"Valledupar","COL","Cesar",263247
+"1960",2278,"Palmira","COL","Valle",226509
+"1961",2279,"Buenaventura","COL","Valle",224336
+"1962",2280,"Floridablanca","COL","Santander",221913
+"1963",2281,"Sincelejo","COL","Sucre",220704
+"1964",2283,"Barrancabermeja","COL","Santander",178020
+"1965",2284,"Dos Quebradas","COL","Risaralda",159363
+"1966",2286,"Envigado","COL","Antioquia",135848
+"1967",2287,"Cartago","COL","Valle",125884
+"1968",2288,"Girardot","COL","Cundinamarca",110963
+"1969",2289,"Buga","COL","Valle",110699
+"1970",2292,"Maicao","COL","La Guajira",108053
+"1971",2294,"Giron","COL","Santander",90688
+"1972",2295,"Moroni","COM","Njazidja",36000
+"1973",2296,"Brazzaville","COG","Brazzaville",950000
+"1974",2297,"Pointe-Noire","COG","Kouilou",5e+05
+"1975",2298,"Kinshasa","COD","Kinshasa",5064000
+"1976",2299,"Lubumbashi","COD","Shaba",851381
+"1977",2300,"Mbuji-Mayi","COD","East Kasai",806475
+"1978",2301,"Kolwezi","COD","Shaba",417810
+"1979",2303,"Kananga","COD","West Kasai",393030
+"1980",2304,"Likasi","COD","Shaba",299118
+"1981",2305,"Bukavu","COD","South Kivu",201569
+"1982",2306,"Kikwit","COD","Bandundu",182142
+"1983",2307,"Tshikapa","COD","West Kasai",180860
+"1984",2309,"Mbandaka","COD","Equateur",169841
+"1985",2310,"Mwene-Ditu","COD","East Kasai",137459
+"1986",2312,"Uvira","COD","South Kivu",115590
+"1987",2313,"Butembo","COD","North Kivu",109406
+"1988",2314,"Goma","COD","North Kivu",109094
+"1989",2315,"Kalemie","COD","Shaba",101309
+"1990",2316,"Bantam","CCK","Home Island",503
+"1991",2317,"West Island","CCK","West Island",167
+"1992",2318,"Pyongyang","PRK","Pyongyang-si",2484000
+"1993",2319,"Hamhung","PRK","Hamgyong N",709730
+"1994",2320,"Chongjin","PRK","Hamgyong P",582480
+"1995",2321,"Nampo","PRK","Nampo-si",566200
+"1996",2322,"Sinuiju","PRK","Pyongan P",326011
+"1997",2323,"Wonsan","PRK","Kangwon",300148
+"1998",2324,"Phyongsong","PRK","Pyongan N",272934
+"1999",2325,"Sariwon","PRK","Hwanghae P",254146
+"2000",2326,"Haeju","PRK","Hwanghae N",229172
+"2001",2327,"Kanggye","PRK","Chagang",223410
+"2002",2328,"Kimchaek","PRK","Hamgyong P",179000
+"2003",2329,"Hyesan","PRK","Yanggang",178020
+"2004",2330,"Kaesong","PRK","Kaesong-si",171500
+"2005",2331,"Seoul","KOR","Seoul",9981619
+"2006",2332,"Pusan","KOR","Pusan",3804522
+"2007",2333,"Inchon","KOR","Inchon",2559424
+"2008",2334,"Taegu","KOR","Taegu",2548568
+"2009",2335,"Taejon","KOR","Taejon",1425835
+"2010",2336,"Kwangju","KOR","Kwangju",1368341
+"2011",2337,"Ulsan","KOR","Kyongsangnam",1084891
+"2012",2338,"Songnam","KOR","Kyonggi",869094
+"2013",2339,"Puchon","KOR","Kyonggi",779412
+"2014",2340,"Suwon","KOR","Kyonggi",755550
+"2015",2341,"Anyang","KOR","Kyonggi",591106
+"2016",2342,"Chonju","KOR","Chollabuk",563153
+"2017",2343,"Chongju","KOR","Chungchongbuk",531376
+"2018",2344,"Koyang","KOR","Kyonggi",518282
+"2019",2345,"Ansan","KOR","Kyonggi",510314
+"2020",2346,"Pohang","KOR","Kyongsangbuk",508899
+"2021",2347,"Chang-won","KOR","Kyongsangnam",481694
+"2022",2348,"Masan","KOR","Kyongsangnam",441242
+"2023",2349,"Kwangmyong","KOR","Kyonggi",350914
+"2024",2350,"Chonan","KOR","Chungchongnam",330259
+"2025",2351,"Chinju","KOR","Kyongsangnam",329886
+"2026",2352,"Iksan","KOR","Chollabuk",322685
+"2027",2353,"Pyongtaek","KOR","Kyonggi",312927
+"2028",2354,"Kumi","KOR","Kyongsangbuk",311431
+"2029",2355,"Uijongbu","KOR","Kyonggi",276111
+"2030",2356,"Kyongju","KOR","Kyongsangbuk",272968
+"2031",2357,"Kunsan","KOR","Chollabuk",266569
+"2032",2358,"Cheju","KOR","Cheju",258511
+"2033",2359,"Kimhae","KOR","Kyongsangnam",256370
+"2034",2360,"Sunchon","KOR","Chollanam",249263
+"2035",2361,"Mokpo","KOR","Chollanam",247452
+"2036",2362,"Yong-in","KOR","Kyonggi",242643
+"2037",2363,"Wonju","KOR","Kang-won",237460
+"2038",2364,"Kunpo","KOR","Kyonggi",235233
+"2039",2365,"Chunchon","KOR","Kang-won",234528
+"2040",2366,"Namyangju","KOR","Kyonggi",229060
+"2041",2367,"Kangnung","KOR","Kang-won",220403
+"2042",2368,"Chungju","KOR","Chungchongbuk",205206
+"2043",2369,"Andong","KOR","Kyongsangbuk",188443
+"2044",2370,"Yosu","KOR","Chollanam",183596
+"2045",2371,"Kyongsan","KOR","Kyongsangbuk",173746
+"2046",2372,"Paju","KOR","Kyonggi",163379
+"2047",2373,"Yangsan","KOR","Kyongsangnam",163351
+"2048",2374,"Ichon","KOR","Kyonggi",155332
+"2049",2375,"Asan","KOR","Chungchongnam",154663
+"2050",2376,"Koje","KOR","Kyongsangnam",147562
+"2051",2377,"Kimchon","KOR","Kyongsangbuk",147027
+"2052",2378,"Nonsan","KOR","Chungchongnam",146619
+"2053",2379,"Kuri","KOR","Kyonggi",142173
+"2054",2380,"Chong-up","KOR","Chollabuk",139111
+"2055",2381,"Chechon","KOR","Chungchongbuk",137070
+"2056",2382,"Sosan","KOR","Chungchongnam",134746
+"2057",2383,"Shihung","KOR","Kyonggi",133443
+"2058",2384,"Tong-yong","KOR","Kyongsangnam",131717
+"2059",2385,"Kongju","KOR","Chungchongnam",131229
+"2060",2386,"Yongju","KOR","Kyongsangbuk",131097
+"2061",2387,"Chinhae","KOR","Kyongsangnam",125997
+"2062",2388,"Sangju","KOR","Kyongsangbuk",124116
+"2063",2389,"Poryong","KOR","Chungchongnam",122604
+"2064",2390,"Kwang-yang","KOR","Chollanam",122052
+"2065",2391,"Miryang","KOR","Kyongsangnam",121501
+"2066",2392,"Hanam","KOR","Kyonggi",115812
+"2067",2393,"Kimje","KOR","Chollabuk",115427
+"2068",2394,"Yongchon","KOR","Kyongsangbuk",113511
+"2069",2395,"Sachon","KOR","Kyongsangnam",113494
+"2070",2396,"Uiwang","KOR","Kyonggi",108788
+"2071",2397,"Naju","KOR","Chollanam",107831
+"2072",2398,"Namwon","KOR","Chollabuk",103544
+"2073",2399,"Tonghae","KOR","Kang-won",95472
+"2074",2400,"Mun-gyong","KOR","Kyongsangbuk",92239
+"2075",2401,"Athenai","GRC","Attika",772072
+"2076",2402,"Thessaloniki","GRC","Central Macedonia",383967
+"2077",2403,"Pireus","GRC","Attika",182671
+"2078",2404,"Patras","GRC","West Greece",153344
+"2079",2405,"Peristerion","GRC","Attika",137288
+"2080",2406,"Herakleion","GRC","Crete",116178
+"2081",2407,"Kallithea","GRC","Attika",114233
+"2082",2408,"Larisa","GRC","Thessalia",113090
+"2083",2409,"Zagreb","HRV","Grad Zagreb",706770
+"2084",2410,"Split","HRV","Split-Dalmatia",189388
+"2085",2411,"Rijeka","HRV","Primorje-Gorski Kota",167964
+"2086",2412,"Osijek","HRV","Osijek-Baranja",104761
+"2087",2413,"La Habana","CUB","La Habana",2256000
+"2088",2414,"Santiago de Cuba","CUB","Santiago de Cuba",433180
+"2089",2417,"Santa Clara","CUB","Villa Clara",207350
+"2090",2420,"Bayamo","CUB","Granma",141000
+"2091",2421,"Cienfuegos","CUB","Cienfuegos",132770
+"2092",2422,"Victoria de las Tunas","CUB","Las Tunas",132350
+"2093",2423,"Matanzas","CUB","Matanzas",123273
+"2094",2424,"Manzanillo","CUB","Granma",109350
+"2095",2427,"al-Salimiya","KWT","Hawalli",130215
+"2096",2428,"Jalib al-Shuyukh","KWT","Hawalli",102178
+"2097",2429,"Kuwait","KWT","al-Asima",28859
+"2098",2430,"Nicosia","CYP","Nicosia",195000
+"2099",2431,"Limassol","CYP","Limassol",154400
+"2100",2432,"Vientiane","LAO","Viangchan",531800
+"2101",2433,"Savannakhet","LAO","Savannakhet",96652
+"2102",2434,"Riga","LVA","Riika",764328
+"2103",2435,"Daugavpils","LVA","Daugavpils",114829
+"2104",2436,"Liepaja","LVA","Liepaja",89439
+"2105",2437,"Maseru","LSO","Maseru",297000
+"2106",2438,"Beirut","LBN","Beirut",1100000
+"2107",2439,"Tripoli","LBN","al-Shamal",240000
+"2108",2440,"Monrovia","LBR","Montserrado",850000
+"2109",2441,"Tripoli","LBY","Tripoli",1682000
+"2110",2442,"Bengasi","LBY","Bengasi",804000
+"2111",2443,"Misrata","LBY","Misrata",121669
+"2112",2444,"al-Zawiya","LBY","al-Zawiya",89338
+"2113",2445,"Schaan","LIE","Schaan",5346
+"2114",2446,"Vaduz","LIE","Vaduz",5043
+"2115",2447,"Vilnius","LTU","Vilna",577969
+"2116",2448,"Kaunas","LTU","Kaunas",412639
+"2117",2449,"Klaipeda","LTU","Klaipeda",202451
+"2118",2451,"Panevezys","LTU","Panevezys",133695
+"2119",2454,"Macao","MAC","Macau",437500
+"2120",2455,"Antananarivo","MDG","Antananarivo",675669
+"2121",2456,"Toamasina","MDG","Toamasina",127441
+"2122",2458,"Mahajanga","MDG","Mahajanga",100807
+"2123",2459,"Fianarantsoa","MDG","Fianarantsoa",99005
+"2124",2460,"Skopje","MKD","Skopje",444299
+"2125",2461,"Blantyre","MWI","Blantyre",478155
+"2126",2462,"Lilongwe","MWI","Lilongwe",435964
+"2127",2463,"Male","MDV","Maale",71000
+"2128",2464,"Kuala Lumpur","MYS","Wilayah Persekutuan",1297526
+"2129",2465,"Ipoh","MYS","Perak",382853
+"2130",2466,"Johor Baharu","MYS","Johor",328436
+"2131",2467,"Petaling Jaya","MYS","Selangor",254350
+"2132",2468,"Kelang","MYS","Selangor",243355
+"2133",2469,"Kuala Terengganu","MYS","Terengganu",228119
+"2134",2470,"Pinang","MYS","Pulau Pinang",219603
+"2135",2471,"Kota Bharu","MYS","Kelantan",219582
+"2136",2472,"Kuantan","MYS","Pahang",199484
+"2137",2473,"Taiping","MYS","Perak",183261
+"2138",2474,"Seremban","MYS","Negeri Sembilan",182869
+"2139",2475,"Kuching","MYS","Sarawak",148059
+"2140",2476,"Sibu","MYS","Sarawak",126381
+"2141",2477,"Sandakan","MYS","Sabah",125841
+"2142",2478,"Alor Setar","MYS","Kedah",124412
+"2143",2479,"Selayang Baru","MYS","Selangor",124228
+"2144",2480,"Sungai Petani","MYS","Kedah",114763
+"2145",2481,"Shah Alam","MYS","Selangor",102019
+"2146",2482,"Bamako","MLI","Bamako",809552
+"2147",2483,"Birkirkara","MLT","Outer Harbour",21445
+"2148",2484,"Valletta","MLT","Inner Harbour",7073
+"2149",2485,"Casablanca","MAR","Casablanca",2940623
+"2150",2487,"Marrakech","MAR","Marrakech-Tensift-Al",621914
+"2151",2492,"Oujda","MAR","Oriental",365382
+"2152",2495,"Safi","MAR","Doukkala-Abda",262300
+"2153",2497,"Mohammedia","MAR","Casablanca",154706
+"2154",2498,"Khouribga","MAR","Chaouia-Ouardigha",152090
+"2155",2499,"Beni-Mellal","MAR","Tadla-Azilal",140212
+"2156",2501,"El Jadida","MAR","Doukkala-Abda",119083
+"2157",2502,"Nador","MAR","Oriental",112450
+"2158",2504,"Settat","MAR","Chaouia-Ouardigha",96200
+"2159",2505,"Taza","MAR","Taza-Al Hoceima-Taou",92700
+"2160",2507,"Dalap-Uliga-Darrit","MHL","Majuro",28000
+"2161",2508,"Fort-de-France","MTQ","Fort-de-France",94050
+"2162",2509,"Nouakchott","MRT","Nouakchott",667300
+"2163",2511,"Port-Louis","MUS","Port-Louis",138200
+"2164",2512,"Beau Bassin-Rose Hill","MUS","Plaines Wilhelms",100616
+"2165",2513,"Vacoas-Phoenix","MUS","Plaines Wilhelms",98464
+"2166",2514,"Mamoutzou","MYT","Mamoutzou",12000
+"2167",2516,"Guadalajara","MEX","Jalisco",1647720
+"2168",2518,"Puebla","MEX","Puebla",1346176
+"2169",2521,"Tijuana","MEX","Baja California",1212232
+"2170",2524,"Zapopan","MEX","Jalisco",1002239
+"2171",2526,"Mexicali","MEX","Baja California",764902
+"2172",2531,"Chihuahua","MEX","Chihuahua",670208
+"2173",2535,"Aguascalientes","MEX","Aguascalientes",643360
+"2174",2538,"Hermosillo","MEX","Sonora",608697
+"2175",2539,"Saltillo","MEX","Coahuila de Zaragoza",577352
+"2176",2541,"Centro (Villahermosa)","MEX","Tabasco",519873
+"2177",2543,"Durango","MEX","Durango",490524
+"2178",2545,"Tlaquepaque","MEX","Jalisco",475472
+"2179",2547,"Veracruz","MEX","Veracruz",457119
+"2180",2549,"Irapuato","MEX","Guanajuato",440039
+"2181",2552,"Reynosa","MEX","Tamaulipas",419776
+"2182",2554,"Matamoros","MEX","Tamaulipas",416428
+"2183",2555,"Xalapa","MEX","Veracruz",390058
+"2184",2556,"Celaya","MEX","Guanajuato",382140
+"2185",2558,"Ensenada","MEX","Baja California",369573
+"2186",2559,"Ahome","MEX","Sinaloa",358663
+"2187",2560,"Cajeme","MEX","Sonora",355679
+"2188",2561,"Cuernavaca","MEX","Morelos",337966
+"2189",2564,"Nuevo Laredo","MEX","Tamaulipas",310277
+"2190",2565,"Tepic","MEX","Nayarit",305025
+"2191",2566,"Tampico","MEX","Tamaulipas",294789
+"2192",2569,"Guasave","MEX","Sinaloa",277201
+"2193",2571,"Tapachula","MEX","Chiapas",271141
+"2194",2573,"Coatzacoalcos","MEX","Veracruz",267037
+"2195",2575,"Victoria","MEX","Tamaulipas",262686
+"2196",2578,"Pachuca de Soto","MEX","Hidalgo",244688
+"2197",2580,"Salamanca","MEX","Guanajuato",226864
+"2198",2585,"Campeche","MEX","Campeche",216735
+"2199",2589,"La Paz","MEX","Baja California Sur",196708
+"2200",2591,"Monclova","MEX","Coahuila de Zaragoza",193657
+"2201",2593,"Chilpancingo de los Bravo","MEX","Guerrero",192509
+"2202",2594,"Puerto Vallarta","MEX","Jalisco",183741
+"2203",2595,"Fresnillo","MEX","Zacatecas",182744
+"2204",2596,"Ciudad Madero","MEX","Tamaulipas",182012
+"2205",2602,"Ocosingo","MEX","Chiapas",171495
+"2206",2603,"Carmen","MEX","Campeche",171367
+"2207",2605,"Jiutepec","MEX","Morelos",170428
+"2208",2606,"Papantla","MEX","Veracruz",170123
+"2209",2607,"Comalcalco","MEX","Tabasco",164640
+"2210",2609,"Nogales","MEX","Sonora",159103
+"2211",2610,"Huimanguillo","MEX","Tabasco",158335
+"2212",2611,"Cuautla","MEX","Morelos",153132
+"2213",2613,"Poza Rica de Hidalgo","MEX","Veracruz",152678
+"2214",2615,"Navolato","MEX","Sinaloa",145396
+"2215",2619,"Guanajuato","MEX","Guanajuato",141215
+"2216",2620,"Navojoa","MEX","Sonora",140495
+"2217",2623,"Allende","MEX","Guanajuato",134645
+"2218",2624,"Silao","MEX","Guanajuato",134037
+"2219",2625,"Macuspana","MEX","Tabasco",133795
+"2220",2626,"San Juan Bautista Tuxtepec","MEX","Oaxaca",133675
+"2221",2628,"Valle de Santiago","MEX","Guanajuato",130557
+"2222",2629,"Guaymas","MEX","Sonora",130108
+"2223",2630,"Colima","MEX","Colima",129454
+"2224",2631,"Dolores Hidalgo","MEX","Guanajuato",128675
+"2225",2632,"Lagos de Moreno","MEX","Jalisco",127949
+"2226",2633,"Piedras Negras","MEX","Coahuila de Zaragoza",127898
+"2227",2634,"Altamira","MEX","Tamaulipas",127490
+"2228",2638,"Manzanillo","MEX","Colima",124014
+"2229",2639,"Iguala de la Independencia","MEX","Guerrero",123883
+"2230",2640,"Zacatecas","MEX","Zacatecas",123700
+"2231",2642,"Tulancingo de Bravo","MEX","Hidalgo",121946
+"2232",2647,"Orizaba","MEX","Veracruz",118488
+"2233",2649,"Atlixco","MEX","Puebla",117019
+"2234",2650,"Delicias","MEX","Chihuahua",116132
+"2235",2652,"El Mante","MEX","Tamaulipas",112453
+"2236",2653,"Lerdo","MEX","Durango",112272
+"2237",2657,"Guadalupe","MEX","Zacatecas",108881
+"2238",2658,"Huejutla de Reyes","MEX","Hidalgo",108017
+"2239",2660,"Los Cabos","MEX","Baja California Sur",105199
+"2240",2664,"Temapache","MEX","Veracruz",102824
+"2241",2665,"Chilapa de Alvarez","MEX","Guerrero",102716
+"2242",2666,"Hidalgo del Parral","MEX","Chihuahua",100881
+"2243",2670,"San Pedro Cholula","MEX","Puebla",99734
+"2244",2673,"Las Margaritas","MEX","Chiapas",97389
+"2245",2674,"Cosoleacaque","MEX","Veracruz",97199
+"2246",2675,"San Luis de la Paz","MEX","Guanajuato",96763
+"2247",2677,"Santiago Ixcuintla","MEX","Nayarit",95311
+"2248",2678,"San Felipe","MEX","Guanajuato",95305
+"2249",2680,"Tantoyuca","MEX","Veracruz",94709
+"2250",2681,"Salvatierra","MEX","Guanajuato",94322
+"2251",2683,"Temixco","MEX","Morelos",92686
+"2252",2684,"Matamoros","MEX","Coahuila de Zaragoza",91858
+"2253",2686,"El Fuerte","MEX","Sinaloa",89556
+"2254",2687,"Tierra Blanca","MEX","Veracruz",89143
+"2255",2688,"Weno","FSM","Chuuk",22000
+"2256",2689,"Palikir","FSM","Pohnpei",8600
+"2257",2690,"Chisinau","MDA","Chisinau",719900
+"2258",2691,"Tiraspol","MDA","Dnjestria",194300
+"2259",2692,"Balti","MDA","Balti",153400
+"2260",2696,"Ulan Bator","MNG","Ulaanbaatar",773700
+"2261",2697,"Plymouth","MSR","Plymouth",2000
+"2262",2698,"Maputo","MOZ","Maputo",1018938
+"2263",2699,"Matola","MOZ","Maputo",424662
+"2264",2700,"Beira","MOZ","Sofala",397368
+"2265",2701,"Nampula","MOZ","Nampula",303346
+"2266",2702,"Chimoio","MOZ","Manica",171056
+"2267",2706,"Tete","MOZ","Tete",101984
+"2268",2707,"Xai-Xai","MOZ","Gaza",99442
+"2269",2709,"Maxixe","MOZ","Inhambane",93985
+"2270",2710,"Rangoon (Yangon)","MMR","Rangoon [Yangon]",3361700
+"2271",2711,"Mandalay","MMR","Mandalay",885300
+"2272",2712,"Moulmein (Mawlamyine)","MMR","Mon",307900
+"2273",2713,"Pegu (Bago)","MMR","Pegu [Bago]",190900
+"2274",2714,"Bassein (Pathein)","MMR","Irrawaddy [Ayeyarwad",183900
+"2275",2715,"Monywa","MMR","Sagaing",138600
+"2276",2716,"Sittwe (Akyab)","MMR","Rakhine",137600
+"2277",2717,"Taunggyi (Taunggye)","MMR","Shan",131500
+"2278",2718,"Meikhtila","MMR","Mandalay",129700
+"2279",2719,"Mergui (Myeik)","MMR","Tenasserim [Tanintha",122700
+"2280",2720,"Lashio (Lasho)","MMR","Shan",107600
+"2281",2721,"Prome (Pyay)","MMR","Pegu [Bago]",105700
+"2282",2722,"Henzada (Hinthada)","MMR","Irrawaddy [Ayeyarwad",104700
+"2283",2723,"Myingyan","MMR","Mandalay",103600
+"2284",2724,"Tavoy (Dawei)","MMR","Tenasserim [Tanintha",96800
+"2285",2725,"Pagakku (Pakokku)","MMR","Magwe [Magway]",94800
+"2286",2726,"Windhoek","NAM","Khomas",169000
+"2287",2729,"Kathmandu","NPL","Central",591835
+"2288",2730,"Biratnagar","NPL","Eastern",157764
+"2289",2731,"Pokhara","NPL","Western",146318
+"2290",2732,"Lalitapur","NPL","Central",145847
+"2291",2733,"Birgunj","NPL","Central",90639
+"2292",2734,"Managua","NIC","Managua",959000
+"2293",2736,"Chinandega","NIC","Chinandega",97387
+"2294",2737,"Masaya","NIC","Masaya",88971
+"2295",2738,"Niamey","NER","Niamey",420000
+"2296",2739,"Zinder","NER","Zinder",120892
+"2297",2740,"Maradi","NER","Maradi",112965
+"2298",2741,"Lagos","NGA","Lagos",1518000
+"2299",2742,"Ibadan","NGA","Oyo & Osun",1432000
+"2300",2743,"Ogbomosho","NGA","Oyo & Osun",730000
+"2301",2744,"Kano","NGA","Kano & Jigawa",674100
+"2302",2745,"Oshogbo","NGA","Oyo & Osun",476800
+"2303",2746,"Ilorin","NGA","Kwara & Kogi",475800
+"2304",2747,"Abeokuta","NGA","Ogun",427400
+"2305",2748,"Port Harcourt","NGA","Rivers & Bayelsa",410000
+"2306",2749,"Zaria","NGA","Kaduna",379200
+"2307",2750,"Ilesha","NGA","Oyo & Osun",378400
+"2308",2751,"Onitsha","NGA","Anambra & Enugu & Eb",371900
+"2309",2752,"Iwo","NGA","Oyo & Osun",362000
+"2310",2753,"Ado-Ekiti","NGA","Ondo & Ekiti",359400
+"2311",2754,"Abuja","NGA","Federal Capital Dist",350100
+"2312",2755,"Kaduna","NGA","Kaduna",342200
+"2313",2756,"Mushin","NGA","Lagos",333200
+"2314",2757,"Maiduguri","NGA","Borno & Yobe",320000
+"2315",2758,"Enugu","NGA","Anambra & Enugu & Eb",316100
+"2316",2759,"Ede","NGA","Oyo & Osun",307100
+"2317",2760,"Aba","NGA","Imo & Abia",298900
+"2318",2761,"Ife","NGA","Oyo & Osun",296800
+"2319",2762,"Ila","NGA","Oyo & Osun",264000
+"2320",2763,"Oyo","NGA","Oyo & Osun",256400
+"2321",2764,"Ikerre","NGA","Ondo & Ekiti",244600
+"2322",2765,"Benin City","NGA","Edo & Delta",229400
+"2323",2766,"Iseyin","NGA","Oyo & Osun",217300
+"2324",2767,"Katsina","NGA","Katsina",206500
+"2325",2768,"Jos","NGA","Plateau & Nassarawa",206300
+"2326",2769,"Sokoto","NGA","Sokoto & Kebbi & Zam",204900
+"2327",2770,"Ilobu","NGA","Oyo & Osun",199000
+"2328",2771,"Offa","NGA","Kwara & Kogi",197200
+"2329",2772,"Ikorodu","NGA","Lagos",184900
+"2330",2773,"Ilawe-Ekiti","NGA","Ondo & Ekiti",184500
+"2331",2774,"Owo","NGA","Ondo & Ekiti",183500
+"2332",2775,"Ikirun","NGA","Oyo & Osun",181400
+"2333",2776,"Shaki","NGA","Oyo & Osun",174500
+"2334",2777,"Calabar","NGA","Cross River",174400
+"2335",2778,"Ondo","NGA","Ondo & Ekiti",173600
+"2336",2779,"Akure","NGA","Ondo & Ekiti",162300
+"2337",2780,"Gusau","NGA","Sokoto & Kebbi & Zam",158000
+"2338",2781,"Ijebu-Ode","NGA","Ogun",156400
+"2339",2782,"Effon-Alaiye","NGA","Oyo & Osun",153100
+"2340",2783,"Kumo","NGA","Bauchi & Gombe",148000
+"2341",2784,"Shomolu","NGA","Lagos",147700
+"2342",2785,"Oka-Akoko","NGA","Ondo & Ekiti",142900
+"2343",2786,"Ikare","NGA","Ondo & Ekiti",140800
+"2344",2787,"Sapele","NGA","Edo & Delta",139200
+"2345",2788,"Deba Habe","NGA","Bauchi & Gombe",138600
+"2346",2789,"Minna","NGA","Niger",136900
+"2347",2790,"Warri","NGA","Edo & Delta",126100
+"2348",2791,"Bida","NGA","Niger",125500
+"2349",2792,"Ikire","NGA","Oyo & Osun",123300
+"2350",2793,"Makurdi","NGA","Benue",123100
+"2351",2794,"Lafia","NGA","Plateau & Nassarawa",122500
+"2352",2795,"Inisa","NGA","Oyo & Osun",119800
+"2353",2796,"Shagamu","NGA","Ogun",117200
+"2354",2797,"Awka","NGA","Anambra & Enugu & Eb",111200
+"2355",2798,"Gombe","NGA","Bauchi & Gombe",107800
+"2356",2799,"Igboho","NGA","Oyo & Osun",106800
+"2357",2800,"Ejigbo","NGA","Oyo & Osun",105900
+"2358",2801,"Agege","NGA","Lagos",105000
+"2359",2802,"Ise-Ekiti","NGA","Ondo & Ekiti",103400
+"2360",2803,"Ugep","NGA","Cross River",102600
+"2361",2804,"Epe","NGA","Lagos",101000
+"2362",2807,"Oslo","NOR","Oslo",508726
+"2363",2808,"Bergen","NOR","Hordaland",230948
+"2364",2810,"Stavanger","NOR","Rogaland",108848
+"2365",2812,"Abidjan","CIV","Abidjan",2500000
+"2366",2814,"Yamoussoukro","CIV","Yamoussoukro",130000
+"2367",2815,"Daloa","CIV","Daloa",121842
+"2368",2816,"Korhogo","CIV","Korhogo",109445
+"2369",2817,"al-Sib","OMN","Masqat",155000
+"2370",2818,"Salala","OMN","Zufar",131813
+"2371",2819,"Bawshar","OMN","Masqat",107500
+"2372",2820,"Suhar","OMN","al-Batina",90814
+"2373",2821,"Masqat","OMN","Masqat",51969
+"2374",2822,"Karachi","PAK","Sindh",9269265
+"2375",2823,"Lahore","PAK","Punjab",5063499
+"2376",2824,"Faisalabad","PAK","Punjab",1977246
+"2377",2825,"Rawalpindi","PAK","Punjab",1406214
+"2378",2826,"Multan","PAK","Punjab",1182441
+"2379",2827,"Hyderabad","PAK","Sindh",1151274
+"2380",2828,"Gujranwala","PAK","Punjab",1124749
+"2381",2829,"Peshawar","PAK","Nothwest Border Prov",988005
+"2382",2830,"Quetta","PAK","Baluchistan",560307
+"2383",2831,"Islamabad","PAK","Islamabad",524500
+"2384",2832,"Sargodha","PAK","Punjab",455360
+"2385",2833,"Sialkot","PAK","Punjab",417597
+"2386",2834,"Bahawalpur","PAK","Punjab",403408
+"2387",2835,"Sukkur","PAK","Sindh",329176
+"2388",2836,"Jhang","PAK","Punjab",292214
+"2389",2837,"Sheikhupura","PAK","Punjab",271875
+"2390",2838,"Larkana","PAK","Sindh",270366
+"2391",2839,"Gujrat","PAK","Punjab",250121
+"2392",2840,"Mardan","PAK","Nothwest Border Prov",244511
+"2393",2841,"Kasur","PAK","Punjab",241649
+"2394",2842,"Rahim Yar Khan","PAK","Punjab",228479
+"2395",2843,"Sahiwal","PAK","Punjab",207388
+"2396",2844,"Okara","PAK","Punjab",200901
+"2397",2845,"Wah","PAK","Punjab",198400
+"2398",2846,"Dera Ghazi Khan","PAK","Punjab",188100
+"2399",2847,"Mirpur Khas","PAK","Sind",184500
+"2400",2848,"Nawabshah","PAK","Sind",183100
+"2401",2849,"Mingora","PAK","Nothwest Border Prov",174500
+"2402",2850,"Chiniot","PAK","Punjab",169300
+"2403",2851,"Kamoke","PAK","Punjab",151000
+"2404",2852,"Mandi Burewala","PAK","Punjab",149900
+"2405",2853,"Jhelum","PAK","Punjab",145800
+"2406",2854,"Sadiqabad","PAK","Punjab",141500
+"2407",2855,"Jacobabad","PAK","Sind",137700
+"2408",2856,"Shikarpur","PAK","Sind",133300
+"2409",2857,"Khanewal","PAK","Punjab",133000
+"2410",2858,"Hafizabad","PAK","Punjab",130200
+"2411",2859,"Kohat","PAK","Nothwest Border Prov",125300
+"2412",2860,"Muzaffargarh","PAK","Punjab",121600
+"2413",2861,"Khanpur","PAK","Punjab",117800
+"2414",2862,"Gojra","PAK","Punjab",115000
+"2415",2863,"Bahawalnagar","PAK","Punjab",109600
+"2416",2864,"Muridke","PAK","Punjab",108600
+"2417",2865,"Pak Pattan","PAK","Punjab",107800
+"2418",2866,"Abottabad","PAK","Nothwest Border Prov",106000
+"2419",2867,"Tando Adam","PAK","Sind",103400
+"2420",2868,"Jaranwala","PAK","Punjab",103300
+"2421",2869,"Khairpur","PAK","Sind",102200
+"2422",2870,"Chishtian Mandi","PAK","Punjab",101700
+"2423",2871,"Daska","PAK","Punjab",101500
+"2424",2872,"Dadu","PAK","Sind",98600
+"2425",2873,"Mandi Bahauddin","PAK","Punjab",97300
+"2426",2874,"Ahmadpur East","PAK","Punjab",96000
+"2427",2875,"Kamalia","PAK","Punjab",95300
+"2428",2876,"Khuzdar","PAK","Baluchistan",93100
+"2429",2877,"Vihari","PAK","Punjab",92300
+"2430",2878,"Dera Ismail Khan","PAK","Nothwest Border Prov",90400
+"2431",2879,"Wazirabad","PAK","Punjab",89700
+"2432",2880,"Nowshera","PAK","Nothwest Border Prov",89400
+"2433",2881,"Koror","PLW","Koror",12000
+"2434",2883,"San Miguelito","PAN","San Miguelito",315382
+"2435",2884,"Port Moresby","PNG","National Capital Dis",247000
+"2436",2887,"San Lorenzo","PRY","Central",133395
+"2437",2889,"Fernando de la Mora","PRY","Central",95287
+"2438",2890,"Lima","PER","Lima",6464693
+"2439",2891,"Arequipa","PER","Arequipa",762000
+"2440",2892,"Trujillo","PER","La Libertad",652000
+"2441",2893,"Chiclayo","PER","Lambayeque",517000
+"2442",2894,"Callao","PER","Callao",424294
+"2443",2895,"Iquitos","PER","Loreto",367000
+"2444",2896,"Chimbote","PER","Ancash",336000
+"2445",2898,"Piura","PER","Piura",325000
+"2446",2899,"Cusco","PER","Cusco",291000
+"2447",2900,"Pucallpa","PER","Ucayali",220866
+"2448",2901,"Tacna","PER","Tacna",215683
+"2449",2902,"Ica","PER","Ica",194820
+"2450",2903,"Sullana","PER","Piura",147361
+"2451",2904,"Juliaca","PER","Puno",142576
+"2452",2906,"Ayacucho","PER","Ayacucho",118960
+"2453",2907,"Chincha Alta","PER","Ica",110016
+"2454",2908,"Cajamarca","PER","Cajamarca",108009
+"2455",2909,"Puno","PER","Puno",101578
+"2456",2910,"Ventanilla","PER","Callao",101056
+"2457",2911,"Castilla","PER","Piura",90642
+"2458",2913,"Garapan","MNP","Saipan",9200
+"2459",2914,"Lisboa","PRT","Lisboa",563210
+"2460",2915,"Porto","PRT","Porto",273060
+"2461",2916,"Amadora","PRT","Lisboa",122106
+"2462",2918,"Braga","PRT","Braga",90535
+"2463",2919,"San Juan","PRI","San Juan",434374
+"2464",2921,"Ponce","PRI","Ponce",186475
+"2465",2922,"Carolina","PRI","Carolina",186076
+"2466",2923,"Caguas","PRI","Caguas",140502
+"2467",2924,"Arecibo","PRI","Arecibo",100131
+"2468",2925,"Guaynabo","PRI","Guaynabo",100053
+"2469",2927,"Toa Baja","PRI","Toa Baja",94085
+"2470",2928,"Warszawa","POL","Mazowieckie",1615369
+"2471",2931,"Wroclaw","POL","Dolnoslaskie",636765
+"2472",2932,"Poznan","POL","Wielkopolskie",576899
+"2473",2933,"Gdansk","POL","Pomorskie",458988
+"2474",2934,"Szczecin","POL","Zachodnio-Pomorskie",416988
+"2475",2935,"Bydgoszcz","POL","Kujawsko-Pomorskie",386855
+"2476",2936,"Lublin","POL","Lubelskie",356251
+"2477",2937,"Katowice","POL","Slaskie",345934
+"2478",2938,"Bialystok","POL","Podlaskie",283937
+"2479",2939,"Czestochowa","POL","Slaskie",257812
+"2480",2940,"Gdynia","POL","Pomorskie",253521
+"2481",2941,"Sosnowiec","POL","Slaskie",244102
+"2482",2942,"Radom","POL","Mazowieckie",232262
+"2483",2943,"Kielce","POL","Swietokrzyskie",212383
+"2484",2944,"Gliwice","POL","Slaskie",212164
+"2485",2945,"Torun","POL","Kujawsko-Pomorskie",206158
+"2486",2946,"Bytom","POL","Slaskie",205560
+"2487",2947,"Zabrze","POL","Slaskie",200177
+"2488",2948,"Bielsko-Biala","POL","Slaskie",180307
+"2489",2949,"Olsztyn","POL","Warminsko-Mazurskie",170904
+"2490",2951,"Ruda Slaska","POL","Slaskie",159665
+"2491",2952,"Rybnik","POL","Slaskie",144582
+"2492",2953,"Walbrzych","POL","Dolnoslaskie",136923
+"2493",2954,"Tychy","POL","Slaskie",133178
+"2494",2956,"Plock","POL","Mazowieckie",131011
+"2495",2957,"Elblag","POL","Warminsko-Mazurskie",129782
+"2496",2958,"Opole","POL","Opolskie",129553
+"2497",2960,"Wloclawek","POL","Kujawsko-Pomorskie",123373
+"2498",2964,"Koszalin","POL","Zachodnio-Pomorskie",112375
+"2499",2965,"Legnica","POL","Dolnoslaskie",109335
+"2500",2966,"Kalisz","POL","Wielkopolskie",106641
+"2501",2967,"Grudziadz","POL","Kujawsko-Pomorskie",102434
+"2502",2968,"Slupsk","POL","Pomorskie",102370
+"2503",2970,"Jaworzno","POL","Slaskie",97929
+"2504",2972,"Malabo","GNQ","Bioko",40000
+"2505",2973,"Doha","QAT","Doha",355000
+"2506",2979,"Nantes","FRA","Pays de la Loire",270251
+"2507",2980,"Strasbourg","FRA","Alsace",264115
+"2508",2981,"Montpellier","FRA","Languedoc-Roussillon",225392
+"2509",2982,"Bordeaux","FRA","Aquitaine",215363
+"2510",2983,"Rennes","FRA","Haute-Normandie",206229
+"2511",2984,"Le Havre","FRA","Champagne-Ardenne",190905
+"2512",2985,"Reims","FRA","Nord-Pas-de-Calais",187206
+"2513",2990,"Angers","FRA","Pays de la Loire",151279
+"2514",2991,"Dijon","FRA","Bourgogne",149867
+"2515",2992,"Brest","FRA","Bretagne",149634
+"2516",2993,"Le Mans","FRA","Pays de la Loire",146105
+"2517",2994,"Clermont-Ferrand","FRA","Auvergne",137140
+"2518",2995,"Amiens","FRA","Picardie",135501
+"2519",2997,"Limoges","FRA","Limousin",133968
+"2520",2999,"Tours","FRA","Centre",132820
+"2521",3001,"Metz","FRA","Lorraine",123776
+"2522",3003,"Caen","FRA","Basse-Normandie",113987
+"2523",3005,"Mulhouse","FRA","Alsace",110359
+"2524",3006,"Rouen","FRA","Haute-Normandie",106592
+"2525",3008,"Perpignan","FRA","Languedoc-Roussillon",105115
+"2526",3009,"Nancy","FRA","Lorraine",103605
+"2527",3010,"Roubaix","FRA","Nord-Pas-de-Calais",96984
+"2528",3012,"Tourcoing","FRA","Nord-Pas-de-Calais",93540
+"2529",3014,"Cayenne","GUF","Cayenne",50699
+"2530",3015,"Faaa","PYF","Tahiti",25888
+"2531",3016,"Papeete","PYF","Tahiti",25553
+"2532",3017,"Saint-Denis","REU","Saint-Denis",131480
+"2533",3018,"Bucuresti","ROM","Bukarest",2016131
+"2534",3019,"Iasi","ROM","Iasi",348070
+"2535",3020,"Constanta","ROM","Constanta",342264
+"2536",3021,"Cluj-Napoca","ROM","Cluj",332498
+"2537",3022,"Galati","ROM","Galati",330276
+"2538",3023,"Timisoara","ROM","Timis",324304
+"2539",3024,"Brasov","ROM","Brasov",314225
+"2540",3025,"Craiova","ROM","Dolj",313530
+"2541",3026,"Ploiesti","ROM","Prahova",251348
+"2542",3027,"Braila","ROM","Braila",233756
+"2543",3028,"Oradea","ROM","Bihor",222239
+"2544",3029,"Bacau","ROM","Bacau",209235
+"2545",3030,"Pitesti","ROM","Arges",187170
+"2546",3031,"Arad","ROM","Arad",184408
+"2547",3032,"Sibiu","ROM","Sibiu",169611
+"2548",3034,"Baia Mare","ROM","Maramures",149665
+"2549",3035,"Buzau","ROM","Buzau",148372
+"2550",3036,"Satu Mare","ROM","Satu Mare",130059
+"2551",3037,"Botosani","ROM","Botosani",128730
+"2552",3038,"Piatra Neamt","ROM","Neamt",125070
+"2553",3040,"Suceava","ROM","Suceava",118549
+"2554",3041,"Drobeta-Turnu Severin","ROM","Mehedinti",117865
+"2555",3043,"Focsani","ROM","Vrancea",98979
+"2556",3045,"Tulcea","ROM","Tulcea",96278
+"2557",3046,"Resita","ROM","Caras-Severin",93976
+"2558",3047,"Kigali","RWA","Kigali",286000
+"2559",3048,"Stockholm","SWE","Lisboa",750348
+"2560",3063,"Jamestown","SHN","Saint Helena",1500
+"2561",3064,"Basseterre","KNA","St George Basseterre",11600
+"2562",3065,"Castries","LCA","Castries",2301
+"2563",3066,"Kingstown","VCT","St George",17100
+"2564",3067,"Saint-Pierre","SPM","Saint-Pierre",5808
+"2565",3068,"Berlin","DEU","Berliini",3386667
+"2566",3069,"Hamburg","DEU","Hamburg",1704735
+"2567",3072,"Frankfurt am Main","DEU","Hessen",643821
+"2568",3073,"Essen","DEU","Nordrhein-Westfalen",599515
+"2569",3074,"Dortmund","DEU","Nordrhein-Westfalen",590213
+"2570",3077,"Bremen","DEU","Bremen",540330
+"2571",3078,"Duisburg","DEU","Nordrhein-Westfalen",519793
+"2572",3079,"Hannover","DEU","Niedersachsen",514718
+"2573",3080,"Leipzig","DEU","Saksi",489532
+"2574",3082,"Dresden","DEU","Saksi",476668
+"2575",3083,"Bochum","DEU","Nordrhein-Westfalen",392830
+"2576",3084,"Wuppertal","DEU","Nordrhein-Westfalen",368993
+"2577",3085,"Bielefeld","DEU","Nordrhein-Westfalen",321125
+"2578",3087,"Bonn","DEU","Nordrhein-Westfalen",301048
+"2579",3088,"Gelsenkirchen","DEU","Nordrhein-Westfalen",281979
+"2580",3090,"Wiesbaden","DEU","Hessen",268716
+"2581",3093,"Chemnitz","DEU","Saksi",263222
+"2582",3094,"Augsburg","DEU","Baijeri",254867
+"2583",3095,"Halle/Saale","DEU","Anhalt Sachsen",254360
+"2584",3096,"Braunschweig","DEU","Niedersachsen",246322
+"2585",3097,"Aachen","DEU","Nordrhein-Westfalen",243825
+"2586",3098,"Krefeld","DEU","Nordrhein-Westfalen",241769
+"2587",3099,"Magdeburg","DEU","Anhalt Sachsen",235073
+"2588",3100,"Kiel","DEU","Schleswig-Holstein",233795
+"2589",3101,"Oberhausen","DEU","Nordrhein-Westfalen",222349
+"2590",3103,"Hagen","DEU","Nordrhein-Westfalen",205201
+"2591",3104,"Rostock","DEU","Mecklenburg-Vorpomme",203279
+"2592",3107,"Kassel","DEU","Hessen",196211
+"2593",3109,"Mainz","DEU","Rheinland-Pfalz",183134
+"2594",3110,"Hamm","DEU","Nordrhein-Westfalen",181804
+"2595",3111,"Herne","DEU","Nordrhein-Westfalen",175661
+"2596",3113,"Solingen","DEU","Nordrhein-Westfalen",165583
+"2597",3115,"Ludwigshafen am Rhein","DEU","Rheinland-Pfalz",163771
+"2598",3116,"Leverkusen","DEU","Nordrhein-Westfalen",160841
+"2599",3117,"Oldenburg","DEU","Niedersachsen",154125
+"2600",3118,"Neuss","DEU","Nordrhein-Westfalen",149702
+"2601",3120,"Darmstadt","DEU","Hessen",137776
+"2602",3121,"Paderborn","DEU","Nordrhein-Westfalen",137647
+"2603",3122,"Potsdam","DEU","Brandenburg",128983
+"2604",3124,"Regensburg","DEU","Baijeri",125236
+"2605",3125,"Recklinghausen","DEU","Nordrhein-Westfalen",125022
+"2606",3127,"Bremerhaven","DEU","Bremen",122735
+"2607",3128,"Wolfsburg","DEU","Niedersachsen",121954
+"2608",3129,"Bottrop","DEU","Nordrhein-Westfalen",121097
+"2609",3130,"Remscheid","DEU","Nordrhein-Westfalen",120125
+"2610",3133,"Offenbach am Main","DEU","Hessen",116627
+"2611",3135,"Ingolstadt","DEU","Baijeri",114826
+"2612",3137,"Salzgitter","DEU","Niedersachsen",112934
+"2613",3138,"Cottbus","DEU","Brandenburg",110894
+"2614",3141,"Siegen","DEU","Nordrhein-Westfalen",109225
+"2615",3142,"Koblenz","DEU","Rheinland-Pfalz",108003
+"2616",3143,"Moers","DEU","Nordrhein-Westfalen",106837
+"2617",3144,"Bergisch Gladbach","DEU","Nordrhein-Westfalen",106150
+"2618",3145,"Zwickau","DEU","Saksi",104146
+"2619",3146,"Hildesheim","DEU","Niedersachsen",104013
+"2620",3147,"Witten","DEU","Nordrhein-Westfalen",103384
+"2621",3148,"Schwerin","DEU","Mecklenburg-Vorpomme",102878
+"2622",3149,"Erlangen","DEU","Baijeri",100750
+"2623",3150,"Kaiserslautern","DEU","Rheinland-Pfalz",100025
+"2624",3151,"Trier","DEU","Rheinland-Pfalz",99891
+"2625",3153,"Iserlohn","DEU","Nordrhein-Westfalen",99474
+"2626",3155,"Marl","DEU","Nordrhein-Westfalen",93735
+"2627",3158,"Ratingen","DEU","Nordrhein-Westfalen",90951
+"2628",3159,"Velbert","DEU","Nordrhein-Westfalen",89881
+"2629",3161,"Honiara","SLB","Honiara",50100
+"2630",3162,"Lusaka","ZMB","Lusaka",1317000
+"2631",3163,"Ndola","ZMB","Copperbelt",329200
+"2632",3164,"Kitwe","ZMB","Copperbelt",288600
+"2633",3165,"Kabwe","ZMB","Central",154300
+"2634",3166,"Chingola","ZMB","Copperbelt",142400
+"2635",3167,"Mufulira","ZMB","Copperbelt",123900
+"2636",3168,"Luanshya","ZMB","Copperbelt",118100
+"2637",3169,"Apia","WSM","Upolu",35900
+"2638",3170,"Serravalle","SMR","Serravalle/Dogano",4802
+"2639",3171,"San Marino","SMR","San Marino",2294
+"2640",3173,"Riyadh","SAU","Riyadh",3324000
+"2641",3174,"Jedda","SAU","Mekka",2046300
+"2642",3175,"Mekka","SAU","Mekka",965700
+"2643",3176,"Medina","SAU","Medina",608300
+"2644",3177,"al-Dammam","SAU","al-Sharqiya",482300
+"2645",3178,"al-Taif","SAU","Mekka",416100
+"2646",3179,"Tabuk","SAU","Tabuk",292600
+"2647",3180,"Burayda","SAU","al-Qasim",248600
+"2648",3181,"al-Hufuf","SAU","al-Sharqiya",225800
+"2649",3182,"al-Mubarraz","SAU","al-Sharqiya",219100
+"2650",3183,"Khamis Mushayt","SAU","Asir",217900
+"2651",3184,"Hail","SAU","Hail",176800
+"2652",3185,"al-Kharj","SAU","Riad",152100
+"2653",3186,"al-Khubar","SAU","al-Sharqiya",141700
+"2654",3187,"Jubayl","SAU","al-Sharqiya",140800
+"2655",3188,"Hafar al-Batin","SAU","al-Sharqiya",137800
+"2656",3189,"al-Tuqba","SAU","al-Sharqiya",125700
+"2657",3190,"Yanbu","SAU","Medina",119800
+"2658",3191,"Abha","SAU","Asir",112300
+"2659",3193,"al-Qatif","SAU","al-Sharqiya",98900
+"2660",3194,"al-Hawiya","SAU","Mekka",93900
+"2661",3195,"Unayza","SAU","Qasim",91100
+"2662",3196,"Najran","SAU","Najran",91000
+"2663",3197,"Pikine","SEN","Cap-Vert",855287
+"2664",3198,"Dakar","SEN","Cap-Vert",785071
+"2665",3200,"Kaolack","SEN","Kaolack",199000
+"2666",3201,"Ziguinchor","SEN","Ziguinchor",192000
+"2667",3202,"Rufisque","SEN","Cap-Vert",150000
+"2668",3203,"Saint-Louis","SEN","Saint-Louis",132400
+"2669",3205,"Diourbel","SEN","Diourbel",99400
+"2670",3207,"Freetown","SLE","Western",850000
+"2671",3209,"Bratislava","SVK","Bratislava",448292
+"2672",3212,"Ljubljana","SVN","Osrednjeslovenska",270986
+"2673",3213,"Maribor","SVN","Podravska",115532
+"2674",3214,"Mogadishu","SOM","Banaadir",997000
+"2675",3215,"Hargeysa","SOM","Woqooyi Galbeed",90000
+"2676",3216,"Kismaayo","SOM","Jubbada Hoose",90000
+"2677",3217,"Colombo","LKA","Western",645000
+"2678",3218,"Dehiwala","LKA","Western",203000
+"2679",3219,"Moratuwa","LKA","Western",190000
+"2680",3220,"Jaffna","LKA","Northern",149000
+"2681",3221,"Kandy","LKA","Central",140000
+"2682",3222,"Sri Jayawardenepura Kotte","LKA","Western",118000
+"2683",3223,"Negombo","LKA","Western",1e+05
+"2684",3224,"Omdurman","SDN","Khartum",1271403
+"2685",3225,"Khartum","SDN","Khartum",947483
+"2686",3226,"Sharq al-Nil","SDN","Khartum",700887
+"2687",3227,"Port Sudan","SDN","al-Bahr al-Ahmar",308195
+"2688",3228,"Kassala","SDN","Kassala",234622
+"2689",3229,"Obeid","SDN","Kurdufan al-Shamaliy",229425
+"2690",3230,"Nyala","SDN","Darfur al-Janubiya",227183
+"2691",3231,"Wad Madani","SDN","al-Jazira",211362
+"2692",3232,"al-Qadarif","SDN","al-Qadarif",191164
+"2693",3233,"Kusti","SDN","al-Bahr al-Abyad",173599
+"2694",3234,"al-Fashir","SDN","Darfur al-Shamaliya",141884
+"2695",3235,"Juba","SDN","Bahr al-Jabal",114980
+"2696",3236,"Helsinki [Helsingfors]","FIN","Newmaa",555474
+"2697",3237,"Espoo","FIN","Newmaa",213271
+"2698",3238,"Tampere","FIN","Pirkanmaa",195468
+"2699",3239,"Vantaa","FIN","Newmaa",178471
+"2700",3241,"Oulu","FIN","Pohjois-Pohjanmaa",120753
+"2701",3243,"Paramaribo","SUR","Paramaribo",112000
+"2702",3244,"Mbabane","SWZ","Hhohho",61000
+"2703",3246,"Geneve","CHE","Geneve",173500
+"2704",3247,"Basel","CHE","Basel-Stadt",166700
+"2705",3248,"Bern","CHE","Bern",122700
+"2706",3249,"Lausanne","CHE","Vaud",114500
+"2707",3250,"Damascus","SYR","Damascus",1347000
+"2708",3251,"Aleppo","SYR","Aleppo",1261983
+"2709",3252,"Hims","SYR","Hims",507404
+"2710",3253,"Hama","SYR","Hama",343361
+"2711",3254,"Latakia","SYR","Latakia",264563
+"2712",3255,"al-Qamishliya","SYR","al-Hasaka",144286
+"2713",3256,"Dayr al-Zawr","SYR","Dayr al-Zawr",140459
+"2714",3257,"Jaramana","SYR","Damaskos",138469
+"2715",3258,"Duma","SYR","Damaskos",131158
+"2716",3259,"al-Raqqa","SYR","al-Raqqa",108020
+"2717",3260,"Idlib","SYR","Idlib",91081
+"2718",3261,"Dushanbe","TJK","Karotegin",524000
+"2719",3262,"Khujand","TJK","Khujand",161500
+"2720",3263,"Taipei","TWN","Taipei",2641312
+"2721",3264,"Kaohsiung","TWN","Kaohsiung",1475505
+"2722",3265,"Taichung","TWN","Taichung",940589
+"2723",3266,"Tainan","TWN","Tainan",728060
+"2724",3267,"Panchiao","TWN","Taipei",523850
+"2725",3268,"Chungho","TWN","Taipei",392176
+"2726",3269,"Keelung (Chilung)","TWN","Keelung",385201
+"2727",3270,"Sanchung","TWN","Taipei",380084
+"2728",3271,"Hsinchuang","TWN","Taipei",365048
+"2729",3272,"Hsinchu","TWN","Hsinchu",361958
+"2730",3273,"Chungli","TWN","Taoyuan",318649
+"2731",3274,"Fengshan","TWN","Kaohsiung",318562
+"2732",3275,"Taoyuan","TWN","Taoyuan",316438
+"2733",3276,"Chiayi","TWN","Chiayi",265109
+"2734",3277,"Hsintien","TWN","Taipei",263603
+"2735",3278,"Changhwa","TWN","Changhwa",227715
+"2736",3279,"Yungho","TWN","Taipei",227700
+"2737",3280,"Tucheng","TWN","Taipei",224897
+"2738",3281,"Pingtung","TWN","Pingtung",214727
+"2739",3282,"Yungkang","TWN","Tainan",193005
+"2740",3283,"Pingchen","TWN","Taoyuan",188344
+"2741",3284,"Tali","TWN","Taichung",171940
+"2742",3285,"Taiping","TWN","",165524
+"2743",3286,"Pate","TWN","Taoyuan",161700
+"2744",3287,"Fengyuan","TWN","Taichung",161032
+"2745",3288,"Luchou","TWN","Taipei",160516
+"2746",3289,"Hsichuh","TWN","Taipei",154976
+"2747",3290,"Shulin","TWN","Taipei",151260
+"2748",3291,"Yuanlin","TWN","Changhwa",126402
+"2749",3292,"Yangmei","TWN","Taoyuan",126323
+"2750",3293,"Taliao","TWN","",115897
+"2751",3294,"Kueishan","TWN","",112195
+"2752",3295,"Tanshui","TWN","Taipei",111882
+"2753",3296,"Taitung","TWN","Taitung",111039
+"2754",3297,"Hualien","TWN","Hualien",108407
+"2755",3298,"Nantou","TWN","Nantou",104723
+"2756",3299,"Lungtan","TWN","Taipei",103088
+"2757",3301,"Tsaotun","TWN","Nantou",96800
+"2758",3302,"Kangshan","TWN","Kaohsiung",92200
+"2759",3303,"Ilan","TWN","Ilan",92000
+"2760",3304,"Miaoli","TWN","Miaoli",90000
+"2761",3305,"Dar es Salaam","TZA","Dar es Salaam",1747000
+"2762",3306,"Dodoma","TZA","Dodoma",189000
+"2763",3307,"Mwanza","TZA","Mwanza",172300
+"2764",3308,"Zanzibar","TZA","Zanzibar West",157634
+"2765",3309,"Tanga","TZA","Tanga",137400
+"2766",3310,"Mbeya","TZA","Mbeya",130800
+"2767",3311,"Morogoro","TZA","Morogoro",117800
+"2768",3312,"Arusha","TZA","Arusha",102500
+"2769",3313,"Moshi","TZA","Kilimanjaro",96800
+"2770",3314,"Tabora","TZA","Tabora",92800
+"2771",3317,"Odense","DNK","Fyn",183912
+"2772",3318,"Aalborg","DNK","Nordjylland",161161
+"2773",3319,"Frederiksberg","DNK","Frederiksberg",90327
+"2774",3320,"Bangkok","THA","Bangkok",6320174
+"2775",3321,"Nonthaburi","THA","Nonthaburi",292100
+"2776",3322,"Nakhon Ratchasima","THA","Nakhon Ratchasima",181400
+"2777",3323,"Chiang Mai","THA","Chiang Mai",171100
+"2778",3324,"Udon Thani","THA","Udon Thani",158100
+"2779",3325,"Hat Yai","THA","Songkhla",148632
+"2780",3326,"Khon Kaen","THA","Khon Kaen",126500
+"2781",3327,"Pak Kret","THA","Nonthaburi",126055
+"2782",3328,"Nakhon Sawan","THA","Nakhon Sawan",123800
+"2783",3329,"Ubon Ratchathani","THA","Ubon Ratchathani",116300
+"2784",3330,"Songkhla","THA","Songkhla",94900
+"2785",3331,"Nakhon Pathom","THA","Nakhon Pathom",94100
+"2786",3333,"Fakaofo","TKL","Fakaofo",300
+"2787",3335,"Chaguanas","TTO","Caroni",56601
+"2788",3336,"Port-of-Spain","TTO","Port-of-Spain",43396
+"2789",3338,"Moundou","TCD","Logone Occidental",99500
+"2790",3349,"Tunis","TUN","Tunis",690600
+"2791",3350,"Sfax","TUN","Sfax",257800
+"2792",3351,"Ariana","TUN","Ariana",197000
+"2793",3352,"Ettadhamen","TUN","Ariana",178600
+"2794",3353,"Sousse","TUN","Sousse",145900
+"2795",3354,"Kairouan","TUN","Kairouan",113100
+"2796",3355,"Biserta","TUN","Biserta",108900
+"2797",3357,"Istanbul","TUR","Istanbul",8787958
+"2798",3358,"Ankara","TUR","Ankara",3038159
+"2799",3359,"Izmir","TUR","Izmir",2130359
+"2800",3360,"Adana","TUR","Adana",1131198
+"2801",3361,"Bursa","TUR","Bursa",1095842
+"2802",3362,"Gaziantep","TUR","Gaziantep",789056
+"2803",3363,"Konya","TUR","Konya",628364
+"2804",3365,"Antalya","TUR","Antalya",564914
+"2805",3366,"Diyarbakir","TUR","Diyarbakir",479884
+"2806",3367,"Kayseri","TUR","Kayseri",475657
+"2807",3368,"Eskisehir","TUR","Eskisehir",470781
+"2808",3369,"Sanliurfa","TUR","Sanliurfa",405905
+"2809",3370,"Samsun","TUR","Samsun",339871
+"2810",3371,"Malatya","TUR","Malatya",330312
+"2811",3372,"Gebze","TUR","Kocaeli",264170
+"2812",3373,"Denizli","TUR","Denizli",253848
+"2813",3374,"Sivas","TUR","Sivas",246642
+"2814",3375,"Erzurum","TUR","Erzurum",246535
+"2815",3376,"Tarsus","TUR","Adana",246206
+"2816",3377,"Kahramanmaras","TUR","Kahramanmaras",245772
+"2817",3379,"Van","TUR","Van",219319
+"2818",3380,"Sultanbeyli","TUR","Istanbul",211068
+"2819",3381,"Izmit (Kocaeli)","TUR","Kocaeli",210068
+"2820",3382,"Manisa","TUR","Manisa",207148
+"2821",3383,"Batman","TUR","Batman",203793
+"2822",3384,"Balikesir","TUR","Balikesir",196382
+"2823",3385,"Sakarya (Adapazari)","TUR","Sakarya",190641
+"2824",3386,"Iskenderun","TUR","Hatay",153022
+"2825",3387,"Osmaniye","TUR","Osmaniye",146003
+"2826",3390,"Hatay (Antakya)","TUR","Hatay",143982
+"2827",3391,"Kirikkale","TUR","Kirikkale",142044
+"2828",3392,"Adiyaman","TUR","Adiyaman",141529
+"2829",3393,"Trabzon","TUR","Trabzon",138234
+"2830",3394,"Ordu","TUR","Ordu",133642
+"2831",3395,"Aydin","TUR","Aydin",128651
+"2832",3396,"Usak","TUR","Usak",128162
+"2833",3397,"Edirne","TUR","Edirne",123383
+"2834",3399,"Isparta","TUR","Isparta",121911
+"2835",3401,"Kilis","TUR","Kilis",118245
+"2836",3402,"Alanya","TUR","Antalya",117300
+"2837",3403,"Kiziltepe","TUR","Mardin",112000
+"2838",3404,"Zonguldak","TUR","Zonguldak",111542
+"2839",3405,"Siirt","TUR","Siirt",107100
+"2840",3406,"Viransehir","TUR","Sanliurfa",106400
+"2841",3407,"Tekirdag","TUR","Tekirdag",106077
+"2842",3408,"Karaman","TUR","Karaman",104200
+"2843",3409,"Afyon","TUR","Afyon",103984
+"2844",3410,"Aksaray","TUR","Aksaray",102681
+"2845",3411,"Ceyhan","TUR","Adana",102412
+"2846",3412,"Erzincan","TUR","Erzincan",102304
+"2847",3413,"Bismil","TUR","Diyarbakir",101400
+"2848",3414,"Nazilli","TUR","Aydin",99900
+"2849",3415,"Tokat","TUR","Tokat",99500
+"2850",3416,"Kars","TUR","Kars",93000
+"2851",3418,"Bandirma","TUR","Balikesir",90200
+"2852",3419,"Ashgabat","TKM","Ahal",540600
+"2853",3421,"Dashhowuz","TKM","Dashhowuz",141800
+"2854",3422,"Mary","TKM","Mary",101000
+"2855",3423,"Cockburn Town","TCA","Grand Turk",4800
+"2856",3424,"Funafuti","TUV","Funafuti",4600
+"2857",3425,"Kampala","UGA","Central",890800
+"2858",3426,"Kyiv","UKR","Kiova",2624000
+"2859",3427,"Harkova [Harkiv]","UKR","Harkova",1500000
+"2860",3428,"Dnipropetrovsk","UKR","Dnipropetrovsk",1103000
+"2861",3429,"Donetsk","UKR","Donetsk",1050000
+"2862",3430,"Odesa","UKR","Odesa",1011000
+"2863",3431,"Zaporizzja","UKR","Zaporizzja",848000
+"2864",3432,"Lviv","UKR","Lviv",788000
+"2865",3433,"Kryvyi Rig","UKR","Dnipropetrovsk",703000
+"2866",3434,"Mykolajiv","UKR","Mykolajiv",508000
+"2867",3435,"Mariupol","UKR","Donetsk",490000
+"2868",3436,"Lugansk","UKR","Lugansk",469000
+"2869",3437,"Vinnytsja","UKR","Vinnytsja",391000
+"2870",3438,"Makijivka","UKR","Donetsk",384000
+"2871",3439,"Herson","UKR","Herson",353000
+"2872",3440,"Sevastopol","UKR","Krim",348000
+"2873",3441,"Simferopol","UKR","Krim",339000
+"2874",3442,"Pultava [Poltava]","UKR","Pultava",313000
+"2875",3445,"Gorlivka","UKR","Donetsk",299000
+"2876",3446,"Zytomyr","UKR","Zytomyr",297000
+"2877",3447,"Sumy","UKR","Sumy",294000
+"2878",3448,"Dniprodzerzynsk","UKR","Dnipropetrovsk",270000
+"2879",3449,"Kirovograd","UKR","Kirovograd",265000
+"2880",3450,"Hmelnytskyi","UKR","Hmelnytskyi",262000
+"2881",3452,"Rivne","UKR","Rivne",245000
+"2882",3454,"Ivano-Frankivsk","UKR","Ivano-Frankivsk",237000
+"2883",3455,"Ternopil","UKR","Ternopil",236000
+"2884",3456,"Lutsk","UKR","Volynia",217000
+"2885",3457,"Bila Tserkva","UKR","Kiova",215000
+"2886",3458,"Kramatorsk","UKR","Donetsk",186000
+"2887",3459,"Melitopol","UKR","Zaporizzja",169000
+"2888",3461,"Nikopol","UKR","Dnipropetrovsk",149000
+"2889",3462,"Berdjansk","UKR","Zaporizzja",130000
+"2890",3463,"Pavlograd","UKR","Dnipropetrovsk",127000
+"2891",3464,"Sjeverodonetsk","UKR","Lugansk",127000
+"2892",3465,"Slovjansk","UKR","Donetsk",127000
+"2893",3466,"Uzgorod","UKR","Taka-Karpatia",127000
+"2894",3469,"Jevpatorija","UKR","Krim",112000
+"2895",3470,"Kamjanets-Podilskyi","UKR","Hmelnytskyi",109000
+"2896",3471,"Jenakijeve","UKR","Donetsk",105000
+"2897",3473,"Stahanov","UKR","Lugansk",101000
+"2898",3474,"Oleksandrija","UKR","Kirovograd",99000
+"2899",3475,"Konotop","UKR","Sumy",96000
+"2900",3476,"Kostjantynivka","UKR","Donetsk",95000
+"2901",3478,"Izmajil","UKR","Odesa",90000
+"2902",3481,"Brovary","UKR","Kiova",89000
+"2903",3483,"Budapest","HUN","Budapest",1811552
+"2904",3492,"Montevideo","URY","Montevideo",1236000
+"2905",3494,"Auckland","NZL","Auckland",381800
+"2906",3495,"Christchurch","NZL","Canterbury",324200
+"2907",3496,"Manukau","NZL","Auckland",281800
+"2908",3497,"North Shore","NZL","Auckland",187700
+"2909",3498,"Waitakere","NZL","Auckland",170600
+"2910",3499,"Wellington","NZL","Wellington",166700
+"2911",3500,"Dunedin","NZL","Dunedin",119600
+"2912",3501,"Hamilton","NZL","Hamilton",117100
+"2913",3502,"Lower Hutt","NZL","Wellington",98100
+"2914",3503,"Toskent","UZB","Toskent Shahri",2117500
+"2915",3504,"Namangan","UZB","Namangan",370500
+"2916",3505,"Samarkand","UZB","Samarkand",361800
+"2917",3506,"Andijon","UZB","Andijon",318600
+"2918",3507,"Buhoro","UZB","Buhoro",237100
+"2919",3508,"Karsi","UZB","Qashqadaryo",194100
+"2920",3509,"Nukus","UZB","Karakalpakistan",194100
+"2921",3511,"Fargona","UZB","Fargona",180500
+"2922",3512,"Circik","UZB","Toskent",146400
+"2923",3513,"Margilon","UZB","Fargona",140800
+"2924",3515,"Angren","UZB","Toskent",128000
+"2925",3516,"Cizah","UZB","Cizah",124800
+"2926",3517,"Navoi","UZB","Navoi",116300
+"2927",3518,"Olmalik","UZB","Toskent",114900
+"2928",3519,"Termiz","UZB","Surkhondaryo",109500
+"2929",3520,"Minsk","BLR","Horad Minsk",1674000
+"2930",3521,"Gomel","BLR","Gomel",475000
+"2931",3522,"Mogiljov","BLR","Mogiljov",356000
+"2932",3523,"Vitebsk","BLR","Vitebsk",340000
+"2933",3524,"Grodno","BLR","Grodno",302000
+"2934",3525,"Brest","BLR","Brest",286000
+"2935",3526,"Bobruisk","BLR","Mogiljov",221000
+"2936",3528,"Borisov","BLR","Minsk",151000
+"2937",3529,"Pinsk","BLR","Brest",130000
+"2938",3531,"Mozyr","BLR","Gomel",110000
+"2939",3532,"Novopolotsk","BLR","Vitebsk",106000
+"2940",3533,"Lida","BLR","Grodno",101000
+"2941",3534,"Soligorsk","BLR","Minsk",101000
+"2942",3536,"Mata-Utu","WLF","Wallis",1137
+"2943",3537,"Port-Vila","VUT","Shefa",33700
+"2944",3539,"Caracas","VEN","Distrito Federal",1975294
+"2945",3541,"Barquisimeto","VEN","Lara",877239
+"2946",3542,"Valencia","VEN","Carabobo",794246
+"2947",3544,"Petare","VEN","Miranda",488868
+"2948",3545,"Maracay","VEN","Aragua",444443
+"2949",3552,"Cabimas","VEN","Zulia",221329
+"2950",3553,"Barinas","VEN","Barinas",217831
+"2951",3554,"Turmero","VEN","Aragua",217499
+"2952",3555,"Baruta","VEN","Miranda",207290
+"2953",3556,"Puerto Cabello","VEN","Carabobo",187722
+"2954",3558,"Los Teques","VEN","Miranda",178784
+"2955",3560,"Guarenas","VEN","Miranda",165889
+"2956",3561,"Acarigua","VEN","Portuguesa",158954
+"2957",3563,"Ciudad Losada","VEN","",134501
+"2958",3564,"Guacara","VEN","Carabobo",131334
+"2959",3565,"Valera","VEN","Trujillo",130281
+"2960",3566,"Guanare","VEN","Portuguesa",125621
+"2961",3568,"Catia La Mar","VEN","Distrito Federal",117012
+"2962",3570,"Guatire","VEN","Miranda",109121
+"2963",3573,"Ciudad Ojeda","VEN","Zulia",99354
+"2964",3574,"Ocumare del Tuy","VEN","Miranda",97168
+"2965",3576,"Araure","VEN","Portuguesa",94269
+"2966",3577,"San Fernando de Apure","VEN","Apure",93809
+"2967",3578,"San Felipe","VEN","Yaracuy",90940
+"2968",3580,"Moscow","RUS","Moscow (City)",8389200
+"2969",3581,"St Petersburg","RUS","Pietari",4694000
+"2970",3582,"Novosibirsk","RUS","Novosibirsk",1398800
+"2971",3583,"Nizni Novgorod","RUS","Nizni Novgorod",1357000
+"2972",3584,"Jekaterinburg","RUS","Sverdlovsk",1266300
+"2973",3585,"Samara","RUS","Samara",1156100
+"2974",3586,"Omsk","RUS","Omsk",1148900
+"2975",3587,"Kazan","RUS","Tatarstan",1101000
+"2976",3590,"Rostov-na-Donu","RUS","Rostov-na-Donu",1012700
+"2977",3591,"Perm","RUS","Perm",1009700
+"2978",3592,"Volgograd","RUS","Volgograd",993400
+"2979",3593,"Voronez","RUS","Voronez",907700
+"2980",3594,"Krasnojarsk","RUS","Krasnojarsk",875500
+"2981",3595,"Saratov","RUS","Saratov",874000
+"2982",3596,"Toljatti","RUS","Samara",722900
+"2983",3597,"Uljanovsk","RUS","Uljanovsk",667400
+"2984",3598,"Izevsk","RUS","Udmurtia",652800
+"2985",3599,"Krasnodar","RUS","Krasnodar",639000
+"2986",3600,"Jaroslavl","RUS","Jaroslavl",616700
+"2987",3601,"Habarovsk","RUS","Habarovsk",609400
+"2988",3602,"Vladivostok","RUS","Primorje",606200
+"2989",3603,"Irkutsk","RUS","Irkutsk",593700
+"2990",3604,"Barnaul","RUS","Altai",580100
+"2991",3605,"Novokuznetsk","RUS","Kemerovo",561600
+"2992",3606,"Penza","RUS","Penza",532200
+"2993",3607,"Rjazan","RUS","Rjazan",529900
+"2994",3608,"Orenburg","RUS","Orenburg",523600
+"2995",3609,"Lipetsk","RUS","Lipetsk",521000
+"2996",3611,"Tula","RUS","Tula",506100
+"2997",3612,"Tjumen","RUS","Tjumen",503400
+"2998",3613,"Kemerovo","RUS","Kemerovo",492700
+"2999",3614,"Astrahan","RUS","Astrahan",486100
+"3000",3615,"Tomsk","RUS","Tomsk",482100
+"3001",3616,"Kirov","RUS","Kirov",466200
+"3002",3617,"Ivanovo","RUS","Ivanovo",459200
+"3003",3619,"Brjansk","RUS","Brjansk",457400
+"3004",3620,"Tver","RUS","Tver",454900
+"3005",3621,"Kursk","RUS","Kursk",443500
+"3006",3623,"Kaliningrad","RUS","Kaliningrad",424400
+"3007",3624,"Nizni Tagil","RUS","Sverdlovsk",390900
+"3008",3625,"Murmansk","RUS","Murmansk",376300
+"3009",3626,"Ulan-Ude","RUS","Burjatia",370400
+"3010",3627,"Kurgan","RUS","Kurgan",364700
+"3011",3628,"Arkangeli","RUS","Arkangeli",361800
+"3012",3630,"Smolensk","RUS","Smolensk",353400
+"3013",3631,"Orjol","RUS","Orjol",344500
+"3014",3632,"Stavropol","RUS","Stavropol",343300
+"3015",3633,"Belgorod","RUS","Belgorod",342000
+"3016",3634,"Kaluga","RUS","Kaluga",339300
+"3017",3635,"Vladimir","RUS","Vladimir",337100
+"3018",3638,"Saransk","RUS","Mordva",314800
+"3019",3639,"Tambov","RUS","Tambov",312000
+"3020",3640,"Vladikavkaz","RUS","North Ossetia-Alania",310100
+"3021",3642,"Vologda","RUS","Vologda",302500
+"3022",3643,"Veliki Novgorod","RUS","Novgorod",299500
+"3023",3644,"Komsomolsk-na-Amure","RUS","Habarovsk",291600
+"3024",3645,"Kostroma","RUS","Kostroma",288100
+"3025",3646,"Volzski","RUS","Volgograd",286900
+"3026",3647,"Taganrog","RUS","Rostov-na-Donu",284400
+"3027",3648,"Petroskoi","RUS","Karjala",282100
+"3028",3649,"Bratsk","RUS","Irkutsk",277600
+"3029",3650,"Dzerzinsk","RUS","Nizni Novgorod",277100
+"3030",3651,"Surgut","RUS","Hanti-Mansia",274900
+"3031",3652,"Orsk","RUS","Orenburg",273900
+"3032",3654,"Angarsk","RUS","Irkutsk",264700
+"3033",3656,"Rybinsk","RUS","Jaroslavl",239600
+"3034",3657,"Prokopjevsk","RUS","Kemerovo",237300
+"3035",3658,"Niznevartovsk","RUS","Hanti-Mansia",233900
+"3036",3660,"Syktyvkar","RUS","Komi",229700
+"3037",3661,"Severodvinsk","RUS","Arkangeli",229300
+"3038",3662,"Bijsk","RUS","Altai",225000
+"3039",3663,"Niznekamsk","RUS","Tatarstan",223400
+"3040",3666,"Staryi Oskol","RUS","Belgorod",213800
+"3041",3667,"Zelenograd","RUS","Moscow (City)",207100
+"3042",3668,"Balakovo","RUS","Saratov",206000
+"3043",3669,"Novorossijsk","RUS","Krasnodar",203300
+"3044",3670,"Pihkova","RUS","Pihkova",201500
+"3045",3672,"Jakutsk","RUS","Saha (Jakutia)",195400
+"3046",3673,"Podolsk","RUS","Moskova",194300
+"3047",3675,"Kamensk-Uralski","RUS","Sverdlovsk",190600
+"3048",3676,"Engels","RUS","Saratov",189000
+"3049",3677,"Syzran","RUS","Samara",186900
+"3050",3680,"Berezniki","RUS","Perm",181900
+"3051",3681,"Juzno-Sahalinsk","RUS","Sahalin",179200
+"3052",3682,"Volgodonsk","RUS","Rostov-na-Donu",178200
+"3053",3683,"Abakan","RUS","Hakassia",169200
+"3054",3684,"Maikop","RUS","Adygea",167300
+"3055",3686,"Armavir","RUS","Krasnodar",164900
+"3056",3687,"Ljubertsy","RUS","Moskova",163900
+"3057",3688,"Rubtsovsk","RUS","Altai",162600
+"3058",3689,"Kovrov","RUS","Vladimir",159900
+"3059",3690,"Nahodka","RUS","Primorje",157700
+"3060",3691,"Ussurijsk","RUS","Primorje",157300
+"3061",3694,"Kolomna","RUS","Moskova",150700
+"3062",3695,"Elektrostal","RUS","Moskova",147000
+"3063",3696,"Murom","RUS","Vladimir",142400
+"3064",3697,"Kolpino","RUS","Pietari",141200
+"3065",3698,"Norilsk","RUS","Krasnojarsk",140800
+"3066",3699,"Almetjevsk","RUS","Tatarstan",140700
+"3067",3700,"Novomoskovsk","RUS","Tula",138100
+"3068",3701,"Dimitrovgrad","RUS","Uljanovsk",137000
+"3069",3702,"Pervouralsk","RUS","Sverdlovsk",136100
+"3070",3703,"Himki","RUS","Moskova",133700
+"3071",3705,"Nevinnomyssk","RUS","Stavropol",132600
+"3072",3706,"Pjatigorsk","RUS","Stavropol",132500
+"3073",3707,"Korolev","RUS","Moskova",132400
+"3074",3708,"Serpuhov","RUS","Moskova",132000
+"3075",3709,"Odintsovo","RUS","Moskova",127400
+"3076",3710,"Orehovo-Zujevo","RUS","Moskova",124900
+"3077",3715,"Magadan","RUS","Magadan",121000
+"3078",3717,"Kislovodsk","RUS","Stavropol",120400
+"3079",3718,"Jelets","RUS","Lipetsk",119400
+"3080",3719,"Seversk","RUS","Tomsk",118600
+"3081",3720,"Noginsk","RUS","Moskova",117200
+"3082",3721,"Velikije Luki","RUS","Pihkova",116300
+"3083",3724,"Leninsk-Kuznetski","RUS","Kemerovo",113800
+"3084",3726,"Sergijev Posad","RUS","Moskova",111100
+"3085",3727,"Arzamas","RUS","Nizni Novgorod",110700
+"3086",3728,"Kiseljovsk","RUS","Kemerovo",110000
+"3087",3729,"Novotroitsk","RUS","Orenburg",109600
+"3088",3730,"Obninsk","RUS","Kaluga",108300
+"3089",3731,"Kansk","RUS","Krasnojarsk",107400
+"3090",3732,"Glazov","RUS","Udmurtia",106300
+"3091",3733,"Solikamsk","RUS","Perm",106000
+"3092",3734,"Sarapul","RUS","Udmurtia",105700
+"3093",3735,"Ust-Ilimsk","RUS","Irkutsk",105200
+"3094",3738,"Usolje-Sibirskoje","RUS","Irkutsk",103500
+"3095",3739,"Elista","RUS","Kalmykia",103300
+"3096",3741,"Votkinsk","RUS","Udmurtia",101700
+"3097",3742,"Kyzyl","RUS","Tyva",101100
+"3098",3743,"Serov","RUS","Sverdlovsk",100400
+"3099",3744,"Zelenodolsk","RUS","Tatarstan",100200
+"3100",3745,"Zeleznodoroznyi","RUS","Moskova",100100
+"3101",3747,"Kuznetsk","RUS","Penza",98200
+"3102",3748,"Uhta","RUS","Komi",98000
+"3103",3749,"Jessentuki","RUS","Stavropol",97900
+"3104",3750,"Tobolsk","RUS","Tjumen",97600
+"3105",3751,"Neftejugansk","RUS","Hanti-Mansia",97400
+"3106",3752,"Bataisk","RUS","Rostov-na-Donu",97300
+"3107",3753,"Nojabrsk","RUS","Yamalin Nenetsia",97300
+"3108",3755,"Zeleznogorsk","RUS","Kursk",96900
+"3109",3756,"Zukovski","RUS","Moskova",96500
+"3110",3757,"Anzero-Sudzensk","RUS","Kemerovo",96100
+"3111",3758,"Bugulma","RUS","Tatarstan",94100
+"3112",3759,"Zeleznogorsk","RUS","Krasnojarsk",94000
+"3113",3760,"Novouralsk","RUS","Sverdlovsk",93300
+"3114",3762,"Vorkuta","RUS","Komi",92600
+"3115",3763,"Derbent","RUS","Dagestan",92300
+"3116",3765,"Krasnogorsk","RUS","Moskova",91000
+"3117",3766,"Klin","RUS","Moskova",90000
+"3118",3768,"Novyi Urengoi","RUS","Yamalin Nenetsia",89800
+"3119",3769,"Ho Chi Minh City","VNM","Ho Chi Minh City",3980000
+"3120",3770,"Hanoi","VNM","Hanoi",1410000
+"3121",3771,"Haiphong","VNM","Haiphong",783133
+"3122",3772,"Da Nang","VNM","Quang Nam-Da Nang",382674
+"3123",3774,"Nha Trang","VNM","Khanh Hoa",221331
+"3124",3775,"Hue","VNM","Thua Thien-Hue",219149
+"3125",3776,"Can Tho","VNM","Can Tho",215587
+"3126",3777,"Cam Pha","VNM","Quang Binh",209086
+"3127",3778,"Nam Dinh","VNM","Nam Ha",171699
+"3128",3779,"Quy Nhon","VNM","Binh Dinh",163385
+"3129",3780,"Vung Tau","VNM","Ba Ria-Vung Tau",145145
+"3130",3781,"Rach Gia","VNM","Kien Giang",141132
+"3131",3782,"Long Xuyen","VNM","An Giang",132681
+"3132",3783,"Thai Nguyen","VNM","Bac Thai",127643
+"3133",3784,"Hong Gai","VNM","Quang Ninh",127484
+"3134",3786,"Cam Ranh","VNM","Khanh Hoa",114041
+"3135",3787,"Vinh","VNM","Nghe An",112455
+"3136",3788,"My Tho","VNM","Tien Giang",108404
+"3137",3789,"Da Lat","VNM","Lam Dong",106409
+"3138",3790,"Buon Ma Thuot","VNM","Dac Lac",97044
+"3139",3791,"Tallinn","EST","Harjumaa",403981
+"3140",3792,"Tartu","EST","Tartumaa",101246
+"3141",3793,"New York","USA","New York",8008278
+"3142",3794,"Los Angeles","USA","California",3694820
+"3143",3795,"Chicago","USA","Illinois",2896016
+"3144",3796,"Houston","USA","Texas",1953631
+"3145",3797,"Philadelphia","USA","Pennsylvania",1517550
+"3146",3798,"Phoenix","USA","Arizona",1321045
+"3147",3799,"San Diego","USA","California",1223400
+"3148",3800,"Dallas","USA","Texas",1188580
+"3149",3801,"San Antonio","USA","Texas",1144646
+"3150",3802,"Detroit","USA","Michigan",951270
+"3151",3803,"San Jose","USA","California",894943
+"3152",3804,"Indianapolis","USA","Indiana",791926
+"3153",3805,"San Francisco","USA","California",776733
+"3154",3806,"Jacksonville","USA","Florida",735167
+"3155",3807,"Columbus","USA","Ohio",711470
+"3156",3808,"Austin","USA","Texas",656562
+"3157",3809,"Baltimore","USA","Maryland",651154
+"3158",3810,"Memphis","USA","Tennessee",650100
+"3159",3811,"Milwaukee","USA","Wisconsin",596974
+"3160",3812,"Boston","USA","Massachusetts",589141
+"3161",3813,"Washington","USA","District of Columbia",572059
+"3162",3814,"Nashville-Davidson","USA","Tennessee",569891
+"3163",3815,"El Paso","USA","Texas",563662
+"3164",3816,"Seattle","USA","Washington",563374
+"3165",3817,"Denver","USA","Colorado",554636
+"3166",3818,"Charlotte","USA","North Carolina",540828
+"3167",3819,"Fort Worth","USA","Texas",534694
+"3168",3820,"Portland","USA","Oregon",529121
+"3169",3821,"Oklahoma City","USA","Oklahoma",506132
+"3170",3822,"Tucson","USA","Arizona",486699
+"3171",3823,"New Orleans","USA","Louisiana",484674
+"3172",3824,"Las Vegas","USA","Nevada",478434
+"3173",3825,"Cleveland","USA","Ohio",478403
+"3174",3826,"Long Beach","USA","California",461522
+"3175",3827,"Albuquerque","USA","New Mexico",448607
+"3176",3828,"Kansas City","USA","Missouri",441545
+"3177",3829,"Fresno","USA","California",427652
+"3178",3830,"Virginia Beach","USA","Virginia",425257
+"3179",3831,"Atlanta","USA","Georgia",416474
+"3180",3832,"Sacramento","USA","California",407018
+"3181",3833,"Oakland","USA","California",399484
+"3182",3834,"Mesa","USA","Arizona",396375
+"3183",3835,"Tulsa","USA","Oklahoma",393049
+"3184",3836,"Omaha","USA","Nebraska",390007
+"3185",3837,"Minneapolis","USA","Minnesota",382618
+"3186",3838,"Honolulu","USA","Hawaii",371657
+"3187",3839,"Miami","USA","Florida",362470
+"3188",3840,"Colorado Springs","USA","Colorado",360890
+"3189",3841,"Saint Louis","USA","Missouri",348189
+"3190",3842,"Wichita","USA","Kansas",344284
+"3191",3843,"Santa Ana","USA","California",337977
+"3192",3844,"Pittsburgh","USA","Pennsylvania",334563
+"3193",3845,"Arlington","USA","Texas",332969
+"3194",3846,"Cincinnati","USA","Ohio",331285
+"3195",3847,"Anaheim","USA","California",328014
+"3196",3848,"Toledo","USA","Ohio",313619
+"3197",3849,"Tampa","USA","Florida",303447
+"3198",3850,"Buffalo","USA","New York",292648
+"3199",3851,"Saint Paul","USA","Minnesota",287151
+"3200",3852,"Corpus Christi","USA","Texas",277454
+"3201",3853,"Aurora","USA","Colorado",276393
+"3202",3854,"Raleigh","USA","North Carolina",276093
+"3203",3855,"Newark","USA","New Jersey",273546
+"3204",3856,"Lexington-Fayette","USA","Kentucky",260512
+"3205",3857,"Anchorage","USA","Alaska",260283
+"3206",3858,"Louisville","USA","Kentucky",256231
+"3207",3859,"Riverside","USA","California",255166
+"3208",3860,"Saint Petersburg","USA","Florida",248232
+"3209",3861,"Bakersfield","USA","California",247057
+"3210",3862,"Stockton","USA","California",243771
+"3211",3863,"Birmingham","USA","Alabama",242820
+"3212",3864,"Jersey City","USA","New Jersey",240055
+"3213",3865,"Norfolk","USA","Virginia",234403
+"3214",3866,"Baton Rouge","USA","Louisiana",227818
+"3215",3867,"Hialeah","USA","Florida",226419
+"3216",3868,"Lincoln","USA","Nebraska",225581
+"3217",3869,"Greensboro","USA","North Carolina",223891
+"3218",3870,"Plano","USA","Texas",222030
+"3219",3871,"Rochester","USA","New York",219773
+"3220",3872,"Glendale","USA","Arizona",218812
+"3221",3873,"Akron","USA","Ohio",217074
+"3222",3874,"Garland","USA","Texas",215768
+"3223",3875,"Madison","USA","Wisconsin",208054
+"3224",3876,"Fort Wayne","USA","Indiana",205727
+"3225",3877,"Fremont","USA","California",203413
+"3226",3878,"Scottsdale","USA","Arizona",202705
+"3227",3879,"Montgomery","USA","Alabama",201568
+"3228",3880,"Shreveport","USA","Louisiana",200145
+"3229",3881,"Augusta-Richmond County","USA","Georgia",199775
+"3230",3882,"Lubbock","USA","Texas",199564
+"3231",3883,"Chesapeake","USA","Virginia",199184
+"3232",3884,"Mobile","USA","Alabama",198915
+"3233",3885,"Des Moines","USA","Iowa",198682
+"3234",3886,"Grand Rapids","USA","Michigan",197800
+"3235",3887,"Richmond","USA","Virginia",197790
+"3236",3888,"Yonkers","USA","New York",196086
+"3237",3889,"Spokane","USA","Washington",195629
+"3238",3890,"Glendale","USA","California",194973
+"3239",3891,"Tacoma","USA","Washington",193556
+"3240",3892,"Irving","USA","Texas",191615
+"3241",3893,"Huntington Beach","USA","California",189594
+"3242",3894,"Modesto","USA","California",188856
+"3243",3895,"Durham","USA","North Carolina",187035
+"3244",3896,"Columbus","USA","Georgia",186291
+"3245",3897,"Orlando","USA","Florida",185951
+"3246",3898,"Boise City","USA","Idaho",185787
+"3247",3899,"Winston-Salem","USA","North Carolina",185776
+"3248",3900,"San Bernardino","USA","California",185401
+"3249",3901,"Jackson","USA","Mississippi",184256
+"3250",3902,"Little Rock","USA","Arkansas",183133
+"3251",3903,"Salt Lake City","USA","Utah",181743
+"3252",3904,"Reno","USA","Nevada",180480
+"3253",3905,"Newport News","USA","Virginia",180150
+"3254",3906,"Chandler","USA","Arizona",176581
+"3255",3907,"Laredo","USA","Texas",176576
+"3256",3908,"Henderson","USA","Nevada",175381
+"3257",3909,"Arlington","USA","Virginia",174838
+"3258",3910,"Knoxville","USA","Tennessee",173890
+"3259",3911,"Amarillo","USA","Texas",173627
+"3260",3912,"Providence","USA","Rhode Island",173618
+"3261",3913,"Chula Vista","USA","California",173556
+"3262",3914,"Worcester","USA","Massachusetts",172648
+"3263",3915,"Oxnard","USA","California",170358
+"3264",3916,"Dayton","USA","Ohio",166179
+"3265",3917,"Garden Grove","USA","California",165196
+"3266",3918,"Oceanside","USA","California",161029
+"3267",3919,"Tempe","USA","Arizona",158625
+"3268",3920,"Huntsville","USA","Alabama",158216
+"3269",3921,"Ontario","USA","California",158007
+"3270",3922,"Chattanooga","USA","Tennessee",155554
+"3271",3923,"Fort Lauderdale","USA","Florida",152397
+"3272",3924,"Springfield","USA","Massachusetts",152082
+"3273",3925,"Springfield","USA","Missouri",151580
+"3274",3926,"Santa Clarita","USA","California",151088
+"3275",3927,"Salinas","USA","California",151060
+"3276",3928,"Tallahassee","USA","Florida",150624
+"3277",3929,"Rockford","USA","Illinois",150115
+"3278",3930,"Pomona","USA","California",149473
+"3279",3931,"Metairie","USA","Louisiana",149428
+"3280",3932,"Paterson","USA","New Jersey",149222
+"3281",3933,"Overland Park","USA","Kansas",149080
+"3282",3934,"Santa Rosa","USA","California",147595
+"3283",3935,"Syracuse","USA","New York",147306
+"3284",3936,"Kansas City","USA","Kansas",146866
+"3285",3937,"Hampton","USA","Virginia",146437
+"3286",3938,"Lakewood","USA","Colorado",144126
+"3287",3939,"Vancouver","USA","Washington",143560
+"3288",3940,"Irvine","USA","California",143072
+"3289",3941,"Aurora","USA","Illinois",142990
+"3290",3942,"Moreno Valley","USA","California",142381
+"3291",3943,"Pasadena","USA","California",141674
+"3292",3944,"Hayward","USA","California",140030
+"3293",3945,"Brownsville","USA","Texas",139722
+"3294",3946,"Bridgeport","USA","Connecticut",139529
+"3295",3947,"Hollywood","USA","Florida",139357
+"3296",3948,"Warren","USA","Michigan",138247
+"3297",3949,"Torrance","USA","California",137946
+"3298",3950,"Eugene","USA","Oregon",137893
+"3299",3951,"Pembroke Pines","USA","Florida",137427
+"3300",3952,"Salem","USA","Oregon",136924
+"3301",3953,"Pasadena","USA","Texas",133936
+"3302",3954,"Escondido","USA","California",133559
+"3303",3955,"Sunnyvale","USA","California",131760
+"3304",3956,"Savannah","USA","Georgia",131510
+"3305",3957,"Fontana","USA","California",128929
+"3306",3958,"Orange","USA","California",128821
+"3307",3959,"Naperville","USA","Illinois",128358
+"3308",3960,"Alexandria","USA","Virginia",128283
+"3309",3961,"Rancho Cucamonga","USA","California",127743
+"3310",3962,"Grand Prairie","USA","Texas",127427
+"3311",3963,"East Los Angeles","USA","California",126379
+"3312",3964,"Fullerton","USA","California",126003
+"3313",3965,"Corona","USA","California",124966
+"3314",3966,"Flint","USA","Michigan",124943
+"3315",3967,"Paradise","USA","Nevada",124682
+"3316",3968,"Mesquite","USA","Texas",124523
+"3317",3969,"Sterling Heights","USA","Michigan",124471
+"3318",3970,"Sioux Falls","USA","South Dakota",123975
+"3319",3971,"New Haven","USA","Connecticut",123626
+"3320",3972,"Topeka","USA","Kansas",122377
+"3321",3973,"Concord","USA","California",121780
+"3322",3974,"Evansville","USA","Indiana",121582
+"3323",3975,"Hartford","USA","Connecticut",121578
+"3324",3976,"Fayetteville","USA","North Carolina",121015
+"3325",3977,"Cedar Rapids","USA","Iowa",120758
+"3326",3978,"Elizabeth","USA","New Jersey",120568
+"3327",3979,"Lansing","USA","Michigan",119128
+"3328",3980,"Lancaster","USA","California",118718
+"3329",3981,"Fort Collins","USA","Colorado",118652
+"3330",3982,"Coral Springs","USA","Florida",117549
+"3331",3983,"Stamford","USA","Connecticut",117083
+"3332",3984,"Thousand Oaks","USA","California",117005
+"3333",3985,"Vallejo","USA","California",116760
+"3334",3986,"Palmdale","USA","California",116670
+"3335",3987,"Columbia","USA","South Carolina",116278
+"3336",3988,"El Monte","USA","California",115965
+"3337",3989,"Abilene","USA","Texas",115930
+"3338",3990,"North Las Vegas","USA","Nevada",115488
+"3339",3991,"Ann Arbor","USA","Michigan",114024
+"3340",3992,"Beaumont","USA","Texas",113866
+"3341",3993,"Waco","USA","Texas",113726
+"3342",3994,"Macon","USA","Georgia",113336
+"3343",3995,"Independence","USA","Missouri",113288
+"3344",3996,"Peoria","USA","Illinois",112936
+"3345",3997,"Inglewood","USA","California",112580
+"3346",3998,"Springfield","USA","Illinois",111454
+"3347",3999,"Simi Valley","USA","California",111351
+"3348",4000,"Lafayette","USA","Louisiana",110257
+"3349",4001,"Gilbert","USA","Arizona",109697
+"3350",4002,"Carrollton","USA","Texas",109576
+"3351",4003,"Bellevue","USA","Washington",109569
+"3352",4004,"West Valley City","USA","Utah",108896
+"3353",4005,"Clarksville","USA","Tennessee",108787
+"3354",4006,"Costa Mesa","USA","California",108724
+"3355",4007,"Peoria","USA","Arizona",108364
+"3356",4008,"South Bend","USA","Indiana",107789
+"3357",4009,"Downey","USA","California",107323
+"3358",4010,"Waterbury","USA","Connecticut",107271
+"3359",4011,"Manchester","USA","New Hampshire",107006
+"3360",4012,"Allentown","USA","Pennsylvania",106632
+"3361",4013,"McAllen","USA","Texas",106414
+"3362",4014,"Joliet","USA","Illinois",106221
+"3363",4015,"Lowell","USA","Massachusetts",105167
+"3364",4016,"Provo","USA","Utah",105166
+"3365",4017,"West Covina","USA","California",105080
+"3366",4018,"Wichita Falls","USA","Texas",104197
+"3367",4019,"Erie","USA","Pennsylvania",103717
+"3368",4020,"Daly City","USA","California",103621
+"3369",4021,"Citrus Heights","USA","California",103455
+"3370",4022,"Norwalk","USA","California",103298
+"3371",4023,"Gary","USA","Indiana",102746
+"3372",4024,"Berkeley","USA","California",102743
+"3373",4025,"Santa Clara","USA","California",102361
+"3374",4026,"Green Bay","USA","Wisconsin",102313
+"3375",4027,"Cape Coral","USA","Florida",102286
+"3376",4028,"Arvada","USA","Colorado",102153
+"3377",4029,"Pueblo","USA","Colorado",102121
+"3378",4030,"Sandy","USA","Utah",101853
+"3379",4031,"Athens-Clarke County","USA","Georgia",101489
+"3380",4032,"Cambridge","USA","Massachusetts",101355
+"3381",4033,"Westminster","USA","Colorado",100940
+"3382",4034,"San Buenaventura","USA","California",100916
+"3383",4035,"Portsmouth","USA","Virginia",100565
+"3384",4036,"Livonia","USA","Michigan",100545
+"3385",4037,"Burbank","USA","California",100316
+"3386",4038,"Clearwater","USA","Florida",99936
+"3387",4039,"Midland","USA","Texas",98293
+"3388",4040,"Davenport","USA","Iowa",98256
+"3389",4041,"Mission Viejo","USA","California",98049
+"3390",4042,"Miami Beach","USA","Florida",97855
+"3391",4043,"Sunrise Manor","USA","Nevada",95362
+"3392",4044,"New Bedford","USA","Massachusetts",94780
+"3393",4045,"El Cajon","USA","California",94578
+"3394",4046,"Norman","USA","Oklahoma",94193
+"3395",4047,"Richmond","USA","California",94100
+"3396",4048,"Albany","USA","New York",93994
+"3397",4049,"Brockton","USA","Massachusetts",93653
+"3398",4050,"Roanoke","USA","Virginia",93357
+"3399",4051,"Billings","USA","Montana",92988
+"3400",4052,"Compton","USA","California",92864
+"3401",4053,"Gainesville","USA","Florida",92291
+"3402",4054,"Fairfield","USA","California",92256
+"3403",4055,"Arden-Arcade","USA","California",92040
+"3404",4056,"San Mateo","USA","California",91799
+"3405",4057,"Visalia","USA","California",91762
+"3406",4058,"Boulder","USA","Colorado",91238
+"3407",4059,"Cary","USA","North Carolina",91213
+"3408",4060,"Santa Monica","USA","California",91084
+"3409",4061,"Fall River","USA","Massachusetts",90555
+"3410",4062,"Kenosha","USA","Wisconsin",89447
+"3411",4063,"Elgin","USA","Illinois",89408
+"3412",4064,"Odessa","USA","Texas",89293
+"3413",4065,"Carson","USA","California",89089
+"3414",4066,"Charleston","USA","South Carolina",89063
+"3415",4067,"Charlotte Amalie","VIR","St Thomas",13000
+"3416",4068,"Harare","ZWE","Harare",1410000
+"3417",4069,"Bulawayo","ZWE","Bulawayo",621742
+"3418",4070,"Chitungwiza","ZWE","Harare",274912
+"3419",4071,"Mount Darwin","ZWE","Harare",164362
+"3420",4072,"Mutare","ZWE","Manicaland",131367
+"3421",4073,"Gweru","ZWE","Midlands",128037
+"3422",4074,"Gaza","PSE","Gaza",353632
+"3423",4075,"Khan Yunis","PSE","Khan Yunis",123175
+"3424",4076,"Hebron","PSE","Hebron",119401
+"3425",4077,"Jabaliya","PSE","North Gaza",113901
+"3426",4078,"Nablus","PSE","Nablus",100231
+"3427",4079,"Rafah","PSE","Rafah",92020

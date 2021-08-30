@@ -1,0 +1,13 @@
+name: ejemplo5
+title: ejemplo5
+username:
+account: muuky123
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4241304
+bundleId: 4690378
+url: https://muuky123.shinyapps.io/ejemplo5/
+when: 1623120894.25638
+lastSyncTime: 1623120894.25638
+asMultiple: FALSE
+asStatic: FALSE
