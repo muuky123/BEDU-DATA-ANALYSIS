@@ -1,0 +1,214 @@
+num,fecha,proyecto,nombre_cliente,tipo_vivienda,edad,genero,estado_civil,escolaridad,razon_busqueda,algo_que_cambiar,proyectos_visitados_antes_de_compra,dias_buscando_casa,decision_compra
+1,2020-01-15,Capittala,LUIS ANGEL GOMEZ AMEZCUA,casa,29,Masculino,CASADO,Preparatoria,inversion,Que fuera nuestra,ninguno,10,renta
+2,2020-06-01,Capittala,LAURA MARGARITA VAZQUEZ ESPARZA,casa,28,Femenino,CASADO,Secundaria,casa propia,Seguridad de vivir en un coto privado,ninguno,15,Recomendación
+3,2020-01-22,Capittala,BAYRON YEUDIEL SANTOS VAZQUEZ,casa,27,Masculino,CASADO,Primaria,inversion,Seguridad,ninguno,50,plusvalia
+4,2020-01-31,Capittala,JUAN CARLOS SANDOVAL ESPINOSA,casa,40,Masculino,UNION LIBRE,Preparatoria,Seguridad,nada,ninguno,20,seguridad
+5,2020-01-22,Capittala,SOCORRO DIAZ AVALOS,casa,35,Femenino,SOLTERO,Licenciatura,renta,Seguridad,ninguno,30,Amenidades
+6,2020-01-31,Capittala,JORGE LUIS MUÑOZ ROBLES,casa,53,Masculino,VIUDO,Licenciatura,casa propia,La INSEGURIDAD,ninguno,35,servicio
+7,2020-01-27,Capittala,ADRIANA CATALINA QUIÑONES HERNANDEZ,casa,35,Femenino,SOLTERO,Preparatoria,residencia,El entorno,ninguno,55,calidad
+8,2020-01-31,Capittala,GUSTAVO HERRERA ANDRADE,casa,41,Masculino,CASADO,Secundaria,ubicación,La Seguridad,ninguno,55,inversion
+9,2020-01-31,Capittala,YANG LIGANG ,casa,33,Masculino,CASADO,Primaria,Mejorar,Casa oscura,ninguno,96,Precio
+10,2020-06-01,Capittala,JOSE ENRIQUE MARTINEZ SERRANO,depa,54,Masculino,CASADO,Preparatoria,Mejorar,Franccionamiento Cerrado,ninguno,22,servicio
+11,2020-01-20,Capittala,GRUPO CONSTRUCTOR EFECTIVO S.A DE C.V.,lote,31,Masculino,SOLTERO,Licenciatura,renta,La renta y cantidad de habitaciones,ninguno,23,seguridad
+12,2020-01-31,Capittala,RICARDO RUIZ CARDONA,casa,50,Masculino,CASADO,Licenciatura,casa propia,nada,ninguno,25,Mejora
+13,2020-01-02,Capittala,FENG JUNFENG ,casa,34,Masculino,UNION LIBRE,Licenciatura,Seguridad,Entorno,ninguno,30,seguridad
+14,2020-05-02,Capittala,SAMUEL YEFTE GAMIÑO TORRES,casa,30,Masculino,CASADO,Maestria,inversion,el precio mas barato,ninguno,35,tranquilidad
+15,2020-06-02,Capittala,SARAHI SERNA SERNA,casa,32,Femenino,CASADO,Licenciatura,inversion,Seguridad,ninguno,38,Ubicación
+16,2020-02-17,Capittala,EDGAR ALEJANDRO HARO JIMENEZ,casa,37,Masculino,DIVORCIADO,Licenciatura,casa propia,Las recamaras,ninguno,45,Mejora
+17,2020-02-14,Capittala,ELVA ISABEL VASQUEZ LOZADA,casa,43,Femenino,SOLTERO,Licenciatura,inversion,Las recamaras,ninguno,50,respaldo
+18,2020-02-28,Capittala,CLARA MAGDALENA ZUNIGA GARCIA,casa,35,Femenino,CASADO,Licenciatura,Seguridad,nada,ninguno,20,servicio
+19,2020-02-19,Capittala,KARELI PAULINA RODRIGUEZ LUEVANO,casa,34,Femenino,CASADO,Maestria,renta,Tamaño,ninguno,30,ubicación
+20,2020-02-18,Capittala,SERGIO FRANCO MORENO,casa,44,Masculino,CASADO,Maestria,casa propia,nada,ninguno,35,Precio
+21,2020-02-17,Capittala,MONICA RODRIGUEZ MARTIN DEL CAMPO,casa,24,Femenino,CASADO,Licenciatura,residencia,Por el campo de futbol,ninguno,55,inversion
+22,2020-02-20,Capittala,ROBERTO LOPEZ CABALLERO,casa,52,Masculino,CASADO,Doctorado,ubicación,Seguridad,ninguno,55,tranquilidad
+23,2020-02-27,Capittala,GABRIEL HARO JIMENEZ,casa,30,Masculino,UNION LIBRE,Licenciatura,Mejorar,zona,ninguno,96,Amenidades
+24,2020-02-24,Capittala,JOSE ADRIAN CORTES GUTIERREZ,casa,62,Masculino,CASADO,Primaria,Mejorar,La INSEGURIDAD,ninguno,22,ubicación
+25,2020-02-28,Capittala,OSCAR LEONARDO GARAVITO PIÑEROS,casa,37,Masculino,CASADO,Licenciatura,renta,El entorno,ninguno,23,Calidad
+26,2020-07-02,Capittala,PROYECTOS Y CONSTRUCCIONES JG SA DE CV,lote,30,Masculino,SOLTERO,Licenciatura,casa propia,La Seguridad,ninguno,25,Amenidades
+27,2020-07-02,Capittala,PROYECTOS Y CONSTRUCCIONES JG SA DE CV,lote,30,Masculino,SOLTERO,Maestria,Seguridad,Casa oscura,ninguno,30,ubicación
+28,2020-05-03,Capittala,GERARDO GONZALEZ GUZMAN,casa,49,Masculino,SOLTERO,Doctorado,inversion,Franccionamiento Cerrado,ninguno,35,respaldo
+29,2020-12-03,Capittala,TURZ S. de R.L. de C.V.,casa,45,Masculino,CASADO,Licenciatura,Seguridad,Los acabado,ninguno,7,Calidad
+30,2020-04-03,Capittala,ALICIA ARACELI SANCHEZ LUNA,casa,49,Femenino,DIVORCIADO,Licenciatura,Seguridad,nada,ninguno,35,Calidad
+31,2020-03-21,Capittala,SALVADOR DE LUNA GONZALEZ,casa,80,Masculino,CASADO,Licenciatura,Mejorar,nada,ninguno,30,Calidad
+32,2020-03-13,Capittala,ALBA ROCÍO BORJON ROCHA,casa,33,Femenino,SOLTERO,Licenciatura,ubicación,Seguridad,Bosque Paraiso,45,Amenidades
+33,2020-03-22,Capittala,FLOR DE MARIA DIAZ SANTANA MACIAS,casa,35,Femenino,CASADO,Licenciatura,casa propia,Solo busco casa propia,Santa Monica,180,ubicación
+34,2020-03-26,Capittala,MARTHA ALICIA HERNANDEZ BERNAL,casa,45,Femenino,CASADO,Licenciatura,inversion,nada,ninguno,1,respaldo
+35,2020-03-25,Capittala,JAVIER DIAZ RIVERA,casa,37,Masculino,CASADO,Licenciatura,Seguridad,nada,ninguno,10,plusvalia
+36,2020-03-27,Capittala,CHRISTIAN IVAN DIOSDADO IBARRA,casa,32,Masculino,CASADO,Maestria,Mejorar,Seguridad,"Stacia, Reserva Quetzales",7,Calidad
+37,2020-03-27,Capittala,JUANA KORINA RAMIREZ SALAS,casa,28,Femenino,SOLTERO,Licenciatura,matrimonio,ubicación,Colinas de San Patricio,15,Calidad
+38,2020-03-31,Capittala,MARIA GUADALUPE MARTINEZ GUTIERREZ,casa,41,Femenino,SOLTERO,Licenciatura,Mejorar,nada,ninguno,25,Calidad
+39,2020-06-03,Capittala,ALEJANDRO NEGRETE PONCE,depa,60,Masculino,CASADO,Doctorado,matrimonio,nada,ninguno,35,Calidad
+40,2020-03-17,Capittala,EUGENIO CARDONA NAVA,depa,64,Masculino,CASADO,Primaria,inversion,nada,Stacia,1,recomendación
+41,2020-03-27,Capittala,GRETA ILEANA LEON PEREZ,casa,33,Femenino,SOLTERO,Licenciatura,renta,Espacio y mejor vista,ninguno,30,Calidad
+42,2020-03-31,Capittala,ISABEL CRISTINA RUBIO ESPARZA,casa,29,Femenino,CASADO,Licenciatura,residencia,nada,ninguno,25,Calidad
+43,2020-03-31,Capittala,ANA GABRIELA DIAZ AVALOS,casa,33,Femenino,DIVORCIADO,Maestria,casa propia,nada,ninguno,28,recomendación
+44,2020-06-04,Capittala,RENE HERNANDEZ DE LA ROSA,casa,35,Masculino,SOLTERO,Licenciatura,casa propia,nada,ninguno,29,Calidad
+45,2020-06-04,Capittala,ROCIO TORRES VIERA,casa,31,Femenino,CASADO,Licenciatura,residencia,Seguridad,ninguno,1,servicio
+46,2020-04-20,Capittala,JORGE OMAR AVILA RODRIGUEZ,casa,40,Masculino,CASADO,Licenciatura,casa propia,Las recamaras,ninguno,2,plusvalia
+47,2020-04-20,Capittala,JORGE OMAR AVILA RODRIGUEZ,casa,40,Masculino,CASADO,Licenciatura,casa propia,Las recamaras,ninguno,2,plusvalia
+48,2020-04-30,Capittala,YINGHUA LIU CHEN,casa,49,Masculino,CASADO,Secundaria,inversion,nada,ninguno,15,servicio
+49,2020-04-30,Capittala,SONGBIN LIANG,casa,50,Masculino,CASADO,Secundaria,crecimiento familiar,Tamaño,Bosques del Paraiso,15,servicio
+50,2020-04-30,Capittala,CARLOS MAURICIO CAUDILLO RAMOS,casa,27,Masculino,SOLTERO,Licenciatura,casa propia,nada,ninguno,30,ubicación
+51,2020-04-30,Capittala,JINPEI LIU ,casa,23,Masculino,SOLTERO,Preparatoria,casa propia,Por el campo de futbol,Bosque del Paraiso,15,servicio
+52,2020-04-04,Capittala,VERONICA MUÑOZ DE LUNA,depa,41,Femenino,CASADO,Secundaria,casa propia,Seguridad,ninguno,60,ubicación
+53,2020-05-19,Capittala,ALEJANDRO OROPEZA CERVANTES,casa,37,Masculino,CASADO,Primaria,Mejorar,zona,ninguno,60,Calidad
+54,2020-05-28,Capittala,LORENA RAMIREZ VARGAS,casa,37,Femenino,CASADO,Preparatoria,Mejorar,Las areas del jardin,"Bosque del Paraiso, Bosque Sereno, Lunaria",7,Calidad
+55,2020-07-05,Capittala,MARÍA EUGENIA LETICIA MARCOR HERNANDEZ,depa,43,Femenino,CASADO,Licenciatura,inversion,Incrementar,ninguno,60,servicio
+56,2020-06-15,Capittala,JONAS EDUARDO CASTILLO HERNANDEZ,casa,32,Masculino,CASADO,Licenciatura,renta,ubicación,Bosques del Paraiso,60,servicio
+57,2020-06-06,Capittala,JOSE MANUEL LOPEZ AGOSTO,casa,33,Masculino,SOLTERO,Maestria,renta,nada,ninguno,80,ubicación
+58,2020-01-06,Capittala,MARIO DIAZ MARQUEZ,casa,30,Masculino,SOLTERO,Licenciatura,independizarse,ubicación,Muralina y Trento,30,servicio
+59,2020-02-06,Capittala,BEATRIZ SANTOYO ORNELAS,casa,34,Femenino,SOLTERO,Licenciatura,inversion,Entorno,Quetzalas,83,respaldo
+60,2020-03-06,Capittala,JOSE MANUEL RODRIGUEZ DIAZ,casa,64,Masculino,CASADO,Maestria,inversion,nada,ninguno,30,Calidad
+61,2020-06-06,Capittala,JAIME HURTADO DIAZ,casa,32,Masculino,CASADO,Licenciatura,renta,nada,ninguno,85,ubicación
+62,2020-05-06,Capittala,CHRISTIAN ROBERTO MEDELLIN RODRIGUEZ,casa,47,Masculino,CASADO,Licenciatura,inversion,nada,ninguno,2,Amenidades
+63,2020-06-17,Capittala,JOSE LUIS ROMO GUTIERREZ,casa,32,Masculino,UNION LIBRE,Licenciatura,casa propia,Que fuera nuestra,"Reserva Quetzales, La Cartuja",180,servicio
+64,2020-06-26,Capittala,RAFAEL LOPEZ DE LIRA,casa,26,Masculino,UNION LIBRE,Licenciatura,inversion,Seguridad de vivir en un coto privado,"Viña Antigua, Muralia, ",90,servicio
+65,2020-06-20,Capittala,ANABEL POSADA AVILA,casa,60,Femenino,SOLTERO,Doctorado,Seguridad,Seguridad,Ninguno,7,plusvalia
+66,2020-06-17,Capittala,LUIS CARLOS CHAVEZ PACHECO,casa,35,Masculino,SOLTERO,Licenciatura,renta,nada,Cortursa,1,recomendación
+67,2020-06-29,Capittala,JOSE ANTONIO VELAZQUEZ GUARDADO,casa,28,Masculino,UNION LIBRE,Licenciatura,casa propia,Seguridad,Lunaria,180,Calidad
+68,2020-06-26,Capittala,JESUS EDGAR CARRANZA CHAVARRIA,casa,54,Masculino,CASADO,Licenciatura,residencia,La INSEGURIDAD,ninguno,15,ubicación
+69,2020-06-22,Capittala,ALEJANDRO SILVA ZERMEÑO,casa,41,Masculino,CASADO,Licenciatura,ubicación,El entorno,"Staria, Bosques Sereno",45,seguridad
+70,2020-06-26,Capittala,LUIS MASCOTE CAMPOS,casa,30,Masculino,CASADO,Licenciatura,Mejorar,La Seguridad,"Alexa Residencial, Bosque Sereno",15,servicio
+71,2020-06-30,Capittala,ANTONIO GOMEZ ESPINOSA,casa,47,Masculino,CASADO,Licenciatura,Mejorar,Casa oscura,"Trento, Viña Antigua, Bosque Sereno",30,servicio
+72,2020-06-29,Capittala,DAVID ROMERO SEGOVIANO,casa,28,Masculino,CASADO,Maestria,renta,Franccionamiento Cerrado,Santa Monica y Bosques Paraiso,15,ubicación
+73,2020-06-30,Capittala,DANIEL TRISTAN VELARDE,casa,25,Masculino,SOLTERO,Licenciatura,casa propia,La renta y cantidad de habitaciones,Bosque Sereno,60,servicio
+74,2020-06-30,Capittala,JUANA MARIA LOPEZ AGUILAR,casa,45,Femenino,CASADO ,Preparatoria,Seguridad,nada,ninguno,60,Calidad
+75,2020-06-30,Capittala,CALDERON & FUENTES CONSTRUCCIONES SA DE CV,casa,49,Masculino,CASADO,Licenciatura,inversion,Entorno,"Trento, Bosque Sereno",40,plusvalia
+76,2020-01-06,Capittala,JOSE DE JESUS MARTINEZ MARTINEZ,lote,52,Masculino,CASADO,Licenciatura,renta,el precio mas barato,ninguno,90,ubicación
+77,2020-05-06,Capittala,SERGIO ARMANDO QUEZADA ARAUJO,lote,40,Masculino,CASADO,Licenciatura,inversion,nada,ninguno,120,plusvalia
+78,2020-04-06,Capittala,MARIA FERNANDA ROJAS BARONA,depa,28,Femenino,SOLTERO,Licenciatura,inversion,Independizarme,Grupo San Cristobal,7,Calidad
+79,2020-04-06,Capittala,MANUEL EUGENIO BUENROSTRO SESCOSSE,depa,43,Masculino,CASADO,Licenciatura,inversion,nada,ninguno,3,Amenidades
+80,2020-06-30,Capittala,AZUCENA ROSALES ROBLES,depa,36,Femenino,CASADO,Licenciatura,inversion,Para mayor espacio,Ninguno,30,Calidad
+81,2020-06-30,Capittala,GERARDO MACIAS GUEVARA,depa,41,Masculino,CASADO,Preparatoria,ubicación,15,ninguno,15,Amenidades
+82,2020-07-31,Capittala,GUADALUPE CRISTINA RIZO VILLEGAS,depa,47,Femenino,CASADO,Maestria,residencia,Nada,ninguno,2,servicio
+83,2020-07-31,Capittala,MARIO ALEJANDRO SOTO CARRILLO,depa,36,Masculino,SOLTERO,Licenciatura,inversion,inversion,ninguno,7,ubicación
+84,2020-07-31,Capittala,MONICA DELGADO REYES,casa,29,Femenino,SOLTERO,Licenciatura,Mejorar,Espacio,ninguno,30,Calidad
+85,2020-07-21,Capittala,CAROLINA MACIAS PADILLA,depa,76,Femenino,VIUDO,Maestria,ubicación,Clima,ninguno,7,ubicación
+86,2020-07-31,Capittala,ORLANDO PADILLA BORRALLO,casa,42,Masculino,DIVORCIADO,Licenciatura,Mejorar,Area de lavado,ninguno,365,facilidades de pago
+87,2020-07-31,Capittala,LUISA FERNANDA MONTES ORTEGA,depa,31,Femenino,CASADO,Carrera Técnica,inversion,nada,"Alexa, Quetzales",180,Amenidades
+88,2020-07-31,Capittala,YASODARA SOTELO ANAYA,casa,44,Femenino,SOLTERO,Licenciatura,recomendación,Espacio,ninguno,365,Calidad
+89,2020-07-28,Capittala,JIANFAN WU,casa,33,Masculino,UNION LIBRE,Preparatoria,residencia,ubicación,ninguno,1,renta
+90,2020-07-31,Capittala,YINGHUA LIU CHEN,casa,49,Masculino,CASADO,Secundaria,inversion,Ubicación del proyecto,Bosques del Paraiso,15,servicio
+91,2020-07-23,Capittala,RICARDO JAIME HERNANDEZ,casa,64,Masculino,CASADO,Maestria,inversion,espacio recreativo y modalidad de coto,"San Cristobal, Mangatan",5,respaldo
+92,2020-07-31,Capittala,ROSA MARIA MONARES RAMIREZ,casa,65,Femenino,VIUDO,Secundaria,inversion,Ventanales e iluminacion,ninguno,30,ubicación
+93,2020-07-30,Capittala,MAYRA LILEN CAMPOS HERRERA,depa,30,Femenino,CASADO,Licenciatura,inversion,nada,ninguno,30,facilidades de pago
+94,2020-07-24,Capittala,ARCELIA NARVAEZ JUAREZ,depa,30,Femenino,SOLTERO,Licenciatura,casa propia,Areas Verdes,"Viviendas Particulares, Eucalipto, La TRINIDAD, La Rioja, Punta del Cielo",300,servicio
+95,2020-07-23,Capittala,LUIS RONALDO BALTAZAR TRUJILLO,depa,24,Masculino,SOLTERO,Licenciatura,renta,Que fuera nuestra,Stacia,7,ubicación
+96,2020-08-31,Capittala,BERTHA PATRICIA CAZARES VILLA,depa,38,Femenino,CASADO,Maestria,inversion,nada,3,21,respaldo
+97,2020-08-27,Capittala,MARTHA PATRICIA ROMÁN DÍAZ DE LEÓN,casa,46,Femenino,DIVORCIADO,Preparatoria,crecimiento familiar,ubicación,"Aurora, Trentto",1,ubicación
+98,2020-08-31,Capittala,JOSE LUIS MASTACHI JUAREZ,casa,47,Masculino,CASADO,Licenciatura,residencia,Las seguridad y los servicios,ninguno,1,servicio
+99,2020-08-31,Capittala,JON MIQUEL ALVEZ CASTRO,depa,37,Masculino,SOLTERO,Licenciatura,inversion,nada,ninguno,20,ubicación
+100,2020-08-31,Capittala,ERNEST FRIAS MORALES,depa,40,Masculino,SOLTERO,Licenciatura,inversion,nada,ninguno,270,ubicación
+101,2020-08-31,Capittala,CARLOS DANIEL SAUCEDO SERNA,depa,30,Masculino,SOLTERO,Licenciatura,independizarse,nada,Bosque Sereno,2,Calidad
+102,2020-08-31,Capittala,JOSE ANTONIO CARDENAS ESCAMILLA,depa,24,Masculino,SOLTERO,Licenciatura,independizarse,Seguridad,ninguno,90,Calidad
+103,2020-08-29,Capittala,IVAN TORRES CERVANTES,casa,38,Masculino,SOLTERO ,Preparatoria,Mejorar,Porque es fraccionamiento cerrado,Bonaterra,5,Calidad
+104,2020-08-31,Capittala,CARLOS ALBERTO ANDRADE SERAFIN,depa,32,Masculino,SOLTERO,Licenciatura,casa propia,Nada,ninguno,90,Calidad
+105,2020-08-31,Capittala,ADRIAN JESUS LLAMAS CERON,depa,49,Masculino,UNION LIBRE,Licenciatura,Mejorar,Espacio,ninguno,15,servicio
+106,2020-08-15,Capittala,JUAN DAVID BLANCO VALDERRAMA,casa,36,Masculino,CASADO,Licenciatura,renta,nada,Bosques del Paraiso,15,facilidades de pago
+107,2020-08-31,Capittala,MARIA ISABEL ALFEREZ VAZQUEZ,casa,50,Femenino,SOLTERO,Licenciatura,ubicación,Seguridad,ninguno,365,seguridad
+108,2020-08-29,Capittala,IRIS VIVIANA AVALOS POSADA,casa,25,Femenino,SOLTERO,Licenciatura,Seguridad,Seguridad,ninguno,2,recomendación
+109,2020-12-08,Capittala,SILVIA GABRIELA TAVAREZ CONTRERAS,depa,29,Femenino,SOLTERO,Maestria,inversion,Amenidades,"Porta Vitta, Bosques Paraiso, Alexa",30,servicio
+110,2020-08-31,Capittala,ORLANDO PADILLA BORRALLO,depa,42,Masculino,DIVORCIADO,Licenciatura,inversion,nada,ninguno,180,Calidad
+111,2020-08-31,Capittala,GERARDO MACIAS GUEVARA,casa,42,Masculino,CASADO,Preparatoria,ubicación,15,ninguno,25,facilidades de pago
+112,2020-09-30,Capittala,MONICA ALFEREZ VAZQUEZ,casa,47,Femenino,UNION LIBRE,Secundaria,casa propia,nada,Santa Monica,7,seguridad
+113,2020-09-30,Capittala,DANIEL GONZALEZ TAPIA,casa,36,Masculino,CASADO,Licenciatura,ubicación,nada,ninguno,30,facilidades de pago
+114,2020-09-30,Capittala,DANIEL GONZALEZ TAPIA,casa,36,Masculino,CASADO,Licenciatura,casa propia,nada,ninguno,51,seguridad
+115,2020-09-09,Capittala,OMAR DAVILA PEREZ,casa,37,Masculino,CASADO,Licenciatura,ubicación,zona,Propietarios independientes,270,Amenidades
+116,2020-09-09,Capittala,GUILLERMO GOMEZ TAPIA,casa,44,Masculino,CASADO,Maestria,renta,Servicios de Internet y puestos en la calle,"Reserva Quetzales, Bosques del Paraiso, Stacia",30,Amenidades
+117,2020-09-30,Capittala,FRANCISCO LOPEZ RANGEL,casa,44,Masculino,CASADO,Licenciatura,Mejorar,Entorno,"Trento, Lunaria",90,seguridad
+118,2020-09-24,Capittala,ADRIANA DE FATIMA FLORES OBREGON,depa,33,Femenino,CASADO,Licenciatura,inversion,Nada,Alcazar,90,servicio
+119,2020-09-30,Capittala,GRACIELA VALDEZ BARRAGAN,casa,72,Femenino,VIUDO,Maestria,residencia,La Seguridad,Maganta y Marsellana,15,Calidad
+120,2020-09-30,Capittala,ANA ISABEL ROMO PADILLA,casa,30,Femenino,SOLTERO,Licenciatura,residencia,nada,ninguno,36,facilidades de pago
+121,2020-09-24,Capittala,GABRIELA MONTSERRAT PINEDO DOMINGUEZ,depa,30,Femenino,SOLTERO,Licenciatura,independizarse,nada,"Porta Vitta, Bosques Paraiso",300,seguridad
+122,2020-09-21,Capittala,MARIO IGNACIO GALLEGOS RODRIGUEZ,casa,29,Masculino,SOLTERO,Licenciatura,matrimonio,Mas espacio,Stacia,180,ubicación
+123,2020-09-30,Capittala,MONICA NAYELI MUNDO LOPEZ,casa,43,Femenino,CASADO,Preparatoria,recomendación,Mas limpieza y seguridad en la colonia,Bosques del Paraiso,120,servicio
+124,2020-09-30,Capittala,FELICITAS SALINAS MARTINEZ,depa,53,Femenino,DIVORCIADO,Maestria,inversion,Comercio,ninguno,7,Calidad
+125,2020-09-25,Capittala,ROBERTO CISNEROS HERNANDEZ,casa,42,Masculino,CASADO,Licenciatura,casa propia,nada,Santa Monica,365,Calidad
+126,2020-09-30,Capittala,OLIMPIA MARISOL TAPIA,casa,52,Femenino,CASADO,Licenciatura,casa propia,Tener una vivienda mas aplia,ninguno,30,Calidad
+127,2020-12-09,Capittala,CARMEN LUCIA SUSTAITA FIGUEROA,casa,50,Femenino,SOLTERO,Licenciatura,residencia,nada,ninguno,35,Mejora
+128,2020-12-09,Capittala,ALICIA ADRIANA PORTILLA MARTINEZ,casa,36,Femenino,CASADO,Posgrado,Mejorar,Tamaño del Terreno,ninguno,25,Calidad
+129,2020-05-09,Capittala,MARINA ROMAN DIAZ DE LEON,casa,49,Femenino,DIVORCIADO,Maestria,ubicación,Seguridad,ninguno,21,facilidades de pago
+130,2020-04-09,Capittala,DANIEL CAMPOS BARBA,lote,67,Masculino,VIUDO,Licenciatura,inversion,nada,ninguno,26,seguridad
+131,2020-10-09,Capittala,ALMA GUADALUPE OLMEDO CARRILLO,depa,33,Femenino,UNION LIBRE,Licenciatura,inversion,Entorno,Ninguno,30,servicio
+132,2020-10-23,Capittala,DAVID MISSAEL MACIEL MORONES,casa,45,Masculino,CASADO,Maestria,inversion,nada,ninguno,23,facilidades de pago
+133,2020-10-13,Capittala,JOSEFINA PONCE ESPINO,casa,35,Femenino,CASADO,Licenciatura,inversion,nada,ninguno,24,seguridad
+134,2020-10-16,Capittala,JOSE LUIS MASTACHI JUAREZ,casa,47,Masculino,CASADO,Licenciatura,residencia,La seguridad y los servicios,ninguno,1,Servicio
+135,2020-10-22,Capittala,ROLANDO ROQUE UVARIO,casa,56,Masculino,UNION LIBRE,Maestria,Mejorar,mas espacios,muchos,180,Mejora
+136,2020-10-31,Capittala,JESUS MARTIN TAPIA CASADO,casa,33,Masculino,SOLTERO,Licenciatura,casa propia,la distribucion de los espacios,"Desierto de Los Leones, Lucerna",7,distribucion
+137,2020-10-21,Capittala,RAUL PEDRAZA HERNANDEZ,depa,65,Masculino,CASADO,Licenciatura,inversion,nada,ninguno,29,Mejora
+138,2020-10-22,Capittala,SALOMON HERNANDEZ GALVAN,depa,60,Masculino,CASADO,Licenciatura,inversion,nada,"Stacia, Hacienda San Marcos",30,ubicación
+139,2020-10-29,Capittala,CARLOS ALEJANDRO TORRES QUIÑONES,depa,45,Masculino,CASADO,Maestria,inversion,nada,Colinas de San Patricio,15,Servicio
+140,2020-10-11,Capittala,JUAN DAVID BLANCO VALDERRAMA,casa,36,Masculino,CASADO,Licenciatura,inversion,nada,ninguno,60,Mejora
+141,2020-12-11,Capittala,SARAY DAVILA GUERRERO,casa,35,Femenino,CASADO,Licenciatura,casa propia,areas comunes,Sendero Quetzales,30,Recomendación
+142,2020-09-11,Capittala,ABRAHAM CHRISTIAN CERVANTES AGUILAR,casa,36,Masculino,CASADO,Maestria,inversion,Nada,"Lucerna, Quetzales",30,servicio
+143,2020-11-21,Capittala,JOSE GUILLERMO MACORRA MARTINEZ,casa,48,Masculino,CASADO,Licenciatura,casa propia,Seguridad,ninguno,28,Servicio
+144,2020-11-24,Capittala,BERTHA LILIA GARCIA DELGADO,casa,32,Femenino,CASADO,Preparatoria,inversion,Todo,Lucerna,7,Mejora
+145,2020-11-30,Capittala,MA DEL ROCIO RUVALCABA SOTELO,casa,56,Femenino,CASADO,Licenciatura,inversion,nada,ninguno,24,Mejora
+146,2020-11-25,Capittala,HUGO ALEJANDRO ESPARZA PADILLA,casa,33,Masculino,DIVORCIADO,Licenciatura,casa propia,Entorno social,"Ambrosia, Manjata",60,Servicio
+147,2020-11-30,Capittala,IVAN YANNICK AVILA MENDOZA,casa,36,Masculino,SOLTERO,Licenciatura,casa propia,La Seguridad,ninguno,3,ubicación
+148,2020-11-24,Capittala,ERNESTO REYES RODRIGUEZ,Lote,46,Masculino,CASADO,Preparatoria,inversion,nada,ninguno,1,Amenidades
+149,2020-11-24,Capittala,ERNESTO. REYES RODRIGUEZ,Lote,46,Masculino,CASADO,Preparatoria,inversion,nada,ninguno,1,recomendación
+150,2020-11-11,Capittala,OLGA LIDIA VILLEGAS MORA,depa,38,Femenino,SOLTERO,Maestria,inversion,Nada,Quetzales,1,Calidad
+151,2020-11-25,Capittala,KARLA PAULINA QUESADA GONZALEZ,depa,28,Femenino,SOLTERO,Maestria,casa propia,tener casa club,Punta del cielo,180,Calidad
+152,2020-11-30,Capittala,JULIO CESAR TORRES VALLADARES,depa,31,Masculino,SOLTERO,Posgrado,inversion,Nada,Ninguno,1,servicio
+153,2020-04-12,Capittala,IGNACIO ANTONIO CARRANZA LOPEZ,casa,55,Masculino,SOLTERO,Licenciatura,inversion,nada,ninguno,25,servicio
+154,2020-03-12,Capittala,YASODARA SOTELO ANAYA,casa,43,Femenino,SOLTERO,Licenciatura,mayor amplitud,nada,ninguno,365,Amenidades
+155,2020-04-12,Capittala,JOCELYN SALAISES CHAIREZ,casa,30,Femenino,SOLTERO,Licenciatura,casa propia,El servicio del agua muy escaza y deterioros de equipo,"Magnata, Stacia",20,recomendación
+156,2020-07-12,Capittala,BERNARDO LEÓN GONZALEZ,casa,50,Masculino,VIUDO,Licenciatura,renta,Nada,"Estacia, Bosques, Alcazar",20,Calidad
+157,2020-12-31,Capittala,MEZTLI ANAHI VILLALOBOS RODRIGUEZ,depa,33,Femenino,SOLTERO,Licenciatura,independizarse,Nada,Stacia,30,servicio
+158,2020-07-12,Capittala,MAGDA KARINA FRAUSTO SANCHEZ,depa,30,Femenino,SOLTERO,Licenciatura,independizarse,Residencial San Gerardo,ninguno,7,Mejora
+159,2020-08-12,Capittala,ZOILA MARIA GUERRERO GARCIA,depa,68,Femenino,SOLTERO,Preparatoria,residencia,los lugares de esparcimiento y descanso,"Stacia, Las Garzas, casa particulares",60,tranquilidad
+160,2020-12-31,Capittala,SAMUEL YEFTE GAMIÑO TORRES,depa,30,Masculino,CASADO,Licenciatura,residencia,Nada,Bosques el Paraiso,90,calidad
+161,2021-01-16,Capittala,JAIME LOPEZ VELOZ,casa,29,Masculino,SOLTERO,Licenciatura,independizarse,Seguridad,"Moratia, Los Leones",180,Servicio
+162,2021-12-01,Capittala,GABRIELA LEON GUERRA,casa,31,Femenino,SOLTERO,Licenciatura,matrimonio,Instalaciones,"Caranday, Reserva de Santa Monica",90,Servicio
+163,2021-11-01,Capittala,JUAN PABLO FLORES GONZALEZ,casa,32,Masculino,SOLTERO,Maestria,inversion,Nada,Bosques del Paraiso,2,Amenidades
+164,2021-08-01,Capittala,MARTHA ADRIANA FERNANDEZ SALAS,casa,32,Femenino,SOLTERO,Licenciatura,independizarse,Nada,Quetzales y Los Naranjos,180,servicio
+165,2021-01-20,Capittala,ALBA ROCIO BORJON ROCHA,casa,33,Femenino,SOLTERO,Licenciatura,Seguridad,"las areas verdes, seguridad",casas particulares en venta,90,Amenidades
+166,2021-12-01,Capittala,VICTORIA MUÑOZ PADILLA,casa,58,Femenino,CASADO,Licenciatura,inversion,Ubicación,Stacia,30,ubicación
+167,2021-01-13,Capittala,LAURA GISELA RAMOS MATEOS,casa,43,Femenino,VIUDO,Licenciatura,renta,"Jardin, areas comunces, coto cerrado",Acacia,7,Seguridad
+168,2021-01-22,Capittala,YADIRA VIANNEY ROJAS PELAYO,casa,31,Femenino,SOLTERO,Licenciatura,residencia,"agua, pavimentacion",Rancho Santa Monica,7,calidad
+169,2021-01-19,Capittala,JUAN CARLOS MACIAS ACEVES,casa,60,Masculino,CASADO,Licenciatura,residencia,Recámaras más amplias,ninguno,1,seguridad
+170,2021-01-25,Capittala,JUAN ABRAHAM GONZALEZ MEDINA,casa,23,Masculino,sOLTERO,Carrera Técnica,casa propia,"la seguridad, comodidad y limpieza",Hacienda Verde,60,Amenidades
+171,2021-01-22,Capittala,GUSTAVO EDUARDO CASTANEDO VILLEGAS,casa,30,Masculino,SOLTERO,Licenciatura,renta,Ubicación y amenidades,Santa Monica,60,ubicación
+172,2021-01-15,Capittala,IVAN SALAS .,depa,39,Masculino,CASADO,Licenciatura,inversion,Entorno,ninguno,30,servicio
+173,2021-01-13,Capittala,LUIS SALVADOR ALCALA DURAN,depa,33,Masculino,SOLTERO,Maestria,inversion,Amenidades,Lucerna,365,servicio
+174,2021-01-25,Capittala,GABRIELA MARTINEZ MARQUEZ,depa,55,Femenino,SOLTERO,Licenciatura,inversion,inversion,ninguno,60,inversion
+175,2021-02-02,Capittala,LUZ ADRIANA COLIN GARCIA,casa,39,Femenino,SOLTERO,Licenciatura,inversion,La vigilancia,"Castello, Sendero Quetzales",7,servicio
+176,2021-10-02,Capittala,SONIA RODRIGUEZ TORRES/Florentino Hernandez,casa,37,Masculino,CASADO,Licenciatura,Mejorar,Espacio,"Pozo Bravo, Provitta, Cielo",730,servicio
+177,2021-05-02,Capittala,JOSE MANUEL TRUJILLO ESPARZA,casa,28,Masculino,SOLTERO,Licenciatura,matrimonio,Seguridad,"Bosques del Paraiso, Quetzales, Castello",15,Calidad
+178,2021-10-02,Capittala,ALEJANDRA GARCIA GARAY,casa,46,Femenino,SOLTERO,Maestria,casa propia,Nada,Haciendas del Cabana,2,Calidad del proyeco
+179,2021-05-02,Capittala,LARA GABRIELA FRANCO JUAREZ,casa,36,Femenino,SOLTERO,Doctorado,inversion,Nada,"Mangata Residencial, particulares",7,Precio
+180,2021-04-02,Capittala,ROGELIO RAMIREZ OCHOA,casa,53,Masculino,CASADO,Licenciatura,residencia,"Nada, todo bien",3,1,Amenidades
+181,2021-08-02,Capittala,JOSE DE JESUS ESQUIVEL REYES,casa,53,Masculino,VIUDO,Licenciatura,inversion,Nada,ninguno,15,Mejora
+182,2021-10-02,Capittala,RONALDO BALTAZAR TRUJILLO LUIS,casa,24,Masculino,SOLTERO,Licenciatura,renta,El espacio,Ninguno,180,ubicación
+183,2021-02-17,Capittala,ALICIA ADRIANA PORTILLA MARTINEZ,casa,36,Femenino,UNION LIBRE,Posgrado,casa propia,Seguridad,Ninguna,1,Mejora
+184,2021-02-15,Capittala,GUILLERMO ARTURO MORALES HERMOSILLO,depa,53,Masculino,CASADO,Maestria,inversion,Ubicación,ninguno,1,Precio
+185,2021-02-16,Capittala,JUAN CARLOS MACIAS ACEVES,depa,60,Masculino,CASADO,Licenciatura,residencia,Amplitud,ninguno,1,cambio de residencia
+186,2021-02-15,Capittala,RICARDO OCAMPO CID DEL PRADO,depa,47,Masculino,CASADO,Licenciatura,inversion,Ninguna,ninguno,30,inversion
+187,2021-08-03,Capittala,FABIAN SAID ALTAMIRANO ROLDAN,depa,42,Masculino,CASADO,Maestria,inversion,Amenidades,Bovedas,365,Precio
+188,2021-02-24,Capittala,ELSA ELIZABETH SALCE CISNEROS,depa,46,Femenino,SOLTERO,Maestria,inversion,donde vivo estoy bien,Manjata Residencial,30,ubicación
+189,2021-08-03,Capittala,ALICIA ADRIANA PORTILLA MARTINEZ,Lote,36,Femenino,UNION LIBRE,Posgrado,inversion,Seguridad,Ninguna,1,inversion
+190,2021-08-03,Capittala,JESUS ANTONIO ROSADO CRUZ,casa,32,Masculino,UNION LIBRE,Primaria,Seguridad,Todo,Ninguno,7,renta
+191,2021-05-03,Capittala,SARAY DAVILA GUERRERO,casa,35,Femenino,CASADO,Licenciatura,casa propia,areas comunes,Sendero Quetzales,30,Recomendación
+192,2021-09-03,Capittala,JUAN HECTOR MENDEZ PUENTE,casa,50,Masculino,SOLTERO,Licenciatura,Seguridad,Amplitud,ninguno,15,inversion
+193,2021-08-03,Capittala,MARIA GUADALUPE VAZQUEZ DAVILA,depa,50,Femenino,CASADO,Preparatoria,casa propia,Nada,Ninguno,30,seguridad
+194,2021-03-03,Capittala,JUAN CARLOS ALMAGUER AGUILAR,depa,26,Masculino,SOLTERO,Licenciatura,inversion,Seguridad,Reserva Quetzales,30,Amenidades
+195,2021-08-03,Capittala,CARLOS GERARDO MENDEZ DE LA CRUZ,depa,35,Masculino,CASADO,Licenciatura,inversion,Nada,Ninguno,365,servicio
+196,2021-08-03,Capittala,EDUARDO PADILLA LOPERENA,depa,47,Masculino,CASADO,Licenciatura,Mejorar,Seguridad,Bosque Sereno,15,calidad
+197,2021-08-03,Capittala,MA. DE JESUS AGUILAR LOPEZ,depa,41,Femenino,SOLTERO,Maestria,inversion,ninguno,ninguno,60,inversion
+198,2021-03-16,Capittala,JAIME SAMUEL HERNANDEZ CRUZ,depa,32,Masculino,SOLTERO,Licenciatura,inversion,los acabados,Ninguno,1,Precio
+199,2021-11-03,Capittala,MARIA DE LOS ANGELES REVELES HERNANDEZ,casa,45,Femenino,CASADO,Licenciatura,casa propia,"el diseño de ventilacion, la ubicación",Bosques del Paraiso,180,servicio
+200,2021-09-03,Capittala,JORGE ALBERTO ROCHA RODRIGUEZ,casa,33,Masculino,CASADO,Preparatoria,Mejorar,Privacidad y seguridad,Stacia,120,seguridad
+201,2021-12-03,Capittala,ALDO ADAN ACERO LOPEZ,casa,50,Masculino,SOLTERO,Licenciatura,casa propia,Los parques,"Arroyo San Emilion, Bosques del Paraiso",180,Mejora
+202,2021-03-18,Capittala,ANDY FABIAN SALAS HERNANDEZ,casa,37,Masculino,CASADO,Licenciatura,Seguridad,Privacidad y seguridad,"Pancho, Santa Monica",15,seguridad
+203,2021-08-03,Capittala,ALMA DELIA VALTIERRA SALINAS,casa,42,Femenino,DIVORCIADO,Carrera Técnica,casa propia,El espacio,"Caranday, Santa Monica",2,tranquilidad
+204,2021-08-03,Capittala,ANGEL ABRAHAM SALAZAR,casa,33,Masculino,UNION LIBRE,Licenciatura,casa propia,radicar en Aguascalientes,ninguno,7,Ubicación
+205,2021-08-03,Capittala,CALLETH RUIZ ORNELAS,casa,29,Masculino,CASADO,Licenciatura,casa propia,"Seguridad, espacios","Bosques Sereno, Stacia",15,Mejora
+206,2021-08-03,Capittala,JESUS ALEJANDRO MONTOYA PIÑA,depa,46,Masculino,CASADO,Maestria,inversion,Regimen de condominios mas estricto,"Castello, Quetzales, Abadia, casas particulares",60,respaldo
+207,2021-08-03,Capittala,JUAN CARLOS ROMAN RODRIGUEZ,depa,58,Masculino,DIVORCIADO,Doctorado,inversion,Ubicación geografica,Sendero Quetzales,180,servicio
+208,2021-08-03,Capittala,KARLA MARIA RODRIGUEZ DELGADO,depa,40,Femenino,CASADO,Licenciatura,casa propia,Mas privacidad y seguridad,Rancho Santa Monica,7,ubicación
+209,2021-08-03,Capittala,KARLA STEPHANIE CASTRO JIMENEZ,depa,28,Femenino,SOLTERO,Licenciatura,casa propia,"Jardin, Cocina","Canteli, Desierto de los Leones",270,Precio
+210,2021-02-24,Capittala,LILIA GARCIA GONZALEZ,depa,45,Femenino,CASADO,Licenciatura,inversion,Espacios,"Vista Magna, San Gerardo",60,inversion
+211,2021-08-03,Capittala,PAUL FERNANDO ORTEGA VIRAMONTES,Lote,40,Masculino,CASADO,Carrera Técnica,Mejorar,Espacios,ninguno,7,tranquilidad
+212,2021-02-24,Capittala,PERLA MARIA DEL ALTO ESPINOZA,casa,29,Femenino,CASADO,Licenciatura,renta,que contara con 3 recamaras,San Gerardo,365,Amenidades
+213,2021-08-03,Capittala,RAUL FERNANDO GUERRERO CASTAÑEDA,casa,33,Masculino,SOLTERO,Doctorado,inversion,Ubicación,Cartagena,365,ubicación
